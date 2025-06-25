@@ -156,7 +156,7 @@ class MaxClient:
             }
         )
 
-    async def start_sms_login(self, phone: str) -> str:
+    async def send_code(self, phone: str) -> str:
         """:returns: Login token."""
         await self._send_hello_packet()
         start_auth_response = await self.invoke_method(
@@ -169,7 +169,7 @@ class MaxClient:
         )
         return start_auth_response["payload"]["token"]
 
-    async def finish_sms_login(self, login_token: str, sms_code: int):
+    async def sign_in(self, login_token: str, sms_code: int):
         """
         Auth token for further login is at ['payload']['tokenAttrs']['LOGIN']['token']
         :param login_token: Must be obtained via `start_sms_login`.
@@ -179,6 +179,36 @@ class MaxClient:
             payload={
                 "token": login_token,
                 "verifyCode": str(sms_code),
+                "authTokenType": "CHECK_CODE"
+            }
+        )
+
+        if "error" in verification_response["payload"]:
+            raise Exception(verification_response["payload"]["error"])
+
+        _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
+
+        self._is_logged_in = True
+        await self._start_keepalive_task()
+
+        return verification_response
+
+    async def start(self, phone: str):
+        """:returns: MaxClient() object."""
+        await self._send_hello_packet()
+        start_auth_response = await self.invoke_method(
+            opcode=17,
+            payload={
+                "phone": phone,
+                "type": "START_AUTH",
+                "language": "ru"
+            }
+        )
+        verification_response = await self.invoke_method(
+            opcode=18,
+            payload={
+                "token": start_auth_response["payload"]["token"],
+                "verifyCode": str(input("Input SMS code: ")),
                 "authTokenType": "CHECK_CODE"
             }
         )
