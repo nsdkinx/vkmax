@@ -3,6 +3,7 @@ import logging
 import sys
 
 from vkmax.client import MaxClient
+from vkmax.features.messages import ayumax_callback, get_deleted_messages
 
 date_format = '%d.%m.%Y %H:%M:%S'
 logging_format = '[%(asctime)s] [%(name)s] [%(levelname)s] %(message)s'
@@ -18,23 +19,14 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-async def ayumax_callback(packet: dict):
-    if packet['opcode'] == 128:
-        message_text = packet['payload']['message']['text']
-
-        if (
-            'status' in packet['payload']['message']
-            and packet['payload']['message']['status'] == "REMOVED"
-        ):
-            print(f'Got deleted message {message_text}. Аюграм в 100 метрах от вас')
-
-        else:
-            print(f'Incoming message! {message_text}')
-
 async def main():
     client = MaxClient()
     await client.connect()
-    await client.login_by_token("your token")
+    # await client.login_by_token("token") # maybe you have a token ?
+    get_token = await client.start_sms_login("phone_number")
+    sms_code = int(input("Input SMS code: "))
+    await client.finish_sms_login(get_token, sms_code)
+    print(await get_deleted_messages(chat_id=123))
     client.set_callback(ayumax_callback)
     await asyncio.Future()  # run forever
 
