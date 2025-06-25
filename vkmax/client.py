@@ -1,4 +1,5 @@
 import asyncio
+import itertools
 import json
 import logging
 import uuid
@@ -30,8 +31,11 @@ class MaxClient:
     def __init__(self):
         self._connection: Optional[ClientConnection] = None
         self._is_logged_in: bool = False
-        self._seq = 1
+        self._seq = itertools.count(1)
         self._keepalive_task: Optional[asyncio.Task] = None
+        self._recv_task: Optional[asyncio.Task] = None
+        self._incoming_event_callback = None
+        self._pending = {}
 
     # --- WebSocket connection management ---
 
@@ -40,34 +44,60 @@ class MaxClient:
             raise Exception("Already connected")
 
         self._connection = await websockets.connect(WS_HOST)
+
+        self._recv_task = asyncio.create_task(self._recv_loop())
         return self._connection
 
     @ensure_connected
     async def disconnect(self):
         await self._stop_keepalive_task()
+        self._recv_task.cancel()
         await self._connection.close()
 
     @ensure_connected
     async def invoke_method(self, opcode: int, payload: dict[str, Any]):
+        seq = next(self._seq)
+
         request = {
             "ver": RPC_VERSION,
             "cmd": 0,
-            "seq": self._seq,
+            "seq": seq,
             "opcode": opcode,
             "payload": payload
         }
         _logger.info(f'-> REQUEST: {request}')
 
+        future = asyncio.get_event_loop().create_future()
+        self._pending[seq] = future
+
         await self._connection.send(
             json.dumps(request)
         )
 
-        response = json.loads(await self._connection.recv())
+        response = await future
         _logger.info(f'<- RESPONSE: {response}')
 
-        self._seq += 1
-
         return response
+
+    def set_callback(self, function):
+        if not asyncio.iscoroutinefunction(function):
+            raise TypeError('callback must be async')
+        self._incoming_event_callback = function
+
+    async def _recv_loop(self):
+        try:
+            async for packet in self._connection:
+                packet = json.loads(packet)
+                seq = packet["seq"]
+                future = self._pending.pop(seq, None)
+                if future:
+                    future.set_result(packet)
+                else:
+                    if self._incoming_event_callback:
+                        asyncio.create_task(self._incoming_event_callback(packet))
+        except asyncio.CancelledError:
+            _logger.info(f'receiver cancelled')
+            return
 
     # --- Keepalive system
 
@@ -157,7 +187,10 @@ class MaxClient:
             raise Exception(verification_response["payload"]["error"])
 
         _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
+
+        self._is_logged_in = True
         await self._start_keepalive_task()
+
         return verification_response
 
     async def login_by_token(self, token: str):
@@ -180,6 +213,8 @@ class MaxClient:
             raise Exception(login_response["payload"]["error"])
 
         _logger.info(f'Successfully logged in as {login_response["payload"]["profile"]["phone"]}')
+
+        self._is_logged_in = True
         await self._start_keepalive_task()
 
         return login_response
