@@ -3,6 +3,7 @@ import itertools
 import json
 import logging
 import uuid
+import os
 from typing import Any, Callable, Optional
 
 import websockets
@@ -186,36 +187,7 @@ class MaxClient:
         if "error" in verification_response["payload"]:
             raise Exception(verification_response["payload"]["error"])
 
-        _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
-
-        self._is_logged_in = True
-        await self._start_keepalive_task()
-
-        return verification_response
-
-    async def start(self, phone: str):
-        """:returns: MaxClient() object."""
-        await self._send_hello_packet()
-        start_auth_response = await self.invoke_method(
-            opcode=17,
-            payload={
-                "phone": phone,
-                "type": "START_AUTH",
-                "language": "ru"
-            }
-        )
-        verification_response = await self.invoke_method(
-            opcode=18,
-            payload={
-                "token": start_auth_response["payload"]["token"],
-                "verifyCode": str(input("Input SMS code: ")),
-                "authTokenType": "CHECK_CODE"
-            }
-        )
-
-        if "error" in verification_response["payload"]:
-            raise Exception(verification_response["payload"]["error"])
-
+        token_file = open(f"{verification_response["payload"]["profile"]["phone"]}.session", "w+"); token_file.write(verification_response["payload"]["tokenAttrs"]["LOGIN"]["token"]); token_file.close()
         _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
 
         self._is_logged_in = True
@@ -225,7 +197,7 @@ class MaxClient:
 
     async def login_by_token(self, token: str):
         await self._send_hello_packet()
-
+        _logger.info("using session")
         login_response = await self.invoke_method(
             opcode=19,
             payload={
@@ -248,3 +220,38 @@ class MaxClient:
         await self._start_keepalive_task()
 
         return login_response
+
+    async def start(self, phone: str):
+        """:returns: MaxClient() object."""
+        await self._send_hello_packet()
+        if os.path.exists(f"vkmax//storage//{phone.replace("+", "")}.session"):
+            session = open(f"vkmax//storage//{phone.replace("+", "")}.session", 'r'); token = session.read(); session.close()
+            await self.login_by_token(token)
+        else:
+            start_auth_response = await self.invoke_method(
+                opcode=17,
+                payload={
+                    "phone": phone,
+                    "type": "START_AUTH",
+                    "language": "ru"
+                }
+            )
+            verification_response = await self.invoke_method(
+                opcode=18,
+                payload={
+                    "token": start_auth_response["payload"]["token"],
+                    "verifyCode": str(input("Input SMS code: ")),
+                    "authTokenType": "CHECK_CODE"
+                }
+            )
+
+            if "error" in verification_response["payload"]:
+                raise Exception(verification_response["payload"]["error"])
+
+            token_file = open(f"vkmax//storage//{verification_response["payload"]["profile"]["phone"]}.session", "w+"); token_file.write(verification_response["payload"]["tokenAttrs"]["LOGIN"]["token"]); token_file.close()
+            _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
+
+            self._is_logged_in = True
+            await self._start_keepalive_task()
+
+            return verification_response
