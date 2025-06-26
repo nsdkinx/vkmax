@@ -43,7 +43,14 @@
 
 *opcode: 50*
 
-```{"ver":11,"cmd":0,"seq":25,"opcode":50,"payload":{"type":"READ_MESSAGE","chatId":chatid,"messageId":messageid","mark":175xxxxxxxxxx}}```
+```{"ver":11,"cmd":0,"seq":25,"opcode":50,"payload":{"type":"READ_MESSAGE","chatId":chatid,"messageId":"messageid","mark":175xxxxxxxxxx}}```
+
+
+## Редактирование сообщения
+
+*opcode: 67*
+
+```{"ver":11,"cmd":0,"seq":40,"opcode":67,"payload":{"chatId":chatid,"messageId":"messageid","text":"new_text","elements":[],"attachments":[]}}```
 
 
 ## Реакция на сообщение
