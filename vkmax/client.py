@@ -170,15 +170,15 @@ class MaxClient:
         )
         return start_auth_response["payload"]["token"]
 
-    async def sign_in(self, login_token: str, sms_code: int):
+    async def sign_in(self, sms_token: str, sms_code: int):
         """
         Auth token for further login is at ['payload']['tokenAttrs']['LOGIN']['token']
-        :param login_token: Must be obtained via `start_sms_login`.
+        :param login_token: Must be obtained via `send_code`.
         """
         verification_response = await self.invoke_method(
             opcode=18,
             payload={
-                "token": login_token,
+                "token": sms_token,
                 "verifyCode": str(sms_code),
                 "authTokenType": "CHECK_CODE"
             }
