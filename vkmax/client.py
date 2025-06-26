@@ -95,7 +95,7 @@ class MaxClient:
                     future.set_result(packet)
                 else:
                     if self._incoming_event_callback:
-                        asyncio.create_task(self._incoming_event_callback(packet))
+                        asyncio.create_task(self._incoming_event_callback(self, packet))
         except asyncio.CancelledError:
             _logger.info(f'receiver cancelled')
             return
