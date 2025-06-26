@@ -1,5 +1,5 @@
 # vkmax
-Python client for VK MAX messenger (OneMe)
+Python user client for VK MAX messenger (OneMe) with userbot and ToS avoiding features
 
 ## What is VK MAX?
 MAX (internal code name OneMe) is another project by the Russian government in an attempt to create a unified domestic messaging platform with features such as login via the government services account (Gosuslugi/ESIA).  
