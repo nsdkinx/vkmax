@@ -46,7 +46,7 @@
 ```{"ver":11,"cmd":0,"seq":25,"opcode":50,"payload":{"type":"READ_MESSAGE","chatId":chatid,"messageId":messageid","mark":175xxxxxxxxxx}}```
 
 
-__Реакция на сообщение__
+## Реакция на сообщение
 
 *opcode: 178*
 
