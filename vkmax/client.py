@@ -80,7 +80,7 @@ class MaxClient:
 
         return response
 
-    def set_callback(self, function):
+    async def set_callback(self, function):
         if not asyncio.iscoroutinefunction(function):
             raise TypeError('callback must be async')
         self._incoming_event_callback = function
