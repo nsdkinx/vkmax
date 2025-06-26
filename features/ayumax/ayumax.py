@@ -1,10 +1,13 @@
 import sqlite3
 import logging
 
+from vkmax.client import MaxClient
+from vkmax.functions.messages import send_message
+
 _logger = logging.getLogger(__name__)
 
 async def sql(cmd: str):
-    db = sqlite3.connect('vkmax//features//ayumax//storage//messages.db'); cur = db.cursor(); cur.execute(cmd); db.commit()
+    db = sqlite3.connect('vkmax//features//ayumax//messages.db'); cur = db.cursor(); cur.execute(cmd); db.commit()
     fetcher = cur.fetchall(); cur.close(); db.close()
     if "SELECT" in cmd:
         return fetcher
@@ -30,24 +33,24 @@ async def get_edited_messages(chat_id: int):
 async def get_deleted_messages(chat_id: int):
     return await sql(f"SELECT * FROM messages WHERE chat_id = {chat_id} AND status = 'REMOVED'")
 
-async def ayumax_callback(packet: dict):
+async def ayumax_callback(client: MaxClient, packet: dict):
     """ аюграм подкрался незаметно... """
     if packet['opcode'] == 128:
         message_text = packet['payload']['message']['text']
-
+        print(packet)
         if (
             'status' in packet['payload']['message']
             and packet['payload']['message']['status'] == "REMOVED"
         ):
             await deleted_message(packet['payload']['message']['id'])
-            _logger.info(f'Got deleted message: {message_text}') 
+            await send_message(client, packet["payload"]["chatId"], text=f"Собеседник удалил сообщение: {message_text}")
 
         elif (
             'status' in packet['payload']['message']
             and packet['payload']['message']['status'] == "EDITED"
         ):
             await edited_message(int(packet["payload"]["message"]["id"]), message_text)
-            _logger.info(f'Got edited message: {message_text}')
+            previous_message = await sql(f"SELECT text FROM messages WHERE message_id = {int(packet["payload"]["message"]["id"])}")
+            await send_message(client, packet["payload"]["chatId"], text=f"Собеседник изменил сообщение: {previous_message[0][0]}")
         else:
             await incoming_message(packet["payload"]["chatId"], int(packet["payload"]["message"]["id"]), message_text)
-            _logger.info(f'Got new message: {message_text}') 
