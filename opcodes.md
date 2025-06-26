@@ -1,45 +1,45 @@
-__Вход по токену__
+## Вход по токену
 
 *opcode: 19*
 
 ```{"ver":11,"cmd":0,"seq":1,"opcode":19,"payload":{"interactive":true,"token":"token","chatsSync":0,"contactsSync":0,"presenceSync":0,"draftsSync":0,"chatsCount":40}}```
 
 
-__Получение списка контактов__
+## Получение списка контактов
 
 *opcode: 32*
 
 ```{"ver":11,"cmd":0,"seq":4,"opcode":32,"payload":{"contactIds":[id,id,id]}}```
 
 
-__Добавление в контакты__
+## Добавление в контакты
 
 *opcode: 34*
 ```{"ver":11,"cmd":0,"seq":32,"opcode":34,"payload":{"contactId":id,"action":"ADD"}}```
 
 
-__Получение текущего чата__
+## Получение текущего чата
 
 *opcode: 49*
 
 ```{"ver":11,"cmd":0,"seq":14,"opcode":49,"payload":{"chatId":chatid,"from":175xxxxxxxxxx,"forward":0,"backward":30,"getMessages":true}}```
 
 
-__Отправка сообщения__
+## Отправка сообщения
 
 *opcode: 64*
 
 ```{"ver":11,"cmd":0,"seq":22,"opcode":64,"payload":{"chatId":chatid,"message":{"text":"message_text","cid":175xxxxxxxxxx,"elements":[],"attaches":[]},"notify":true}}```
 
 
-__Отправка стикера__
+## Отправка стикера
 
 *opcode: 64*
 
 ```{"ver":11,"cmd":0,"seq":122,"opcode":64,"payload":{"chatId":chatid,"message":{"cid":175xxxxxxxxxx,"attaches":[{"_type":"STICKER","stickerId":598965}]},"notify":true}}```
 
 
-__Прочтение сообщения__
+## Прочтение сообщения
 
 *opcode: 50*
 
