@@ -187,7 +187,7 @@ class MaxClient:
         if "error" in verification_response["payload"]:
             raise Exception(verification_response["payload"]["error"])
 
-        token_file = open(f"{verification_response["payload"]["profile"]["phone"]}.session", "w+"); token_file.write(verification_response["payload"]["tokenAttrs"]["LOGIN"]["token"]); token_file.close()
+        token_file = open(f"vkmax//storage//{verification_response["payload"]["profile"]["phone"]}.session", "w+"); token_file.write(verification_response["payload"]["tokenAttrs"]["LOGIN"]["token"]); token_file.close()
         _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
 
         self._is_logged_in = True
