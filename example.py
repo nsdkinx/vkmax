@@ -1,12 +1,10 @@
 import asyncio
 import logging
 import sys
-from random import randint
 
 from vkmax.client import MaxClient
-from vkmax.features.messages import ayumax_callback
-# from vkmax.features.users import resolve_users, add_to_contacts
-from vkmax.features.groups import create_group
+from vkmax.functions.messages import send_message
+from vkmax.features.userbot.userbot import userbot
 
 date_format = '%d.%m.%Y %H:%M:%S'
 logging_format = '[%(asctime)s] [%(name)s] [%(levelname)s] %(message)s'
@@ -26,8 +24,10 @@ async def main():
     client = MaxClient()
     await client.connect()
     await client.start("phone_number")
-    await create_group(client, "ЭКСТЕРАГРАМ ОБНОВИЛСЯ!!!", [participant_id])
-    await client.set_callback(ayumax_callback)
+
+    await send_message(client, chat_id=123, text="Cнег растаял на плечах... твоей шубы норковой")
+    await client.set_callback(userbot)
+
     await asyncio.Future()  # run forever
 
 
