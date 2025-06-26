@@ -12,6 +12,12 @@ __Получение списка контактов__
 ```{"ver":11,"cmd":0,"seq":4,"opcode":32,"payload":{"contactIds":[id,id,id]}}```
 
 
+__Добавление в контакты__
+
+*opcode: 34*
+```{"ver":11,"cmd":0,"seq":32,"opcode":34,"payload":{"contactId":id,"action":"ADD"}}```
+
+
 __Получение текущего чата__
 
 *opcode: 49*
