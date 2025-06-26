@@ -1,5 +1,8 @@
 import logging
+import python_weather
+
 from vkmax.client import MaxClient
+from vkmax.functions.messages import edit_message
 
 _logger = logging.getLogger(__name__)
 
@@ -9,7 +12,15 @@ async def userbot(client: MaxClient, packet: dict):
         cmd = packet['payload']['message']['text']
         if cmd == ".info":
             text = "Userbot connected"
-            await client.invoke_method(67, {"chatId":packet["payload"]["chatId"],"messageId":packet["payload"]["message"]["id"],"text":text,"elements":[],"attachments":[]})
+            await edit_message(client, packet["payload"]["chatId"], packet["payload"]["message"]["id"], text)
+        elif ".weather" in cmd:
+            town = cmd.split(" "); town = town[1]
+            async with python_weather.Client(unit=python_weather.METRIC, locale=python_weather.Locale.RUSSIAN) as weather_client:
+                weather = await weather_client.get(town)
+                builder = f"🌡️ Температура: {weather.temperature}°\n😶‍🌫️ Ощущается как: {weather.feels_like}°"
+                await edit_message(client, packet["payload"]["chatId"], packet["payload"]["message"]["id"], builder)
+
+                
 
 
 
