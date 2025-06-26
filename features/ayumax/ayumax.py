@@ -4,7 +4,7 @@ import logging
 _logger = logging.getLogger(__name__)
 
 async def sql(cmd: str):
-    db = sqlite3.connect('vkmax//features//storage//messages.db'); cur = db.cursor(); cur.execute(cmd); db.commit()
+    db = sqlite3.connect('vkmax//features//ayumax//storage//messages.db'); cur = db.cursor(); cur.execute(cmd); db.commit()
     fetcher = cur.fetchall(); cur.close(); db.close()
     if "SELECT" in cmd:
         return fetcher
