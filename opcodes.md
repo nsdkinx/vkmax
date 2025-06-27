@@ -53,6 +53,13 @@
 ```{"ver":11,"cmd":0,"seq":40,"opcode":67,"payload":{"chatId":chatid,"messageId":"messageid","text":"new_text","elements":[],"attachments":[]}}```
 
 
+## Удаление сообщения
+
+*opcode: 66*
+
+```{'ver': 11, 'cmd': 0, 'seq': 4, 'opcode': 66, 'payload': {'chatId': chatid, 'messageIds': ['messageid'], 'forMe': False}}```
+
+
 ## Реакция на сообщение
 
 *opcode: 178*
