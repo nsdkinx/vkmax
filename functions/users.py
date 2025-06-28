@@ -10,3 +10,7 @@ async def resolve_users(client: MaxClient, user_id: list):
 async def add_to_contacts(client: MaxClient, user_id: int):
     """ Adding user to contacts via userid """
     return await client.invoke_method(34, {"contactId":user_id,"action":"ADD"})
+
+async def ban(client: MaxClient, user_id: int):
+    """ Banhammer to user's head. """
+    return await client.invoke_method(34, {"contactId":user_id,"action":"BLOCK"})
