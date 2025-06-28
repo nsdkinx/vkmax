@@ -67,7 +67,7 @@
 ```{"ver":11,"cmd":0,"seq":13,"opcode":178,"payload":{"chatId":chatid,"messageId":"messageid","reaction":{"reactionType":"EMOJI","id":"❤️"}}}```
 
 
-## Скрытие статуса "Онлайн"
+## Настройка профиля
 
 *opcode: 22*
 
