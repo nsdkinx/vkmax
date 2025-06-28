@@ -67,3 +67,10 @@
 ```{"ver":11,"cmd":0,"seq":13,"opcode":178,"payload":{"chatId":chatid,"messageId":"messageid","reaction":{"reactionType":"EMOJI","id":"❤️"}}}```
 
 
+## Скрытие статуса "Онлайн"
+
+*opcode: 22*
+
+```{"ver":11,"cmd":0,"seq":24,"opcode":22,"payload":{"settings":{"user":{"HIDDEN":true}}}}```
+
+
