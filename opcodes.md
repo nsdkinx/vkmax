@@ -12,7 +12,7 @@
 ```{"ver":11,"cmd":0,"seq":4,"opcode":32,"payload":{"contactIds":[id,id,id]}}```
 
 
-## Добавление в контакты
+## Добавление в контакты / взаимодействие с пользователем
 
 *opcode: 34*
 ```{"ver":11,"cmd":0,"seq":32,"opcode":34,"payload":{"contactId":id,"action":"ADD"}}```
