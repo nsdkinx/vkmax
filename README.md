@@ -6,9 +6,14 @@ MAX (internal code name OneMe) is another project by the Russian government in a
 It is developed by VK Group.  
 As usual, the application is extremely poorly made: all your contacts, login info and private messages are sent over the network in plain text without any encryption (besides TLS).
 
+## What is `vkmax`?
+This is a client library for VK MAX, allowing to create userbots and custom clients.  
+An example of a simple userbot that retrieves weather can be found at [examples/weather-userbot](examples/weather-userbot).
+
 ## Protocol
 The packet consists of five JSON fields:
 * `ver` (int) - currently it's 11
+* `seq` (int) - packet incremental ID. Request and response seq match.
 * `cmd` (int[0, 1]) - 0 for outgoing packets, 1 for incoming packets
 * `opcode` (int) - RPC method ID
 * `payload` (json) - arbitrary
