@@ -13,3 +13,7 @@ async def calls_privacy(client: MaxClient, findable: bool):
     """ You can enable or disable calls for everyone. """
     findable = "ALL" if findable else "CONTACTS"
     return await client.invoke_method(22, {"settings":{"user":{"INCOMING_CALL":findable}}})
+
+async def get_devices(client: MaxClient):
+    """ Returns information about sessions on account """
+    return await client.invoke_method(96, {})
