@@ -1,13 +1,9 @@
 import asyncio
 import logging
-
-import requests
 import sys
 
 from vkmax.client import MaxClient
-from vkmax.functions.messages import edit_message
-
-from pathlib import Path
+from features.userbot.userbot import packet_callback, load_command_modules
 
 date_format = '%d.%m.%Y %H:%M:%S'
 logging_format = '[%(asctime)s] [%(name)s] [%(levelname)s] %(message)s'
@@ -23,54 +19,19 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-async def get_weather(city: str) -> str:
-    response = requests.get(f"https://ru.wttr.in/{city}?Q&T&format=3")
-    return response.text
-
-
-async def packet_callback(client: MaxClient, packet: dict):
-    if packet['opcode'] == 128:
-        message_text: str = packet['payload']['message']['text']
-        if message_text not in ['.info', '.weather']:
-            return
-
-        if message_text == ".info":
-            text = "Userbot connected"
-
-        elif ".weather" in message_text:
-            city = message_text.split()[1]
-            text = await get_weather(city)
-
-        await edit_message(
-            client,
-            packet["payload"]["chatId"],
-            packet["payload"]["message"]["id"],
-            text
-        )
-
-
 async def main():
+    # client connection
     client = MaxClient()
-
     await client.connect()
 
-    login_token_file = Path('login_token.txt')
+    # logging in
+    try:
+        await client.start("phone_number")
+    except:
+        raise Exception("Phone number must be set!")
 
-    if login_token_file.exists():
-        login_token_from_file = login_token_file.read_text(encoding='utf-8').strip()
-        try:
-            await client.login_by_token(login_token_from_file)
-        except:
-            print("Couldn't login by token. Falling back to SMS login")
-
-    else:
-        sms_login_token = await client.send_code('+79294066397')
-        sms_code = int(input('Enter SMS code: '))
-        account_data = await client.sign_in(sms_login_token, sms_code)
-
-        login_token = account_data['payload']['tokenAttrs']['LOGIN']['token']
-        login_token_file.write_text(login_token, encoding='utf-8')
-
+    # userbot started
+    await load_command_modules()
     await client.set_callback(packet_callback)
 
     await asyncio.Future()  # run forever
