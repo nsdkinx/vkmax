@@ -33,11 +33,13 @@ command_handlers = {}
 
 async def load_command_modules():
 
+    print(1, MODULES_DIR)
     for file_path in MODULES_DIR.glob("*.py"):
         if file_path.name.startswith("__"):
             continue
 
         module_name = file_path.stem
+        print(2)
         try:
             import_path = f"{MODULES_DIR.name}.{module_name}"
             module = import_module(import_path)
