@@ -1,4 +1,4 @@
-from Maxon.userbot.init import VERSION, START_TIME
+from Maxon.init import VERSION, START_TIME
 
 import platform
 import socket
@@ -7,7 +7,7 @@ import time
 from datetime import datetime, UTC
 from pathlib import Path
 
-SETTINGS_PATH = Path(__file__).parent / "userdata" / "settings.json"
+SETTINGS_PATH = Path(__file__).parent.parent / "userdata" / "settings.json"
 
 __name__ = "Info"
 __description__ = "Returns info about current Maxon configuration"
