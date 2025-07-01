@@ -7,7 +7,7 @@ from typing import Callable, Dict, Any
 from importlib import import_module
 
 from vkmax.client import MaxClient
-from functions.messages import edit_message
+from vkmax.functions.messages import edit_message
 
 from pathlib import Path
 
