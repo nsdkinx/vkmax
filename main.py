@@ -3,7 +3,7 @@ import logging
 import sys
 
 from vkmax.client import MaxClient
-from Maxon.userbot.init import packet_callback, load_command_modules
+from Maxon.init import packet_callback, load_command_modules
 
 date_format = '%d.%m.%Y %H:%M:%S'
 logging_format = '[%(asctime)s] [%(name)s] [%(levelname)s] %(message)s'
