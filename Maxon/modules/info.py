@@ -9,6 +9,11 @@ from pathlib import Path
 
 SETTINGS_PATH = Path(__file__).parent / "userdata" / "settings.json"
 
+__name__ = "Info"
+__description__ = "Returns info about current Maxon configuration"
+__version__ = "1.0.0"
+__author__ = "@nerkux"
+
 async def handle(packet, args):
     uptime_seconds = int(time.time() - START_TIME)
     uptime_str = str(datetime.fromtimestamp(uptime_seconds, UTC).strftime("%H:%M:%S"))
