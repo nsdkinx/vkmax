@@ -25,6 +25,13 @@
 ```{"ver":11,"cmd":0,"seq":14,"opcode":49,"payload":{"chatId":chatid,"from":175xxxxxxxxxx,"forward":0,"backward":30,"getMessages":true}}```
 
 
+## Добавление в чат
+
+*opcode: 77*
+
+```{"ver":11,"cmd":0,"seq":36,"opcode":77,"payload":{"chatId":chatid,"userIds":[id,id],"showHistory":true,"operation":"add"}}```
+
+
 ## Отправка сообщения
 
 *opcode: 64*
