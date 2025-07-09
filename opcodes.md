@@ -25,7 +25,7 @@
 ```{"ver":11,"cmd":0,"seq":14,"opcode":49,"payload":{"chatId":chatid,"from":175xxxxxxxxxx,"forward":0,"backward":30,"getMessages":true}}```
 
 
-## Добавление в чат
+## Взаимодействие с пользователями в чате
 
 *opcode: 77*
 
