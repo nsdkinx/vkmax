@@ -6,8 +6,10 @@ async def send_message(
         chat_id: int,
         text: str,
         notify: bool = True
-):
+    ):
+    
     """ Sends message to specified chat """
+
     return await client.invoke_method(
         opcode = 64,
         payload = {
@@ -22,8 +24,15 @@ async def send_message(
         }
     )
 
-async def edit_message(client: MaxClient, chat_id: int, message_id: int, text: str):
+async def edit_message(
+        client: MaxClient,
+        chat_id: int,
+        message_id: int,
+        text: str
+    ):
+
     """ Edits the specified message """
+
     return await client.invoke_method(
         opcode = 67,
         payload = {
@@ -40,8 +49,10 @@ async def delete_message(
         chat_id: int,
         message_ids: list,
         delete_for_me: bool = False
-):
+    ):
+
     """ Deletes the specified message """
+
     return await client.invoke_method(
         opcode = 66,
         payload = {
@@ -57,7 +68,9 @@ async def pin_message(
         message_id: int,
         notify = False
     ):
+
     """ Pins message in the chat """
+
     return await client.invoke_method(
         opcode = 55,
         payload = {
@@ -74,7 +87,9 @@ async def reply_message(
         reply_to_message_id: int,
         notify = True
     ):
+
     """ Replies to message in the chat """
+    
     return await client.invoke_method(
         opcode = 64,
         payload = {
