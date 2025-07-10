@@ -53,7 +53,7 @@ async def remove_users(
         participant_ids: list[int],
         delete_messages = False
     ):
-    delete_messages = 0 if delete_messages == False else delete_messages = -1
+    delete_messages = 0 if delete_messages == False else -1
     
     """ Removes users from group via userid """
     
@@ -182,5 +182,27 @@ async def change_group_profile(
             "chatId": group_id,
             "theme": new_group_name,
             "description": new_description
+            }
+    )
+
+async def get_group_members(
+        client: MaxClient,
+        group_id: int,
+        marker = 0,
+        count = 500
+    ):
+
+    """ Gets all the members in specified chat """
+
+    if count > 500:
+        raise Exception("Error while getting number of group members. Maximum available count is 500.")
+
+    return await client.invoke_method(
+        opcode = 59,
+        payload = {
+            "type":"MEMBER",
+            "marker": marker,
+            "chatId": group_id,
+            "count": count
             }
     )
