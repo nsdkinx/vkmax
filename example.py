@@ -64,7 +64,8 @@ async def main():
             print("Couldn't login by token. Falling back to SMS login")
 
     else:
-        sms_login_token = await client.send_code('your phone number')
+        phone_number = input('Your phone number: ')
+        sms_login_token = await client.send_code(phone_number)
         sms_code = int(input('Enter SMS code: '))
         account_data = await client.sign_in(sms_login_token, sms_code)
 
