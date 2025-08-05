@@ -279,3 +279,30 @@ async def join_group_by_link(
         }
     )
     return
+
+async def react_to_message(
+    client: MaxClient,
+    group_id: int,
+    message_id: int,
+    reaction: str
+):
+    """React to a message in a group"""
+    await client.invoke_method(
+        opcode=178,
+        payload={
+            "chatId": group_id,
+            "messageId": str(message_id),
+            "reaction":{
+                "reactionType": "EMOJI",
+                "id":reaction,
+            }
+        }
+    )
+    await client.invoke_method(
+        opcode=181,
+        payload={
+            "chatId": group_id,
+            "messageId": str(message_id),
+            "count":100
+            }
+    )
