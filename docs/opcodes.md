@@ -74,6 +74,22 @@
 ```{"ver":11,"cmd":0,"seq":13,"opcode":178,"payload":{"chatId":chatid,"messageId":"messageid","reaction":{"reactionType":"EMOJI","id":"❤️"}}}```
 
 
+## Подписаться на канал (возможно, войти в чат)
+
+*opcode: 57*
+
+```{"ver":11,"cmd":0,"seq":32,"opcode":57,"payload":{"link":"https://max.ru/gosuslugi"}}```
+
+
+## Действия с чатами (mute навсегда / unmute)
+
+*opcode: 22* 
+
+```{"ver":11,"cmd":0,"seq":0,"opcode":22,"payload":{"settings":{"chats":{"-68093732121255":{"dontDisturbUntil":-1}}}}}```
+
+```{"ver":11,"cmd":0,"seq":0,"opcode":22,"payload":{"settings":{"chats":{"-68093732121255":{"dontDisturbUntil":0}}}}}```
+
+
 ## Настройка профиля
 
 *opcode: 22*
@@ -81,3 +97,15 @@
 ```{"ver":11,"cmd":0,"seq":24,"opcode":22,"payload":{"settings":{"user":{"HIDDEN":true}}}}```
 
 
+## Сделать чат/канал непрочитанным (idk what is mark)
+
+*opcode: 50*
+
+```{"ver":11,"cmd":0,"seq":0,"opcode":50,"payload":{"type":"SET_AS_UNREAD","chatId":-68093732121255,"mark":175xxxxxxxxxx}}```
+
+
+## Покинуть канал/чат
+
+*opcode: 75*
+
+```{"ver":11,"cmd":0,"seq":0,"opcode":75,"payload":{"chatId":-68093732121255,"subscribe":false}}```
