@@ -13,6 +13,7 @@ from functools import wraps
 WS_HOST = "wss://ws-api.oneme.ru/websocket"
 RPC_VERSION = 11
 APP_VERSION = "25.6.8"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 
 _logger = logging.getLogger(__name__)
 
@@ -47,6 +48,7 @@ class MaxClient:
         self._connection = await websockets.connect(
             WS_HOST,
             origin=websockets.Origin('https://web.max.ru'),
+            user_agent_header=USER_AGENT
         )
 
         self._recv_task = asyncio.create_task(self._recv_loop())
@@ -152,7 +154,7 @@ class MaxClient:
                     "locale": "ru_RU",
                     "osVersion": "macOS",
                     "deviceName": "vkmax Python",
-                    "headerUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+                    "headerUserAgent": USER_AGENT,
                     "deviceLocale": "ru-RU",
                     "appVersion": APP_VERSION,
                     "screen": "956x1470 2.0x",
