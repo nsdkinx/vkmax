@@ -12,7 +12,7 @@ from functools import wraps
 
 WS_HOST = "wss://ws-api.oneme.ru/websocket"
 RPC_VERSION = 11
-APP_VERSION = "25.6.8"
+APP_VERSION = "25.9.15"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 
 _logger = logging.getLogger(__name__)
