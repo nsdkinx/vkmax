@@ -44,7 +44,10 @@ class MaxClient:
             raise Exception("Already connected")
 
         _logger.info(f'Connecting to {WS_HOST}...')
-        self._connection = await websockets.connect(WS_HOST)
+        self._connection = await websockets.connect(
+            WS_HOST,
+            origin=websockets.Origin('https://web.max.ru'),
+        )
 
         self._recv_task = asyncio.create_task(self._recv_loop())
         _logger.info('Connected. Receive task started.')
