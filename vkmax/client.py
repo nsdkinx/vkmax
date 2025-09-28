@@ -191,7 +191,11 @@ class MaxClient:
         if "error" in verification_response["payload"]:
             raise Exception(verification_response["payload"]["error"])
 
-        _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
+        try:
+            phone = verification_response["payload"]["profile"]["phone"]
+        except:
+            raise RuntimeWarning('Unable to retrieve phone number from server response')
+        _logger.info(f'Successfully logged in as {phone}')
 
         self._is_logged_in = True
         await self._start_keepalive_task()
