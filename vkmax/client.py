@@ -191,7 +191,12 @@ class MaxClient:
         if "error" in verification_response["payload"]:
             raise Exception(verification_response["payload"]["error"])
 
-        _logger.info(f'Successfully logged in as {verification_response["payload"]["profile"]["phone"]}')
+        try:
+            phone = verification_response["payload"]["profile"]["phone"]
+        except:
+            phone = '[?]'
+            _logger.warning('Got no phone number in server response')
+        _logger.info(f'Successfully logged in as {phone}')
 
         self._is_logged_in = True
         await self._start_keepalive_task()
@@ -218,7 +223,12 @@ class MaxClient:
         if "error" in login_response["payload"]:
             raise Exception(login_response["payload"]["error"])
 
-        _logger.info(f'Successfully logged in as {login_response["payload"]["profile"]["phone"]}')
+        try:
+            phone = login_response["payload"]["profile"]["phone"]
+        except:
+            phone = '[?]'
+            _logger.warning('Got no phone number in server response')
+        _logger.info(f'Successfully logged in as {phone}')
 
         self._is_logged_in = True
         await self._start_keepalive_task()
