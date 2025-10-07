@@ -1,17 +1,38 @@
-# vkmax
-Python user client for VK MAX messenger (OneMe)
+# python-max-client
+Python client library for VK MAX messenger (OneMe)
+
+[![PyPI version](https://badge.fury.io/py/python-max-client.svg)](https://badge.fury.io/py/python-max-client)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## What is VK MAX?
 MAX (internal code name OneMe) is another project by the Russian government in an attempt to create a unified domestic messaging platform with features such as login via the government services account (Gosuslugi/ESIA).  
 It is developed by VK Group.  
 
-## What is `vkmax`?
-This is a client library for MAX, allowing to create userbots and custom clients.  
-An example of a simple userbot that retrieves weather can be found at [examples/weather-userbot](examples/weather-userbot).
+## What is `python-max-client`?
+This is a comprehensive client library for VK MAX messenger, allowing you to create userbots, custom clients, and automated solutions.  
+The library provides a simple and intuitive API for interacting with the MAX messenger protocol.
+
+## Features
+- 🔐 **Authentication**: Support for SMS and token-based login
+- 💬 **Messaging**: Send, receive, and edit messages
+- 👥 **Users & Groups**: Manage users, groups, and channels
+- 🔄 **Real-time**: WebSocket-based real-time communication
+- 🛠️ **Extensible**: Easy to extend with custom functionality
+- 📱 **Userbot Support**: Create powerful userbots and automation
 
 ## Installation
-The package is [available on PyPI](https://pypi.org/project/vkmax/)  
-`pip install vkmax`
+The package is available on PyPI:
+```bash
+pip install python-max-client
+```
+
+Or install from source:
+```bash
+git clone https://github.com/huxuxuya/python-max-client.git
+cd python-max-client
+pip install -e .
+```
 
 ## Usage
 More in [examples](examples/)
@@ -22,8 +43,8 @@ import logging
 import requests
 import sys
 
-from vkmax.client import MaxClient
-from vkmax.functions.messages import edit_message
+from python_max_client.client import MaxClient
+from python_max_client.functions.messages import edit_message
 
 from pathlib import Path
 
@@ -86,5 +107,24 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
+## Documentation
 - [Protocol description](docs/protocol.md)
 - [Known opcodes](docs/opcodes.md)
+
+## Examples
+Check out the [examples](examples/) directory for more usage examples:
+- [Weather Userbot](examples/weather-userbot/) - Simple userbot that provides weather information
+- [Ayumax](examples/ayumax/) - Advanced userbot example
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+**huxuxuya** - [huxuxuya@gmail.com](mailto:huxuxuya@gmail.com)
+
+## Acknowledgments
+- Original project by [nsdkinx](https://github.com/nsdkinx/vkmax)
+- VK Group for developing the MAX messenger platform
