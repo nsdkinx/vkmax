@@ -1,0 +1,8 @@
+# Telegram Bot Configuration
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+
+# GigaChat API Configuration  
+GIGACHAT_API_KEY=your_gigachat_api_key_here
+
+# VK MAX Configuration
+VK_MAX_TOKEN=your_vk_max_token_here
