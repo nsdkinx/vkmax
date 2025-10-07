@@ -22,30 +22,82 @@ The library provides a simple and intuitive API for interacting with the MAX mes
 - 📱 **Userbot Support**: Create powerful userbots and automation
 
 ## Installation
-The package is available on PyPI:
+
+### Quick Install
+The package is available on PyPI and can be installed with pip:
 ```bash
 pip install python-max-client
 ```
 
-Or install from source:
+### Install from Source
+If you want to install the latest development version:
 ```bash
 git clone https://github.com/huxuxuya/python-max-client.git
 cd python-max-client
 pip install -e .
 ```
 
+### Requirements
+- Python 3.9 or higher
+- Internet connection for VK MAX messenger access
+
+### Dependencies
+The package automatically installs the following dependencies:
+- `websockets>=12.0` - WebSocket client for real-time communication
+- `httpx>=0.25.0` - HTTP client for API requests
+
+### Verify Installation
+After installation, verify that the package works correctly:
+```python
+import python_max_client
+print(f"python-max-client version: {python_max_client.__version__}")
+print(f"Author: {python_max_client.__author__}")
+```
+
 ## Usage
-More in [examples](examples/)
+
+### Basic Example
+Here's a simple example of how to use the library:
+
 ```python
 import asyncio
-import logging
+from python_max_client import MaxClient
 
+async def main():
+    # Create a client instance
+    client = MaxClient()
+    
+    # Connect to VK MAX
+    await client.connect()
+    
+    # Login with phone number
+    phone = input("Enter your phone number: ")
+    sms_token = await client.send_code(phone)
+    code = input("Enter SMS code: ")
+    await client.sign_in(sms_token, int(code))
+    
+    # Set up message handler
+    async def message_handler(client, packet):
+        if packet['opcode'] == 128:  # New message
+            print(f"New message: {packet['payload']['message']['text']}")
+    
+    await client.set_callback(message_handler)
+    
+    # Keep running
+    await asyncio.Future()
+
+if __name__ == "__main__":
+    asyncio.run(main())
+```
+
+### Advanced Example
+For more complex usage, check out the [examples](examples/) directory:
+
+```python
+import asyncio
 import requests
-import sys
-
-from python_max_client.client import MaxClient
+from python_max_client import MaxClient
 from python_max_client.functions.messages import edit_message
-
 from pathlib import Path
 
 
@@ -106,6 +158,49 @@ async def main():
 if __name__ == "__main__":
     asyncio.run(main())
 ```
+
+## API Reference
+
+### MaxClient
+The main client class for interacting with VK MAX messenger.
+
+```python
+from python_max_client import MaxClient
+
+client = MaxClient()
+```
+
+#### Methods
+- `connect()` - Connect to VK MAX servers
+- `send_code(phone)` - Send SMS code to phone number
+- `sign_in(token, code)` - Sign in with SMS code
+- `login_by_token(token)` - Login with saved token
+- `set_callback(callback)` - Set message handler callback
+
+### MaxPacket
+Data class for handling VK MAX protocol packets.
+
+```python
+from python_max_client import MaxPacket
+
+packet = MaxPacket(
+    ver=1,
+    cmd=0,
+    opcode=128,
+    seq=1,
+    payload={"message": {"text": "Hello!"}}
+)
+```
+
+### Functions
+The library provides various functions for different operations:
+
+- `python_max_client.functions.messages` - Message operations
+- `python_max_client.functions.users` - User management
+- `python_max_client.functions.groups` - Group operations
+- `python_max_client.functions.chats` - Chat management
+- `python_max_client.functions.channels` - Channel operations
+- `python_max_client.functions.profile` - Profile management
 
 ## Documentation
 - [Protocol description](docs/protocol.md)
