@@ -1,0 +1,2164 @@
+[
+  {
+    "sender": 34439283,
+    "reactionInfo": {},
+    "updateTime": 1757490161201,
+    "id": "115178308531455756",
+    "time": 1757481514457,
+    "text": "Подскажите, пожалуйста, у нас будет родительское собрание в ближайшее время ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757490161191,
+    "id": "115178316264535136",
+    "time": 1757481632454,
+    "text": "Пока что, нам нечего на нем обсуждать. Или у Вас есть вопросы?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 34439283,
+    "reactionInfo": {},
+    "updateTime": 1757490168023,
+    "id": "115178320884226151",
+    "time": 1757481702945,
+    "text": "Я Вам лично тогда напишу",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757490161212,
+    "id": "115178328401727053",
+    "time": 1757481817653,
+    "text": "Хорошо 👌",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 5
+    },
+    "updateTime": 1757490161223,
+    "id": "115178591949836709",
+    "time": 1757485839078,
+    "text": "На завтрак 🥞",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 11,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 11
+    },
+    "updateTime": 1757490161234,
+    "id": "115178670891694297",
+    "time": 1757487043635,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRkoCAABXRUJQVlA4ID4CAABwCwCdASomADIAAUAmJQBZ2a0jK/l/wGzB4G/4qMU/5C4gf5X09/5j+IfzMYX4lNxNr4tav5VwQqi5DlDfpciqut32Ul1+u2oAmf36ATXsNdkv2DCqHWwhjDzLKGglJ2b1dDrgAP68m9hkHoHDe9aWswyM1itdvyuuC/YH9eaX/kbZxRRS4VH+BVTvJN8HnhX9jA3FzjLV/37tql5if3gEpFXXZCHhSEwvfAcrxgy3VyEQ91WX2mi5xXLdHNB7QuM68Bpigy1gsglnRsiTcsHBODSXTv5t72ztXnkg1o/t/GPqx1aIFctA3esZj344S0VZT+WS02K1hD2CiaAIfy6vUS/ZGbxj6fPJDhlq+mPlNPHlXhHDMtTcK5V/Kd69btjWd1/DTcl0flVnbBioGsa5vvjlo1TidGd6njBswmkuu+QKU9efZA7dT9DQA0jeOJVhkIKSg+G0eLEc2xuRPF/PdWQcU8Je8gU4etyqKT7U+GlU+RBskoAR8XjCRHCNXAmI+9tX2/3HvcyAveAPpAOewNuivvO/TwlImRx3cTAHZfBlfbbBP8eOBf1Wb6EuNY2mA90DLJRo1tOn7xSE8tk/pgHO0KtBrhHzgche2RMY3F42/bXW/mn5mxD5uCo2IB0yAs7iRSkdbTEf3Wvo26NakZ+OaO0j1xHiQ5jRj9IeMIhJZr+OKnOtIsIPjVZz+vwilJj3D3wilDqNjUUhTlN1zLNJJuLGoJsAJBllmxexZH/hPCQxzkh/CBFfL8AA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotvFaL6vovs33-5-twIamVjDhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "XclWZDolrmkeY/uf8+3JkGhE5llkOUDlFDTb8UYVKzt9VuLTP8BfB7W5Akj3c4Zi/t+gMP1OzN1TDOFxHH5l098GAEfBz+fXMqJlWuQ2B+g=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 232203844,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRjACAABXRUJQVlA4ICQCAACQCgCdASomADIAAUAmJQBjOf3n+/mfv2ME8ICX1/6TuM7y+/of5aQwEqwD4/raj/200hcH7fzURZ9PBdNrpNnXU9gQ88r8GZ/iVI/6fX9KgXiwud6BnEmbWu0+84AA/p6eI0Q8LmuFASf491zXOcOCqP31Pv1GZz/5EHr892oPzs3VKSdOZFm9UeFfuZ7wwSM6wxqV6o3X9i+9MFGvCx09PssLw+wDUv7quOaZcpRlwYuja7qvVy0dirL47wy7NHoA1yUCAhdzIWnQ8wPId6QBThaW/63J4SxV4C1D5Zhv5/onedN0kAbzi/N9Vel6U/b/d4b9O49Rf7SWtl6Tl+AEa4wj7OCosWmpAQU6wytcAfVD92CGvHItkBzbYsfuy+MF98M17/4qRF2d7/y3F2kKWSRkyq1uuopeugGmoWTWssSfXbuyruFIGOjMcZNNCld/OsFX39if0E/x+D1xw/H8/NOyl4g+kYr+/aNG+WOgnMzG4YfPGfWprUHsIW9Ag9cv/1bEz8XM6KiMqVu1J2x6s/TvXvKwJ+70XTo3pg4PzyIFD+wkvZwwSKaUqxc0ymFZee0Uv5Uu8LPZdW+x9GdKY2J6+IVs9r4nhbj465kk6L/j/NuZbBql6CyLu6k4AeQNb94Kq+WsyO/vQxn66Yuosl/LMuO/IfucjXfkOl0WzpHjm4N5d56tMyPjygu2gDEBoMzrDtodssIRISkX5oNizeAAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotdfiVjw94qFgphSuR6N-yMzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "b240xAa08wUS0ydIToiojUaXxmqQLf2uBsTbAymBiyflYjKKlTfljbT07db9EI8gM6cqoscvH6x0FwS/dePHzft6U0oYnNDChsr5SvKy+xM=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 232203588,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 8,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 8
+    },
+    "updateTime": 1757490161244,
+    "id": "115178686172250735",
+    "time": 1757487276798,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRj4CAABXRUJQVlA4IDICAAAQCwCdASomADIAAUAmJQBcbit8fdJTIQ/unjl/hturjt/8Z4Of7dqgH8A1jH9C5EAt8lUn0MNomHv6yR0+t+mrLFryLr9OqGdWwDi41SO1tVJsgzojjcrZ4vb/StYHgCuYAP7FiLu1Ix5jKYCBHkz6JcB/5vuxjUw98XzmuffUO1bYQ9/D4quubT9BTn9X2/np1Wk6kPe9cRCpGtNf1VENs3itZicOEZ/4SU8udTn8DPeJg6y6RDuX7Lg6WB4A5vaf2R3jsvLutzqw+pSoHBCS1d80zi20P5VJ4aRPWGrXx4i9tAjYs6XAl5h/7iEd+TyVK1ASyl3jQSHvWOlX8q/wtgZIOWqKeZTXDmsmQFP6pD60cvNrpf4P7LnrWOyZheSsxf5ReG8fgO/qIL9vSdLlIeLAtYh91e1ntdoIGF2w1nQqr0CqKjTAQl/ylRvKTr+sPlmKRs9KRwRHqpD4Un8Qj9PX4RxjLuqBv+k+O4LlDveymFSviFYeTv8jVe9+kjHBRGW56fh/CjXbcwxab5g1ForCBtlV4e3+PxWVHc4L1TEdYVvOTZU7X7nQ+DU9H5bOzISeLcTJoGwJOAwceURuM5CLI7Fe27djpXDtxIr1wA/QXnofcGAsPiz79zL47ki6bHCfdKpYPjq4n5nq7YGtZDj0Y2l8qWAV921x2wzNhZqnCUCNdm+LVIpMLYrDpaDGStBiq3RuqPyUFIjSrEN5rjSWkLkSj95+y2Y8XSBQAAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotkohKjradqQZsNeybo0hAkDhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "BIVeM0eOAvfSXN/4am8yNU9GxreBzcuU83C43qg0XEhqKY4wgQenUu4FqDRrmaxU7sSrvmZ6Jdm06gUl+Hp4AstaJHjDkT+10ukd4O+aTO4=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 232375364,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRlwCAABXRUJQVlA4IFACAABwCwCdASomADIAAUAmJQBkZikRi/un5K5UL755M/1rbtXCZ+18Sr5AHAgehj/BfyXlazMqjbPU1uR8RaHY7k/jCYuhVE2TnDRm2t8gmlp1lEnzn2dlajqJNYlYAAIGTn17EhpgAP7nF1OXEWakz5Eu8IFJjCtVukIR+wwUi4A17uI3zbOeDsjbniIDvjHw/CEytkXLdI6lrKPSM3lU5jTNns14rFnDF7aBXfC01SEcs/8jGiaer9HuVvMpxWLdsWYAuonqOxRQn9EWgmvVXeRotem89NuJh9aQismaTgIw590Swf2xL51liCivdnt8db5EyAp9M6DtrekymA7P1rK+KPsBxedH9YTV8duGmjd/uN3Fp7fQNzMLOcuy7dnezUuVpr4lPFVx7Cdxnawv+1QR49KGPO6Fa+XCoIjshOky/d+NgxQ9ILrrRdyeyzQzGKO8dRObXdaag94+UN3L3SfN1gf0+el30gerzh6BaUN9JUBw9ti52SQTv396eabrrGgUeltA5Nx4s2ULxLfoLMx+uo45+v1vgkKGxeHCuMJTkMy5Rbhunfcrihn9QhCACi2Qi+QouD+GHTjx9PWWp5Rty3PBVpwSiL91+QsnbESI57ZNyfc+mFA0xX//w6BIxtF9+vd26sbAPIWGfsn0CtCijNw5aXKgi/KrOn5obDgsVZFziM777wYxWvbMonKKHyWk4Cj5tf2eLewj9M5wbBALisLGFll6jXfyR+bAZ/I5f9l9Fk1cYJyKzKLIhAVrGTHFMigw3GgozoaxpYQgAAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotnX5mKYK-x0zKazsRuOarvzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "48YOts6vnj+OMco3Nu7USdUCa4d98I4H3euFYATWdcIW33ZMJj+EZy3bqb0xBDHr7iWc+YORstfHlywJWdw8tJWDpG9eFRtsV1zH4IcD9hs=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 232375620,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRhYCAABXRUJQVlA4IAoCAAAQDACdASomADIAAUAmJYwDBD5QjRPd+8A1NPlx/nNuT4IOUBvZ39JWJn8J/Ef5vzkv+LMnHRa80zYw6v7an/2FBK2nIuUAlk96jT7ojDkyREPJ9i6qDd6KR0791L1JQoIkZ0Houw5iYnAA/vCpBPsNcCmcr7o+hJ6O7khoP3EFQHQ/Gv4AzVARA9sbqqoGivK8wEcgBUzoh8/C9pKQBdOz+C4ZaBrXeD+9jDgQaxUFTI84anpVfV9FlJlvx0veH5JIzmSYH645FMkfnA0c3w8LGuNICMF6JYXOf2IBlC1+Ywuf2pciB7wnkNBxURWxeNM3AbGzTsqgc5jE0rRVNmDLmwJLh+/ox5VHYf9KIeuNzkCD2QdMDWs2smypwVylcqeT8a1Xj0fGEA/eYV28Kqv9UiVuaCHtW2DhHc30rVxo1a/j3b0cjZ0OcZ8QSoJjV/2FAg8f8Y/7As2QcQ7yZYPfWNU8SFQZRN+N/Cxtr+DeLphfFV/ZdIv5AOCEiGoZz8TsKCg0YpYcRjr/BdbyP7Edx4ZFY6GpkgPT/ybtZUJFH3ceSDBJniSpsmBsj2W8IWGaxhJ1Y53BNgwKnfG2/eGppxY/gmbKkW7nWSiWBqt//Zgfn89KRml3Oy+LgwtuTMv6Psni2z9/i8bTGQKTArBMDR8u5gH+Gl7E6w1j3uk8ZtijcHEPlpNAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotgRS2lLfK72a7a2GChoGY2jhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "G/Y83I2p0aCDl+Abp1eUoSt/2K8uw6Rkw814r5mM0ts6Tx1Gsf31f9hNk8UFLvocAR3AAoBM5Vm3JqoPpfoBYYRrQeBbADVXH4+hB9V6kOI=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 232375876,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757490161254,
+    "id": "115178686869086470",
+    "time": 1757487287431,
+    "text": "Изменения в рассадке",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1757490359031,
+    "id": "115178885323373870",
+    "time": 1757490315603,
+    "text": "Нас как раз только в конец🤦‍♀️😅\nЗабыла предупредить, что Александра заберет мамочка с 1.6 класса.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11018897,
+        "updateTime": 1757490359031,
+        "id": "115178885323373870",
+        "time": 1757490315603,
+        "text": "Нас как раз только в конец🤦‍♀️😅\nЗабыла предупредить, что Александра заберет мамочка с 1.6 класса.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757490978205,
+    "id": "115178889725899728",
+    "time": 1757490382780,
+    "text": "Хорошо, он в конце тихо сидит",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 3
+    },
+    "updateTime": 1757490978216,
+    "id": "115178900226136093",
+    "time": 1757490543001,
+    "text": "Я не могу сажать всех на 1 парты, там сидят те, у кого есть рекомендации от врача или девочки, которые не увидят ничего с последних парт. Уже не знаю как еще объяснять такую рассадку 🤷",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 9,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 9
+    },
+    "updateTime": 1757506821997,
+    "id": "115178946866737909",
+    "time": 1757491254680,
+    "text": "Разминаемся перед последним уроком!",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRo4BAABXRUJQVlA4IIIBAACQCQCdASocADIAAUAmJYwDO3+ZmB83mkn/J/xvyzpQHdT/AFyd84L4z6HMz8VZDNMcu4Ul5bYHmYMHHBHHwV5bLSe30V8/srp2jT8PwFSBZQ9V8YcAAMtOs7uLhhYOfLRhqouJ3afniyRUBcWF+ws9kPVaYI3US/k6bG6TuHLHff/dYikgr2dS35fMTsJ5YIBrcY9d8ahS0jFECb+k081jSrp8mZXOOgMp16yLDiJYn7nH1pkdtnqq0FdB1atzpl1A17D+ne5N1iN7x1UAg+cMG7fKku3qPG+G4H0XRk+MdN/MU6kZzMlWO66zGux7gg+nslPdxFvIzFKn1P5CAGQMTJp9b+MB0MxW7mf3K2k1f8ld9ovuJgPhx/uytLmVdLbA4YqHsKf+0E7W/ZItsJB7PeDg9sd6lKU6b8g+AG+QbLY7/bIbWeidGxrxOXpH/+b5On4VqeTJjBbCAn+GbWrVIen9xXOsoUuB/KmVzP6MW+dbNKdTtTB5xPoTMNdzixgAAA==",
+        "duration": 13162,
+        "thumbnail": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fi.okcdn.ru%2FvideoPreview%3Fid%3D8743918897673%26type%3D39%26idx%3D0%26tkn%3DM1NhzwmRgtis4W7lm8j5plqjoUk&signatureToken=TK7g5xwsGsCBpVRX9gLa7Q",
+        "videoType": 0,
+        "_type": "VIDEO",
+        "width": 720,
+        "videoId": 9600616521481,
+        "token": "f9LHodD0cOIPrZN13ztM0-17HHvbQcjUAXyyppvDyQTJL42BkvsGgnI2oGq8Kb0Vh_ZrIuQyi0HeEMzd9u_W",
+        "height": 1280
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🥰"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757506821986,
+    "id": "115178961261768392",
+    "time": 1757491474331,
+    "text": "Лапушки😍",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "FORWARD",
+      "message": {
+        "sender": 12101183,
+        "id": "115179240788656450",
+        "time": 1757495739573,
+        "text": "Потеряшки в столовой. Разошлите по чатам.",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRugBAABXRUJQVlA4INwBAABQCgCdASoyACYAAUAmJZyzAA3Icdj6ONyeV3+Al0f+UuJP8z9Iv9V7wD0ax7DSW1w5YDNHKd0R/seatQ7IKH5nbWxEhoJgTMFfkCilrrm7/4tZwJllaw7k4/wAAP7x4JJd8N6jvXhqUr8QoomUYlTQ+XYpZ72nlWb8d30t3aDC9KEWVy1HBjX+YCc8oeI3/dubliNBooZ6/2fi/4Kpp4AxQ5gvgrwninTJLBhuopK8Y6u+xGwDE5xpzGc9KlT/4uQyNeDevvEu8nztQ4pBDnLmrvQH0Z6ne5KLNroVK+A/wOih+bbfb/Y/mX7Oj7/vLVaMczkFQJXaRRMfikTp/TmeyxS6nzr3GmgpeV8OmNMgknybTq2XMl5JUpV5H0XKkTWDCKfmkC7vuB2hqbgUEhCh+PO3tnZe9Jo/JiiqE40zX0nwOH/NdYVHH4YPsM+kzGwo3hvXFu22Y6if/lpD896PngiVTuZkWL72+HIcNN38K2OQpjV9jn/vN0hBXIf+J/6FtbnhOnc38x8NUn+IbdQAXIwnKk2JuHfdkATKY3LsUf4LGxrU3dwteC875MZe2tRXN4VQxusSxR5z643YouaBTp7vBHGx/v4isi8KImUWh5sleb+JurP8OhgAAA==",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotjgK86fvJuaQt38c-eKtRQDhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "q/6ZgDpfcqtSfrtgaubeE2h2r0KyK8qAfQROyFiGZqMJ9ekyqoOHQ4Ljp7dZCtsVe3Xkuh7wpI8DF0LKYtYLWrY6AiLqIsLwo765Y5JQ5MY=",
+            "_type": "PHOTO",
+            "width": 1920,
+            "photoId": 208330047,
+            "height": 1440
+          },
+          {
+            "previewData": "data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAADQCQCdASoyACYAAUAmJZwDUk3BuV5N9xlCqzv0f+AfxrxAPUb/sZl4pyj6mkQg4HqvT7gLkwN1SEhKQRWIBdDyPGc7LN1iHcF/difRK/wj4IxtLYtlceAA/vx9qRvXnQEJL0NhDstnPe2Nlw9eJOvbXZoTEHQHVX7cvqRSHt5uiIEbz2h8ABzwf5mh1BwyUQNdhevA5//FBfpJeV4Hm/2clbk//aG7je9iAnIUS/uMaLZkVy1jDHNoL70P/SaKybZ4ln+zWfU7+g+JjxQ0zIu5J+o6PKOeZBGBUH4f145NnRQMnTJVmch4bA81EYgZfe1sL/7namHszWNuCTzOIkv/BZdLqmhd/38Ja+4KnIrizMqW1s37X5S79cdJQerFuA5Zp61rNSIIjUilB3T24iO1DE+3qe2bN/txQ0Sf6oK0qKeoFiiLO5sHjtm3hmne+HIiWtQ+uQsV1z9gA/MG2twVaTyv4Nt1zwkKdRiSCt03dqQtdc0T/Fvl7WzyHrigojKY2B6yuhEpc25/F/TA0PwntCIL/q2J7G94wFR2SIs1mAAA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotmyecN1Tp2yryncYynS4H6ThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "/4Lznf5Zap5FiUur6IxMAN5XmHMBB/LS5ClLYW248wZTPMjZsVcCtbqFdJ9xt70klk9pAOeXncRNxkLk7PtEePEnDBGzEuEd8fqxPLKs7Qo=",
+            "_type": "PHOTO",
+            "width": 1920,
+            "photoId": 208331327,
+            "height": 1440
+          },
+          {
+            "previewData": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAABwCACdASoyACYAPlUei0WjoaEepAA4BUSzgANlXNMIVRBibT9veVzijmY5WmlCfLyClggEK2xhSX5S3r+bj2akWDoVwNqcKj5+YCPAAP78F/e+whndl92twep+4guB4RS1s9jODmK8+K+4p18difISEeRV6zMWQVzaeZP+0NXK3dUuYgPky4pKyX18bMqlwM0uk3q7EYkK81i/1er60+ez+/5nYKjbd3MAJYSzN63i61/f6ew4YjIMn2FaYg5NfbJ18wFDRF9iSKl1DwzqtM6ZqlPvRPeuIxP5cqi/qh7OCS1OZ3t78KVIF48By0tYmriixTbBQybjsVd5wOpblZTHQBDOhY3mxzDqoaTDAMeIuAQF/T9+v+Is/haxNgIAAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotiRxKPouFLP9t9EvT7NxGxjhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "fvYKjw5Wki8w5Wk12y8myER6HXn8g4D6i6+66pu3iU+ND5ppadyK+DJCdCpceIx9dmcejvjpqm8Trx/exQGXz2UqG6VV7eKOln20Y5doF5w=",
+            "_type": "PHOTO",
+            "width": 1920,
+            "photoId": 208331071,
+            "height": 1440
+          },
+          {
+            "previewData": "data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAACQCwCdASoyACYAPlUei0WjoaEepAA4BUSygGk6cueDptwMaAm8n+u/h/RAfiAVcHERq2obpP6wTLcfDmqHqsXMaOww9na372wbGf1uN6D8j8XbY3pV/lebaIL4018eQskh4AG4AAD+/H4o3uN7QJVAi/5VRM5obvZteSRXJKStrrmO5eM9adbmqe4Jos7AQsPVRdQ1J/hdon1bx5FXrRmFuCevY9V50Dujdu0zKwUcce0gQZ/A9Htuesk/804btobMllFEQ51/0VamIAzgt+vDNKMRuqRgvxY38gzw3N+TBUj8jlmIm83ccknubuhHWtHXh6vJWZbICsP1k/yXQu/9UiMP3/M3SrqaGhpY5VdzpjOf2d1L+9UjWV/xVz9+OdLNaJrLeDnjNUiHh0lRbsfw+cQEpB41T4h93cnmrbqKPkcvY72JxzGJiu8OHMO++Nfw9QD7CWgSlwOb8InJ3+U1hfsyik/XCgA3LqAQAKvKre0rsdNWUm0lH2c9pEQqLv1Ixfe2wwpdem0B8CiCP6GRMuRfWlJUvePg7IiyLeR3ZtlgvJ0hccwJG4AAAA==",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notr-9KR0_BCMfvHj_63K0o_ThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "g4p7Xo+WwReQmGfnL16jkK3BPZa667GNcvDFUAZ0jDum6ZEgqU5U5VBcYwTChjszjij8XeUyHmoMS48lKQuSaVfi4rEoX2LZTOoEM9JBDwg=",
+            "_type": "PHOTO",
+            "width": 1920,
+            "photoId": 208330303,
+            "height": 1440
+          }
+        ]
+      },
+      "chatId": -68348002658986
+    },
+    "updateTime": 1757505216419,
+    "id": "115179248062331929",
+    "time": 1757495850560,
+    "text": "",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757503523315,
+    "id": "115179737849476371",
+    "time": 1757503324119,
+    "text": "За Мирославом пришли?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {},
+    "updateTime": 1757503523326,
+    "id": "115179740076986572",
+    "time": 1757503358108,
+    "text": "Жду у в хода!!!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757503523337,
+    "id": "115179743245251049",
+    "time": 1757503406452,
+    "text": "Одевается!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757505194099,
+    "id": "115179802574008574",
+    "time": 1757504311737,
+    "text": "Уважаемые родители! Приглашаем вас принять участие в федеральном конкурсе «Это у нас семейное». Самый народный, масштабный конкурс. Возможность провести время с семьёй и выиграть ценные призы. Главный приз - 5 млн рублей на улучшение жилищных условий. Информация в группе лицея https://vk.com/wall-229004597_3644 По возникающим вопросам можно обращаться к советнику директора по воспитанию Линаре Зайнудиновне по номеру 89516578998",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 1200,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8o15X_0fxC4-iOSLKkbvHhIaoi1uJiGnUIVH9Af0sso4",
+          "height": 1200
+        },
+        "_type": "SHARE",
+        "host": "ВКонтакте",
+        "description": "Стартовал новый сезон самого народного конкурса президентской платформы «Россия – страна возможносте... Смотрите полностью ВКонтакте.",
+        "contentLevel": false,
+        "shareId": 141161284,
+        "title": "Лицей информационных технологий. Пост со стены.",
+        "url": "https://vk.com/wall-229004597_3644"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "link": {
+          "type": "FORWARD",
+          "message": {
+            "sender": 12101183,
+            "id": "115179240788656450",
+            "time": 1757495739573,
+            "text": "Потеряшки в столовой. Разошлите по чатам.",
+            "type": "USER",
+            "attaches": [
+              {
+                "previewData": "data:image/webp;base64,UklGRugBAABXRUJQVlA4INwBAABQCgCdASoyACYAAUAmJZyzAA3Icdj6ONyeV3+Al0f+UuJP8z9Iv9V7wD0ax7DSW1w5YDNHKd0R/seatQ7IKH5nbWxEhoJgTMFfkCilrrm7/4tZwJllaw7k4/wAAP7x4JJd8N6jvXhqUr8QoomUYlTQ+XYpZ72nlWb8d30t3aDC9KEWVy1HBjX+YCc8oeI3/dubliNBooZ6/2fi/4Kpp4AxQ5gvgrwninTJLBhuopK8Y6u+xGwDE5xpzGc9KlT/4uQyNeDevvEu8nztQ4pBDnLmrvQH0Z6ne5KLNroVK+A/wOih+bbfb/Y/mX7Oj7/vLVaMczkFQJXaRRMfikTp/TmeyxS6nzr3GmgpeV8OmNMgknybTq2XMl5JUpV5H0XKkTWDCKfmkC7vuB2hqbgUEhCh+PO3tnZe9Jo/JiiqE40zX0nwOH/NdYVHH4YPsM+kzGwo3hvXFu22Y6if/lpD896PngiVTuZkWL72+HIcNN38K2OQpjV9jn/vN0hBXIf+J/6FtbnhOnc38x8NUn+IbdQAXIwnKk2JuHfdkATKY3LsUf4LGxrU3dwteC875MZe2tRXN4VQxusSxR5z643YouaBTp7vBHGx/v4isi8KImUWh5sleb+JurP8OhgAAA==",
+                "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotjgK86fvJuaQt38c-eKtRQDhVCRuCB9LweYBPUPqBvxc",
+                "photoToken": "ycuCrx9kco7yP5czD60NrRWxGA0PTWLXEWYe/83BXPIDwnF6C54263tRsxLX6cB5AKOoXrwOG3BkkALjw/5+jpKgrkMtPURODXk0S09zTkk=",
+                "_type": "PHOTO",
+                "width": 1920,
+                "photoId": 208330047,
+                "height": 1440
+              },
+              {
+                "previewData": "data:image/webp;base64,UklGRq4BAABXRUJQVlA4IKIBAADQCQCdASoyACYAAUAmJZwDUk3BuV5N9xlCqzv0f+AfxrxAPUb/sZl4pyj6mkQg4HqvT7gLkwN1SEhKQRWIBdDyPGc7LN1iHcF/difRK/wj4IxtLYtlceAA/vx9qRvXnQEJL0NhDstnPe2Nlw9eJOvbXZoTEHQHVX7cvqRSHt5uiIEbz2h8ABzwf5mh1BwyUQNdhevA5//FBfpJeV4Hm/2clbk//aG7je9iAnIUS/uMaLZkVy1jDHNoL70P/SaKybZ4ln+zWfU7+g+JjxQ0zIu5J+o6PKOeZBGBUH4f145NnRQMnTJVmch4bA81EYgZfe1sL/7namHszWNuCTzOIkv/BZdLqmhd/38Ja+4KnIrizMqW1s37X5S79cdJQerFuA5Zp61rNSIIjUilB3T24iO1DE+3qe2bN/txQ0Sf6oK0qKeoFiiLO5sHjtm3hmne+HIiWtQ+uQsV1z9gA/MG2twVaTyv4Nt1zwkKdRiSCt03dqQtdc0T/Fvl7WzyHrigojKY2B6yuhEpc25/F/TA0PwntCIL/q2J7G94wFR2SIs1mAAA",
+                "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotmyecN1Tp2yryncYynS4H6ThVCRuCB9LweYBPUPqBvxc",
+                "photoToken": "YhxYNc+wJ8J5SEQXRnUQXtDm7UHWNw/4+kceiDVT7xl6P2caJbF1rjh+AHpE22N/OGrMgm9i9MNlgQwozHhJRtwrdIxKLRDp/Va/JTYqtyw=",
+                "_type": "PHOTO",
+                "width": 1920,
+                "photoId": 208331327,
+                "height": 1440
+              },
+              {
+                "previewData": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAABwCACdASoyACYAPlUei0WjoaEepAA4BUSzgANlXNMIVRBibT9veVzijmY5WmlCfLyClggEK2xhSX5S3r+bj2akWDoVwNqcKj5+YCPAAP78F/e+whndl92twep+4guB4RS1s9jODmK8+K+4p18difISEeRV6zMWQVzaeZP+0NXK3dUuYgPky4pKyX18bMqlwM0uk3q7EYkK81i/1er60+ez+/5nYKjbd3MAJYSzN63i61/f6ew4YjIMn2FaYg5NfbJ18wFDRF9iSKl1DwzqtM6ZqlPvRPeuIxP5cqi/qh7OCS1OZ3t78KVIF48By0tYmriixTbBQybjsVd5wOpblZTHQBDOhY3mxzDqoaTDAMeIuAQF/T9+v+Is/haxNgIAAAA=",
+                "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotiRxKPouFLP9t9EvT7NxGxjhVCRuCB9LweYBPUPqBvxc",
+                "photoToken": "OE0mH+gA+4UNXIHMk538+zzOJC4i22tjdYKrVS8tpinbV6NLRPMFqT5raT/1kigFqETZTwRYSCq9+swP7Zag9yCIilB324wui2o96o9yb4Q=",
+                "_type": "PHOTO",
+                "width": 1920,
+                "photoId": 208331071,
+                "height": 1440
+              },
+              {
+                "previewData": "data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAACQCwCdASoyACYAPlUei0WjoaEepAA4BUSygGk6cueDptwMaAm8n+u/h/RAfiAVcHERq2obpP6wTLcfDmqHqsXMaOww9na372wbGf1uN6D8j8XbY3pV/lebaIL4018eQskh4AG4AAD+/H4o3uN7QJVAi/5VRM5obvZteSRXJKStrrmO5eM9adbmqe4Jos7AQsPVRdQ1J/hdon1bx5FXrRmFuCevY9V50Dujdu0zKwUcce0gQZ/A9Htuesk/804btobMllFEQ51/0VamIAzgt+vDNKMRuqRgvxY38gzw3N+TBUj8jlmIm83ccknubuhHWtHXh6vJWZbICsP1k/yXQu/9UiMP3/M3SrqaGhpY5VdzpjOf2d1L+9UjWV/xVz9+OdLNaJrLeDnjNUiHh0lRbsfw+cQEpB41T4h93cnmrbqKPkcvY72JxzGJiu8OHMO++Nfw9QD7CWgSlwOb8InJ3+U1hfsyik/XCgA3LqAQAKvKre0rsdNWUm0lH2c9pEQqLv1Ixfe2wwpdem0B8CiCP6GRMuRfWlJUvePg7IiyLeR3ZtlgvJ0hccwJG4AAAA==",
+                "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notr-9KR0_BCMfvHj_63K0o_ThVCRuCB9LweYBPUPqBvxc",
+                "photoToken": "E2AAEKUiWBVbaJ2I07m+tdc7Bp8yl6BsohzCEtgMz6TgfO/z6Gso69p/ZDYPsr1Q9xQSJie2xDmTrEWDU16zMLua7x25lm0c7BpzJE/8CIY=",
+                "_type": "PHOTO",
+                "width": 1920,
+                "photoId": 208330303,
+                "height": 1440
+              }
+            ]
+          },
+          "chatId": -68348002658986
+        },
+        "updateTime": 1757505216419,
+        "id": "115179248062331929",
+        "time": 1757495850560,
+        "text": "",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757506822007,
+    "id": "115179813252893127",
+    "time": 1757504474684,
+    "text": "Данис , вчера забыл - это я точно знаю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "updateTime": 1757505194110,
+    "id": "115179813820450284",
+    "time": 1757504483344,
+    "text": "Я его жду на улице )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 47298472,
+        "updateTime": 1757506822007,
+        "id": "115179813252893127",
+        "time": 1757504474684,
+        "text": "Данис , вчера забыл - это я точно знаю",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757505194131,
+    "id": "115179827455413490",
+    "time": 1757504691397,
+    "text": "Наклейки были на бутылке ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 47298472,
+        "updateTime": 1757505194110,
+        "id": "115179813820450284",
+        "time": 1757504483344,
+        "text": "Я его жду на улице )",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757505194121,
+    "id": "115179840045673803",
+    "time": 1757504883509,
+    "text": "Одевается",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757505194131,
+        "id": "115179827455413490",
+        "time": 1757504691397,
+        "text": "Наклейки были на бутылке ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757505194142,
+    "id": "115179842735407083",
+    "time": 1757504924551,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "updateTime": 1757505194152,
+    "id": "115179843964710448",
+    "time": 1757504943309,
+    "text": "Даже вроде подписан был",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "updateTime": 1757505194163,
+    "id": "115179844431383512",
+    "time": 1757504950430,
+    "text": "На резинке ручки",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757505194173,
+    "id": "115179851667541318",
+    "time": 1757505060845,
+    "text": "Посмотрю 👌",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {},
+    "updateTime": 1757506822017,
+    "id": "115179884154477134",
+    "time": 1757505556556,
+    "text": "Я, мама Мальцева Андрея, у лестницы)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "updateTime": 1757506822027,
+    "id": "115179893261746644",
+    "time": 1757505695522,
+    "text": "За Алисой пришла,жду",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "updateTime": 1757506822037,
+    "id": "115179894341833631",
+    "time": 1757505712003,
+    "text": "Жду Кристину",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757506822047,
+    "id": "115179895534459989",
+    "time": 1757505730201,
+    "text": "За Раевским пришла",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "updateTime": 1757506822056,
+    "id": "115179908968483828",
+    "time": 1757505935188,
+    "text": "Сорокина Платона тоже можно отправлять)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757506822066,
+    "id": "115179914550411141",
+    "time": 1757506020361,
+    "text": "Все в гардеробе",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "updateTime": 1757509741299,
+    "id": "115179969253567561",
+    "time": 1757506855065,
+    "text": "Добрый день,  Василька жду у входа)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757509741310,
+    "id": "115179971012727504",
+    "time": 1757506881908,
+    "text": "Пошла в гардероб 👌",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757507369612,
+    "id": "115179982477354281",
+    "time": 1757507056844,
+    "text": "Дети ругаются матом ) уважаемые родители проведите воспитательную беседу 😉",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757507369624,
+    "id": "115179984612169098",
+    "time": 1757507089419,
+    "text": "😱",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757509741321,
+    "id": "115179985462766878",
+    "time": 1757507102398,
+    "text": "Напишите, пожалуйста, в личные сообщения, кто это был)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "😳"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757507369612,
+        "id": "115179982477354281",
+        "time": 1757507056844,
+        "text": "Дети ругаются матом ) уважаемые родители проведите воспитательную беседу 😉",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757507369634,
+    "id": "115179990703290903",
+    "time": 1757507182362,
+    "text": "Да( мой тоже вчера говорил об этом(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757507369645,
+    "id": "115179992607187092",
+    "time": 1757507211413,
+    "text": "А я не знаю он не смог объяснить",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757507369655,
+    "id": "115179997768465596",
+    "time": 1757507290168,
+    "text": "Поняла, завтра мне покажет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {},
+    "updateTime": 1757507369666,
+    "id": "115179999457708975",
+    "time": 1757507315944,
+    "text": "Добрый день! Виктория Романовна, отправьте, пожалуйста, Ксению в гардероб. Жду её у входа",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757507369676,
+    "id": "115180000542926513",
+    "time": 1757507332503,
+    "text": "Добрый день! Отправила)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1757509734684,
+    "id": "115180021519622377",
+    "time": 1757507652582,
+    "text": "Жду Артема на улице)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757507369612,
+        "id": "115179982477354281",
+        "time": 1757507056844,
+        "text": "Дети ругаются матом ) уважаемые родители проведите воспитательную беседу 😉",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757509734695,
+    "id": "115180033607556713",
+    "time": 1757507837029,
+    "text": "И мой говорил",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "🤣"
+        }
+      ],
+      "totalCount": 4
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 20327933,
+        "updateTime": 1757509734695,
+        "id": "115180033607556713",
+        "time": 1757507837029,
+        "text": "И мой говорил",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757509734705,
+    "id": "115180038826164925",
+    "time": 1757507916659,
+    "text": "Матом? 🤭",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 20327933,
+        "updateTime": 1757509734695,
+        "id": "115180033607556713",
+        "time": 1757507837029,
+        "text": "И мой говорил",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757509734715,
+    "id": "115180042580795985",
+    "time": 1757507973950,
+    "text": "Вадим мне помог, вычислили",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35284462,
+    "reactionInfo": {},
+    "updateTime": 1757509734726,
+    "id": "115180043512274353",
+    "time": 1757507988163,
+    "text": "Жду Вадима на улице",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алексей"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 35284462,
+        "updateTime": 1757509734726,
+        "id": "115180043512274353",
+        "time": 1757507988163,
+        "text": "Жду Вадима на улице",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757509734736,
+    "id": "115180044251655499",
+    "time": 1757507999445,
+    "text": "Одевается",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "👍"
+        },
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 4
+    },
+    "updateTime": 1757509734746,
+    "id": "115180044917822247",
+    "time": 1757508009610,
+    "text": "Я думаю так или иначе они все эти слова знают, остается только чаще напоминать что это их не красит 🙌🏻",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {},
+    "updateTime": 1757509734756,
+    "id": "115180059397541580",
+    "time": 1757508230553,
+    "text": "Прохора жду на улице",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757509734830,
+    "id": "115180066787588354",
+    "time": 1757508343316,
+    "text": "Отправила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 31203251,
+    "reactionInfo": {},
+    "updateTime": 1757509734767,
+    "id": "115180095219571445",
+    "time": 1757508777154,
+    "text": "За Мариной подошел",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Константин"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 31203251,
+        "updateTime": 1757509734767,
+        "id": "115180095219571445",
+        "time": 1757508777154,
+        "text": "За Мариной подошел",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757509734778,
+    "id": "115180103146349922",
+    "time": 1757508898107,
+    "text": "Пошла одеваться",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 16119236,
+    "reactionInfo": {},
+    "updateTime": 1757509734788,
+    "id": "115180104039336260",
+    "time": 1757508911733,
+    "text": "Максима жду на улице",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Мария"
+  },
+  {
+    "sender": 22059208,
+    "reactionInfo": {},
+    "updateTime": 1757509734798,
+    "id": "115180105304310661",
+    "time": 1757508931035,
+    "text": "За Марком подошла )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Валентина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757509734809,
+    "id": "115180106617616642",
+    "time": 1757508951074,
+    "text": "Отправила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757509734850,
+    "id": "115180141841315539",
+    "time": 1757509488545,
+    "text": "Аделина и Руслан с воспитателем",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757509734819,
+    "id": "115180143506585228",
+    "time": 1757509513955,
+    "text": "Номер телефона в группе есть, звоните ей, как будете подходить",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757521880872,
+    "id": "115180387956164347",
+    "time": 1757513243960,
+    "text": "Уважаемые родители, вы купили подложки на парты для рисования?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757521880883,
+    "id": "115180402655720651",
+    "time": 1757513468257,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {},
+    "updateTime": 1757521880894,
+    "id": "115180408061171409",
+    "time": 1757513550738,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "updateTime": 1757521880904,
+    "id": "115180460441470827",
+    "time": 1757514349998,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "updateTime": 1757521880915,
+    "id": "115180460715423137",
+    "time": 1757514354178,
+    "text": "Завтра нести?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757521880925,
+    "id": "115180466718125747",
+    "time": 1757514445772,
+    "text": "Пока что думаю над расписанием, вечером напишу",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757521880872,
+        "id": "115180387956164347",
+        "time": 1757513243960,
+        "text": "Уважаемые родители, вы купили подложки на парты для рисования?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757521880936,
+    "id": "115180467980159244",
+    "time": 1757514465029,
+    "text": "Нет.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757521880872,
+        "id": "115180387956164347",
+        "time": 1757513243960,
+        "text": "Уважаемые родители, вы купили подложки на парты для рисования?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757521880947,
+    "id": "115180469729516074",
+    "time": 1757514491722,
+    "text": "Нет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 6477486,
+    "reactionInfo": {},
+    "updateTime": 1757521880957,
+    "id": "115180471094150187",
+    "time": 1757514512545,
+    "text": "Нет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757521880967,
+    "id": "115180472060757291",
+    "time": 1757514527294,
+    "text": "Кто купил, скиньте ссылку, пожалуйста 🙏🏻",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "updateTime": 1757521880978,
+    "id": "115180476617261847",
+    "time": 1757514596821,
+    "text": "Я не купила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 20327933,
+        "updateTime": 1757521880967,
+        "id": "115180472060757291",
+        "time": 1757514527294,
+        "text": "Кто купил, скиньте ссылку, пожалуйста 🙏🏻",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757524737198,
+    "id": "115180531141335457",
+    "time": 1757515428792,
+    "text": "Я заказала такой до начала учебного года (фото прилагаю), но у меня есть опасение, что он очень маленький. Я надеялась на централизованную закупку, именно по размеру стола.\n\nНо может быть, размер 35 * 25 см тоже подойдет?\n\nhttps://ozon.ru/t/pmmpMP6",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRogBAABXRUJQVlA4IHwBAADwCACdASomADIAPlUei0WjoaEepAA4BUSxgGKF8WKVusBI4y9Ide2478EGMdZHcN/rsbjz3mStpOOurdTd4fHwP2nDvrTZa53YtxWVEqixAAD+4zSYQEkWUUNfDTz5OPiG2f9wjtxTN8uzX/8B5M9kL/P8UJH3Lz3diVQYisCQcPw3NbAJLTIF21Yw90kuB9T/49leRy/diOfahxVJy0r+E9Me4ll/gnUkUe8H9XV2cWzECZHgS4u7HK+oL1kBjW4sXXo2FkzUFqv+YH+Yw5OtWhhe+gJiWb1xX3pTnkv+z0tjGTN8sZrwsLY/Mat2/9ivJdjr5ZZTk8ojG/BMn8C4AzNIX7GvATbt/3lwzgZ3wUWokKmWjv9Ege+xji9MQezqra/yHsrThwJ78ys7HOgZevW4Tqvlzhfs9GzG/siifPmPbryROz/HGIrBnXFFhqG13D2mx0qGWG6sheXV3MDdq+T4uRpyQ81mlWxE6tWqp4weya1o6RaFO0AAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotTadqIkG-r_WuWhZyAIBFejhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "+clHQMhuCFJ52IFUNETgMXiL0ay4kP/eecL+VFdk7GJCg3odxOifMgZViAV92VDMxmhWdI/CY7GwnNu1oKdX14wja7DGMQfm8hWaom+hJKg=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 177466033,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAABQCACdASomADIAPlUgi0WkoiEer0QASAVEsoBdme15ZmMzROV8EViy5KKEzg0c8qhVY9tlCnseUuqH1lvelt7l+Hc732AfBUGyBUAA/u0slCOSm6h9b8ZbNERIZmEUJKT6ZbnXif+Le6/oo3udkEszveFMZ3GuM7n/SJH2Y8wht/tPIRxus1GMb6BsXIBiElNXhbNti3pfNaY5BLg42Yff44BqbYNrE1DKwvA3sHcr7IFnX4iYPVgNNfzOYUrVIbed91IT4zUPhmQYqHvCh8kapxNO9p5cXKpf5kaa/3OGdFcZ+lX2RvYfIkiT/wKYDIbhdieTlF1BQV6kPIg4NGq3c+gN8j3zplLtyGcRyTkFdi4TIYLsnc/r6HKUm0aUDW9ZA9wAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notb56ox6jDBLOun_VRoFW2XThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "G2wPoRCQ9UHMfW6FUGpt9WSiRNW4mYqFTjpZNHMznxXpK0MuOlbtQxRzhPqDTy6pq8VRdJIIBk3NK59BjYst0TLqs0+/mWYnt3AacbrDzLQ=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 177465777,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {},
+    "updateTime": 1757521890989,
+    "id": "115180547033360506",
+    "time": 1757515671285,
+    "text": "И я не купила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33953969,
+        "updateTime": 1757524737198,
+        "id": "115180531141335457",
+        "time": 1757515428792,
+        "text": "Я заказала такой до начала учебного года (фото прилагаю), но у меня есть опасение, что он очень маленький. Я надеялась на централизованную закупку, именно по размеру стола.\n\nНо может быть, размер 35 * 25 см тоже подойдет?\n\nhttps://ozon.ru/t/pmmpMP6",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRogBAABXRUJQVlA4IHwBAADwCACdASomADIAPlUei0WjoaEepAA4BUSxgGKF8WKVusBI4y9Ide2478EGMdZHcN/rsbjz3mStpOOurdTd4fHwP2nDvrTZa53YtxWVEqixAAD+4zSYQEkWUUNfDTz5OPiG2f9wjtxTN8uzX/8B5M9kL/P8UJH3Lz3diVQYisCQcPw3NbAJLTIF21Yw90kuB9T/49leRy/diOfahxVJy0r+E9Me4ll/gnUkUe8H9XV2cWzECZHgS4u7HK+oL1kBjW4sXXo2FkzUFqv+YH+Yw5OtWhhe+gJiWb1xX3pTnkv+z0tjGTN8sZrwsLY/Mat2/9ivJdjr5ZZTk8ojG/BMn8C4AzNIX7GvATbt/3lwzgZ3wUWokKmWjv9Ege+xji9MQezqra/yHsrThwJ78ys7HOgZevW4Tqvlzhfs9GzG/siifPmPbryROz/HGIrBnXFFhqG13D2mx0qGWG6sheXV3MDdq+T4uRpyQ81mlWxE6tWqp4weya1o6RaFO0AAAA==",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotTadqIkG-r_WuWhZyAIBFejhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "ezpeUYzT/Y8IC6zCgiv5OBt2YlqAaDZPN39AoCI46MJk2wIMs5FIZ3gq8a4iWzEjs/oarZ1+ILziHOHYfgqq/BRMGR8O0f/u6Iip3vJLOKo=",
+            "_type": "PHOTO",
+            "width": 1440,
+            "photoId": 177466033,
+            "height": 1920
+          },
+          {
+            "previewData": "data:image/webp;base64,UklGRjIBAABXRUJQVlA4ICYBAABQCACdASomADIAPlUgi0WkoiEer0QASAVEsoBdme15ZmMzROV8EViy5KKEzg0c8qhVY9tlCnseUuqH1lvelt7l+Hc732AfBUGyBUAA/u0slCOSm6h9b8ZbNERIZmEUJKT6ZbnXif+Le6/oo3udkEszveFMZ3GuM7n/SJH2Y8wht/tPIRxus1GMb6BsXIBiElNXhbNti3pfNaY5BLg42Yff44BqbYNrE1DKwvA3sHcr7IFnX4iYPVgNNfzOYUrVIbed91IT4zUPhmQYqHvCh8kapxNO9p5cXKpf5kaa/3OGdFcZ+lX2RvYfIkiT/wKYDIbhdieTlF1BQV6kPIg4NGq3c+gN8j3zplLtyGcRyTkFdi4TIYLsnc/r6HKUm0aUDW9ZA9wAAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notb56ox6jDBLOun_VRoFW2XThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "AHox/TIMswk/UJBN0fUYH/VolzKcVAikWrsyOmVO6dXb8z0DbfF6uOEkeP2BbKlVVGBcmf/xdKNqUhqpZnpV8LhF5KcyYQOBa4xOlhisDhU=",
+            "_type": "PHOTO",
+            "width": 1440,
+            "photoId": 177465777,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757521891003,
+    "id": "115180565316907716",
+    "time": 1757515950270,
+    "text": "Можете завтра принести, померю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757521891003,
+        "id": "115180565316907716",
+        "time": 1757515950270,
+        "text": "Можете завтра принести, померю",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757521891016,
+    "id": "115180566300008393",
+    "time": 1757515965271,
+    "text": "Хорошо",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757521880872,
+        "id": "115180387956164347",
+        "time": 1757513243960,
+        "text": "Уважаемые родители, вы купили подложки на парты для рисования?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757521891030,
+    "id": "115180629574708395",
+    "time": 1757516930766,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1757525120065,
+    "id": "115180636248036988",
+    "time": 1757517032593,
+    "text": "Lamark office line Клеенка-покрытие для труда и творчества настольное\nhttps://www.wildberries.ru/catalog/443580390/detail.aspx?size=627663667\n\nЯ такую купила и для изо и труда сразу.",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 900,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8itB1K77I4PvyEn1lS9BMx4aoi1uJiGnUIVH9Af0sso4",
+          "height": 1200
+        },
+        "_type": "SHARE",
+        "description": "Настольное покрытие подложка длина: 50 см ширина 35 см, для уроков труда ИЗО творчества LAMARK из полиэстерной ткани с водонепроницаемой пропиткой ПВХ предназначена для защиты рабоче...",
+        "contentLevel": false,
+        "shareId": 94189969,
+        "title": "Клеенка-покрытие для труда и творчества настольное, Lamark office line",
+        "url": "https://www.wildberries.ru/catalog/443580390/detail.aspx?size=627663667"
+      }
+    ],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115180641055614116",
+    "time": 1757517105951,
+    "text": "Расписание на завтра:\n1) Азбука\n2) Окружающий мир \n3) ИЗО ( берем листы А4, цветные карандаши)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 3
+    },
+    "updateTime": 1757524784136,
+    "id": "115180645563973080",
+    "time": 1757517174743,
+    "text": "Пока нет обложек, будем с ребятами рисовать цветными карандашами, чтобы не мыть парты. Вообще, нам пока не разрешают проводить изо, технологию, но я вижу, что ребята уже устали от постоянной математики и азбуки, так что 🤫",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "updateTime": 1757517290582,
+        "id": "115180651296067788",
+        "time": 1757517262208,
+        "text": "Сделаем таблицу и пусть отмечаются?",
+        "type": "USER",
+        "status": "REMOVED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757524784150,
+    "id": "115180652149372642",
+    "time": 1757517275228,
+    "text": "Точно тот чат?) 😅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757524784164,
+    "id": "115180697884322737",
+    "time": 1757517973088,
+    "text": "Подставку для учебников можно принести и оставить в классе?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "😍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757524784177,
+    "id": "115180727125566154",
+    "time": 1757518419274,
+    "text": "У нас вот такая 50×70 .покупали в детском мире.",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRsoBAABXRUJQVlA4IL4BAACwCQCdASoyACYAPlUejEWjoaEdVgA4BUSyAE6coKivPPMTwStJKFWgAA+Ohomto74gTPQs3IOq28IGuKUjf5dfYq91c9kuh0vgH3YWLYjUMjKybsxGcAD+jsixPxZ/7UvHW3f/B+q2foDAveByU5i+SA0keSzx7Ep8q5vvN6A7g5GFFjTYREv/CssjAdfgsivLT/Mx0lo+vFjzr61mJBHGiv4quXEHCIQjc3ie0fuuc2mvjQkwXVHCMhgXTP1/P1bOQ4O0onRCLpsZNub5NRtrKUQtYWDzQQETpFw9f3fmuqFKD2/uQiQh196CqG1+hsXfkXVnOlV3BpNLbG+PpQXmLdP8EbVpRQYprYVcPwBbKqUUePA1Zbqt+wDbM/ihRj5PzV62eIHlgnaDdNpFVJxLJRuFG9et9XWyrfU79RQ4HUzm/ttvHSbKMS5xJahf5MTGrQamXWGmFJEnHoVSkydTbqIwOgWZCSpw5b1Of31Ea2RmNEfWDwp5O/h4Nk0M6E1WTlxrVj1LA+oYn7EKOLcAV0jsvSaceW8SVNyfzQlR1XJYnJIqJiCJbGiSXRcpxg0PoqpAl8kvwNP79GVgAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotD6AwP_4B8OnFtaRZMyTb_jhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "PkBiR0sFWlWbaqMK4swPe5f0nYJgn6S9kYQrsC9YT3OPb249eFgI7KbxI4EDnoN5X2/BU2yAo0X+tLwUd56luGQLsEglL2Lu",
+        "_type": "PHOTO",
+        "width": 1000,
+        "photoId": 193180440,
+        "height": 750
+      }
+    ],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 36325681,
+        "updateTime": 1757524784164,
+        "id": "115180697884322737",
+        "time": 1757517973088,
+        "text": "Подставку для учебников можно принести и оставить в классе?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757524784197,
+    "id": "115180760739297112",
+    "time": 1757518932179,
+    "text": "Можно",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 34439283,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757507369612,
+        "id": "115179982477354281",
+        "time": 1757507056844,
+        "text": "Дети ругаются матом ) уважаемые родители проведите воспитательную беседу 😉",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757524784210,
+    "id": "115180804684082096",
+    "time": 1757519602723,
+    "text": "Мне ребенок сказал, что Ваня и Саша \nНе знаю на сколько достоверная информация",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "length": 24,
+        "from": 121,
+        "attributes": {
+          "url": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing"
+        },
+        "type": "LINK"
+      },
+      {
+        "type": "STRONG",
+        "length": 94,
+        "from": 147
+      },
+      {
+        "type": "STRONG",
+        "length": 2,
+        "from": 334
+      },
+      {
+        "type": "STRONG",
+        "length": 88,
+        "from": 337
+      },
+      {
+        "type": "STRONG",
+        "length": 88,
+        "from": 841
+      },
+      {
+        "type": "STRONG",
+        "length": 48,
+        "from": 1379
+      },
+      {
+        "type": "STRONG",
+        "length": 78,
+        "from": 1461
+      },
+      {
+        "type": "STRONG",
+        "length": 73,
+        "from": 1693
+      },
+      {
+        "type": "STRONG",
+        "length": 62,
+        "from": 1905
+      }
+    ],
+    "updateTime": 1758739655810,
+    "id": "115180899174339254",
+    "time": 1757521044530,
+    "text": "Уважаемые родители, объявляем организованный сбор. \nПросим вас в таблице отметить и проголосовать по следующим пунктам.\n\nТАБЛИЦА ПО ССЫЛКЕ ЗДЕСЬ!\n\n 1. Принесу свою подставку и оставлю в школе/ или прошу меня включить в организованную закупку*  - да/нет в таблице (по подставкам комментарий будет ниже). Кто уже закупил - приносите!\n\n 2. Принесу свою подложку для трудов и ИЗО/ или прошу меня включить в организованную закупку  - да/нет в таблице \nВыбранный вариант всем озвучим. Те, кто уже приобрел коврики, пожалуйста, передавайте в школу, Виктория Романовна посмотрит, может быть какой-то из них будет идеальным и всем остальным такие закупим. Мы уже ряд ковриков завтра утром передадим на тест).\n\nТакже есть потребность в закупке следующих товаров (выносим на голосование и обсуждение, по большинству примем решение - все добровольно):\n\n3. Есть потребность в цветном принтере. Это, на самом деле, вопрос на широкое обсуждение. Лицей предоставляет ч/б принтер, однако для распечатки раздаточных материалов есть постоянная потребность в цветной печати. Если скинемся большинством, то стоимость с человека будет порядка 450-600 руб. По итогу голосования озвучим сумму сбора и вынесем на обсуждение. Но возможно (гипотетически допускаем), что у кого-то завалялся дома или в офисе ненужный цветной принтер, который вы безвозмездно отдадите в класс. Что думаете по этому поводу? \n\n4. Есть потребность в собственных совке и метле. Это мелочь. Голосуем в таблице.\n\n5. Есть предложение закупить организованно символические подарки на ДР ребенка - разные, будут неожиданностью, Виктория Романовна будет доставать из \"широких штанин\" и это будет всегда сюрприз. Сумма до 400 руб. Согласуем примеры.\n\n6. Есть предложение внести в счет будущих ОБЩИХ орг.расходов по 2000 руб. при условии, что все расходы будем с родителями согласовывать. Согласы или нет. С прошлого сбора у нас осталась сумма 4 351 руб. 00 коп.\n\n7. И последнее - просим отметить, есть ли у ребенка аллергия, чтобы Виктория Романовна учитывала это, когда ребята в честь своего Дня рождения будут приносить сладости в класс. Детали не нужны - просто укажите да или нет. И если да - уже в личном порядке Виктория РОмановна у вас уточнит нюансы (условно, если аллергия только на орехи).",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 1200,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Nb0elQpMxebx3AnsgzgoC4aoi1uJiGnUIVH9Af0sso4",
+          "height": 630
+        },
+        "_type": "SHARE",
+        "host": "Google Docs",
+        "description": "Проголосуйте, пожалуйста, готовы ли вы принять участие на организованный сбор следующих товаров: - цветной принтер (школа закупает только ч/б), а для раздаточных материалов есть регулряная потребность в распечатк...",
+        "contentLevel": false,
+        "shareId": 92721231,
+        "title": "1.4. Оргвзносы_родители",
+        "url": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing"
+      }
+    ],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1758739649865,
+    "id": "115180901175794489",
+    "time": 1757521075070,
+    "text": "Для тех, кто все-таки справился, и дочитал этот текст до конца:\n\n1. Виктория Романовна сегодня вечером запишет голосовое сообщение с информацией про учебники, принадлежности для рисования, принадлежности для технологии, а также про примерное расписание на следующую неделю.\n\n2. Не переживайте, пока у всех не появятся коврики, \"грязные\" работы проводиться не будут. Виктория Романовна все контролирует и пока будут рисование выполнять карандашами.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757525005979,
+    "id": "115180908345497526",
+    "time": 1757521184471,
+    "text": "Докладываем о проведенном эксперименте. Подставки, которые предполагалось к закупке не прошли опытное тестирование. Сильно \"вылезают\" за пределы стола, создавая риск для безопасности ребенка. Поэтому для закупки будем использовать другой вариант, всем покажем.",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRiwCAABXRUJQVlA4ICACAADwDACdASomADIAPlUei0WjoaEepAA4BUSygGfZkA/QBe6Pl4+M/IePP+G6km4Yf5fv9f52rqv1z+j9C1+TpP/BvoPJvwyWhZ+t8tTvIc1yASKbO7IEXFeYNW+9ts1nycsLzH17UgkvENVaUKo5Oq1wAP782ricUKx3Uor2/OXmOcddQz9Yxz1Tgh1F/2whKpuhnvC4Yy+qWQ7o2NLulyxp19i+g4YEKh/7WhXyTHhZ2QMOjiqBF3o4jakXu7EerDQs54HLLfX+Lv42Y8IsO6fy+GzIoXsCmiKK2VJQRH/Qov/OTVMk0L+sHte+HM38wG1X7Y1j+mgS0MY0Tfv4XQ3wS+i3WFQEZ2QK8veApz28Cp2cZK8grHOmvt7Uxeh833gEig4MgBL3i6pIa+lZlvb40xRnrhFKit506duI7S8rWLqkv2yCT/PI8QuDhlOGf1ECNujJmrOX+ZG0ovsiznbz3G2tGsshfgHOJ3PFkqY05BMQY7cNf/k16RNnjOnXiZgoRcn0t1baPn9IPMDQFCjT8slUlSafnMEwt87tyc9Y6BlfGpbF9U0Rp3TkwcuaJndbCrdleqeZfUt/lp3NwiMrmsbd5tZ3cuyU+hGhGDn/KOzh9VQgDP1dQvXUo4G77fw1hnJqZm1o22Z3EnoUCQKYkLRrW5vQuYrhrFsTWYynzAsCGTJFj7p5r+lZrf2qnxjUQOvCJ64lqDQMSaFA0AAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotXuNy24iDdbCwsqINFO6hJDhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "478Nl+1TW4N06ReZ7qqIISAQiM5NbuX0Uu6rjC/PmywDNSiPgwnSuGligOMiQFboIFM1BF01uOCjfyroG0hlehA8/dXCGx2QF1ZNGzmmLjM=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 177127503,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739667794,
+        "id": "115157875046748252",
+        "time": 1757169724224,
+        "text": "Уважаемые родители! \n\nОтправляю Вам таблицу ГПД, туда Вам нужно вписывать: когда ребенок уходит, обедает или нет и кружки, на которые будет ходить. \n\nУход: Пишем время, в которое Вы планируете забрать ребенка. Обеды: если обедает пишем «да», если не обедает «нет». Столбец с кружками пока что пустой, так как у нас нет расписания, как только оно появится я его вставлю в эту табличку на последний лист)\n\nДанную таблицу нужно заполнять до 20:00 каждого дня\n\nhttps://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 125784132,
+            "title": "Таблица гпд.xlsx",
+            "url": "https://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757525796938,
+    "id": "115180976604323941",
+    "time": 1757522226018,
+    "text": "Напоминаю!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 34439283,
+        "updateTime": 1757524784210,
+        "id": "115180804684082096",
+        "time": 1757519602723,
+        "text": "Мне ребенок сказал, что Ваня и Саша \nНе знаю на сколько достоверная информация",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757525796950,
+    "id": "115181042625097657",
+    "time": 1757523233415,
+    "text": "А какой Ваня? Я просто не знаю, у нас в классе один Ваня? Просто мне мой Ваня сказал , что его конкретно послали, но не смог объяснить кто.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 18941460,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757525796972,
+    "id": "115181056477521345",
+    "time": 1757523444786,
+    "text": "Мой Ваня таких слов не знает и так никогда не разговаривает. Виктория Романовна подтвердит",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757525796961,
+    "id": "115181062883711281",
+    "time": 1757523542537,
+    "text": "А можно саму ссылку скинуть на таблицу скинуть пожалуйста чтобы ее здесь можно было скопировать",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757525796983,
+    "id": "115181064254274825",
+    "time": 1757523563450,
+    "text": "На какую из?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757525796994,
+    "id": "115181065587531537",
+    "time": 1757523583794,
+    "text": "Ну на ту где сборы денег",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "UNDERLINE",
+        "length": 15
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 15,
+        "entityId": 11897935
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 15,
+        "entityId": 11897935
+      }
+    ],
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757525796961,
+        "id": "115181062883711281",
+        "time": 1757523542537,
+        "text": "А можно саму ссылку скинуть на таблицу скинуть пожалуйста чтобы ее здесь можно было скопировать",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115181071703608960",
+    "time": 1757523677118,
+    "text": "Елена Савельева",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "LINK",
+        "length": 100,
+        "attributes": {
+          "url": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing"
+        }
+      }
+    ],
+    "id": "115181116795269779",
+    "time": 1757524365162,
+    "text": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 1200,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Nb0elQpMxebx3AnsgzgoC4aoi1uJiGnUIVH9Af0sso4",
+          "height": 630
+        },
+        "_type": "SHARE",
+        "host": "Google Docs",
+        "description": "Проголосуйте, пожалуйста, готовы ли вы принять участие на организованный сбор следующих товаров: - цветной принтер (школа закупает только ч/б), а для раздаточных материалов есть регулряная потребность в распечатк...",
+        "contentLevel": false,
+        "shareId": 92883279,
+        "title": "1.4. Оргвзносы_родители",
+        "url": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing"
+      }
+    ],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 34439283,
+        "updateTime": 1757524784210,
+        "id": "115180804684082096",
+        "time": 1757519602723,
+        "text": "Мне ребенок сказал, что Ваня и Саша \nНе знаю на сколько достоверная информация",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757526681614,
+    "id": "115181231513228900",
+    "time": 1757526115619,
+    "text": "Интересно. Мне Саша говорит, что не говорил.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11018897,
+        "updateTime": 1757526681614,
+        "id": "115181231513228900",
+        "time": 1757526115619,
+        "text": "Интересно. Мне Саша говорит, что не говорил.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757526681626,
+    "id": "115181235361558915",
+    "time": 1757526174340,
+    "text": "Выяснила. Да , вырождался. Беседовать пошла.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757530342853,
+    "id": "115181273821547631",
+    "time": 1757526761193,
+    "text": "Беседа проведена.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "👍"
+        },
+        {
+          "count": 2,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 6
+    },
+    "options": 1,
+    "id": "115181289909804428",
+    "time": 1757527006680,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "duration": 178608,
+        "audioId": 9602465882121,
+        "_type": "AUDIO",
+        "url": "https://vd168.okcdn.ru/?expires=1759909949373&srcIp=185.237.238.158&pr=96&srcAg=CHROME_MAC&ms=45.136.21.15&type=2&sig=OXzuJ5BwL4c&ct=2&urls=185.226.55.14&clientType=51&appId=1251240704&zs=12&id=8746637134345",
+        "wave": "data:image/webp;base64,a2pfdHNpZXBtbmVmaG5sY3Rpb2Zvd3ZmcWN2aWN1b3Nzf256dXpzc3N8cHhmeXByamlqe2ZnaW5nZmtua2Zmb25mcXN5cHhucGhraXFwbGc=",
+        "transcriptionStatus": "NOT_SUPPORTED",
+        "token": "f9LHodD0cOKlULrBjT-1Xjg6qZ2ofhlHM6FX0wf_kwi7WdW2laqKqOL4vIWC_An7a6EBzA1qvuLBTNub8JyY"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757530274396,
+    "id": "115181291376174330",
+    "time": 1757527029055,
+    "text": "Обязательно к прослушиванию! Ответила там на Ваши вопросы)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757530274408,
+    "id": "115181300761830666",
+    "time": 1757527172269,
+    "text": "Также напоминаю про ученические и фото!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757530284703,
+    "id": "115181332785675931",
+    "time": 1757527660914,
+    "text": "Спасибо! Скажите , пожалуйста, что нужно подготовить для бассейна .",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757530284717,
+    "id": "115181346910968115",
+    "time": 1757527876449,
+    "text": "Пока что, только энтеробиоз",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "elements": [
+          {
+            "type": "LINK",
+            "length": 100,
+            "attributes": {
+              "url": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing"
+            }
+          }
+        ],
+        "id": "115181116795269779",
+        "time": 1757524365162,
+        "text": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing",
+        "type": "USER",
+        "attaches": [
+          {
+            "image": {
+              "_type": "PHOTO",
+              "width": 1200,
+              "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8Nb0elQpMxebx3AnsgzgoC4aoi1uJiGnUIVH9Af0sso4",
+              "height": 630
+            },
+            "_type": "SHARE",
+            "host": "Google Docs",
+            "description": "Проголосуйте, пожалуйста, готовы ли вы принять участие на организованный сбор следующих товаров: - цветной принтер (школа закупает только ч/б), а для раздаточных материалов есть регулряная потребность в распечатк...",
+            "contentLevel": false,
+            "shareId": 92883279,
+            "title": "1.4. Оргвзносы_родители",
+            "url": "https://docs.google.com/spreadsheets/d/1RnUBCUgIo53jwIm88nStyKKf-opEC743Qun6N_CHKkc/edit?usp=sharing"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757530337058,
+    "id": "115181443015605984",
+    "time": 1757529342889,
+    "text": "Если что поменять  решение можно?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1757530333551,
+    "id": "115181444837081806",
+    "time": 1757529370683,
+    "text": "В итоге подставка обычная покупается?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757530333564,
+    "id": "115181451394627460",
+    "time": 1757529470743,
+    "text": "Да, мы покажем фото и ссылку подставки и коврика, которые оптимальным образом подходят и согласованы с Викторией Романовной, кто захочет, дадим время, чтобы вы заменили в таблице решение.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757530333577,
+    "id": "115181451889229244",
+    "time": 1757529478290,
+    "text": "Сейчас приоритетный вариант вот эта",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757530333590,
+    "id": "115181452192198290",
+    "time": 1757529482913,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRloBAABXRUJQVlA4IE4BAADwBwCdASoWADIAPlUei0WjoaEd9AA4BUSyAGHUxtABTgB7xTZ9SVJgl4pwZDCvavUS7jEihz5vgbSZm0zVDud0GHSmkmI2PAAA/v3dr1tVTH+HnjriPzXPJ7lCO3flfaw4UtfsVWY2FeLDKYynRuCtZRb1UVJfJgip1T+nfJ2mk7/mBF91di2PtSINK6BStbms6/Q/TBgdZH0wU/MnZXgedfr7QBfr7S+tSQORV1S1i2fNj4iKigXMa9oBFPH+DxjOnHC+6UsypIMoBMJpdY1sEOex2t6eNmiveVI9XcvSl3f8LU9+6Vg6K+o48XJDsjv8d7OW/8vSJTd/UX3fpBAvWubNFsq2Qlc2sd80h3t/8uXfivEIO3zuOGfE297m0fjLTdkGpiJq+WIDCDSFRvzgexYQRrdAY//rCOCOmElhzRf+qMkYRLu+U9sNfgAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotPCuY5VBjDvfwxnZIq9YUiThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "MaeWyLUMb1DMwro6+1a8wyoRE1rL8aCBxi5VbZh2a/EcUJ++ASxDNvTJK9BVqtdgGJHbKKHjAOqc0q69CKm46TDvYvJh/wSU",
+        "_type": "PHOTO",
+        "width": 504,
+        "photoId": 177846607,
+        "height": 1122
+      }
+    ],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757530333523,
+    "id": "115181453510719000",
+    "time": 1757529503032,
+    "text": "Она тяжёлая, металлическая. Соседний класс такую закупил.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757530333537,
+    "id": "115181478237065758",
+    "time": 1757529880326,
+    "text": "Вроде бы у нас такая же, завтра принесем",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 6477486,
+    "id": "115181673710826485",
+    "time": 1757532863019,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "shortMessage": "Olga начал(-а) звонок в чате",
+        "event": "system",
+        "message": "Olga начал(-а) звонок в чате"
+      }
+    ],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": -9223372036854775808,
+    "id": "115181675316200124",
+    "time": 1757532887515,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "shortMessage": "Звонок в чате завершен",
+        "event": "system",
+        "message": "Звонок в чате завершен"
+      }
+    ],
+    "sender_name": null
+  }
+]

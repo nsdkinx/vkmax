@@ -1,0 +1,1043 @@
+[
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758739624957,
+    "id": "115201274172617414",
+    "time": 1757831942331,
+    "text": "Доброе утро! С этой недели у нас увеличивается количество уроков. Понедельник, среда, пятница - 4 урока. Вторник, четверг - 5 уроков. Расписание звонков прикрепляю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1758739619604,
+    "id": "115201274323874383",
+    "time": 1757831944639,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABQBgCdASoyACYAPmUmjkWkIiEapABABkS0gAA4KoTWvWPRtRh5d/5wIjmEvqWbDM1oK9H8JtLFKeuvoAD+/nwvZJqm99/EJ3QsE15SZhT3soNhOb1SBbGA9yIsm3lwPxlant8GkQus+b6SrEi1wzz7oKd3fiDhtV2lE2HufXzJ0xpfesM/40I7qm5y0/qybb7g9xbPZ6bGiK09Hm/HjnfpyxpxDNVnx3N6Ar7s5Rp/OcMKLbWSbAAAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notqd5sD9BhrYvcoaZMNQ5NADhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "SnpjY6Lldq8z+JcMuHijYSqSEU4N3yKKfVMsUhE6bR/a/ULZVfCke8KzqtUe8Iu4L9f6omd1ZrrU83WR5gvcqOqnYyQ/rNpg",
+        "_type": "PHOTO",
+        "width": 1273,
+        "photoId": 260763972,
+        "height": 963
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739619604,
+        "id": "115201274323874383",
+        "time": 1757831944639,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAABQBgCdASoyACYAPmUmjkWkIiEapABABkS0gAA4KoTWvWPRtRh5d/5wIjmEvqWbDM1oK9H8JtLFKeuvoAD+/nwvZJqm99/EJ3QsE15SZhT3soNhOb1SBbGA9yIsm3lwPxlant8GkQus+b6SrEi1wzz7oKd3fiDhtV2lE2HufXzJ0xpfesM/40I7qm5y0/qybb7g9xbPZ6bGiK09Hm/HjnfpyxpxDNVnx3N6Ar7s5Rp/OcMKLbWSbAAAAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notqd5sD9BhrYvcoaZMNQ5NADhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "WrRKy3+oy0JzAGr+Cf2dNgTl0tSMgd01Gm5ObKSDRlBdh1TRoXC9+MEqctsQliBQpAiHbhy6YaNtz0650HlLC2s1cO1a3j9U",
+            "_type": "PHOTO",
+            "width": 1273,
+            "photoId": 260763972,
+            "height": 963
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757833202683,
+    "id": "115201280284243486",
+    "time": 1757832035587,
+    "text": "Обед во сколько?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "updateTime": 1757833202693,
+    "id": "115201281190483073",
+    "time": 1757832049415,
+    "text": "А какие завтра уроки?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33031021,
+        "updateTime": 1757833202683,
+        "id": "115201280284243486",
+        "time": 1757832035587,
+        "text": "Обед во сколько?)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757833202703,
+    "id": "115201281807303200",
+    "time": 1757832058827,
+    "text": "В 13:30",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 41143905,
+    "reactionInfo": {},
+    "updateTime": 1757833202713,
+    "id": "115201281850681137",
+    "time": 1757832059489,
+    "text": "12:40 обед был",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Svetlana"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "updateTime": 1757833202723,
+    "id": "115201283647174921",
+    "time": 1757832086901,
+    "text": "Обед был с 13.30 до 14",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37353144,
+        "updateTime": 1757833202693,
+        "id": "115201281190483073",
+        "time": 1757832049415,
+        "text": "А какие завтра уроки?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757833202733,
+    "id": "115201285664484266",
+    "time": 1757832117683,
+    "text": "Пока секрет, жду пока одобрят расписание",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757833202742,
+    "id": "115201298781704531",
+    "time": 1757832317836,
+    "text": "Обед, пока что, без изменений в 13:30",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1757835782393,
+    "id": "115201450442238656",
+    "time": 1757834631992,
+    "text": "Доброе утро! Виктория Романовна, подскажите пожалуйста, если в столовой микроволновые печи , где можно будет подогреть еду? \nСомневаюсь,  что Анвар будет есть школьные обеды оставаясь в ГПД, планирую передавать с собой",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757835782404,
+    "id": "115201462219730890",
+    "time": 1757834811702,
+    "text": "Доброе утро! По СанПин дети не могут пользоваться микроволновыми печами(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757835782371,
+    "id": "115201465857889075",
+    "time": 1757834867216,
+    "text": "По моему, их даже и не закупали исходя из СанПина",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757835782382,
+    "id": "115201491367841288",
+    "time": 1757835256467,
+    "text": "‼️ВАЖНО‼️\nЕсли я не задаю домашнее задание, дети не выполняют задания в рабочих тетрадях и прописях. У меня есть план работы, по которому я планирую наши уроки, в пятницу у нескольких детей задания уже были сделаны дома, им пришлось делать задание заново.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739667794,
+        "id": "115157875046748252",
+        "time": 1757169724224,
+        "text": "Уважаемые родители! \n\nОтправляю Вам таблицу ГПД, туда Вам нужно вписывать: когда ребенок уходит, обедает или нет и кружки, на которые будет ходить. \n\nУход: Пишем время, в которое Вы планируете забрать ребенка. Обеды: если обедает пишем «да», если не обедает «нет». Столбец с кружками пока что пустой, так как у нас нет расписания, как только оно появится я его вставлю в эту табличку на последний лист)\n\nДанную таблицу нужно заполнять до 20:00 каждого дня\n\nhttps://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 125784132,
+            "title": "Таблица гпд.xlsx",
+            "url": "https://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757842345306,
+    "id": "115201557987791729",
+    "time": 1757836273007,
+    "text": "Напоминаю про таблицу!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757835782382,
+        "id": "115201491367841288",
+        "time": 1757835256467,
+        "text": "‼️ВАЖНО‼️\nЕсли я не задаю домашнее задание, дети не выполняют задания в рабочих тетрадях и прописях. У меня есть план работы, по которому я планирую наши уроки, в пятницу у нескольких детей задания уже были сделаны дома, им пришлось делать задание заново.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757842345349,
+    "id": "115201804969397714",
+    "time": 1757840041647,
+    "text": "Добрый день. А как понять что задали?) Нам всегда говорит, что ничего не задали 🤣🤦🏽‍♀️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1757842345363,
+    "id": "115201812745828736",
+    "time": 1757840160306,
+    "text": "Я буду писать домашнее задание сюда, с этой учебной недели домашнее задание будет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 6477486,
+    "reactionInfo": {},
+    "updateTime": 1757842345377,
+    "id": "115201833238159727",
+    "time": 1757840472994,
+    "text": "Добрый день! На продленке выполняют домашнее задание? Если да, то вы смотрите, что они делают, или это только ответственность детей?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 5
+    },
+    "updateTime": 1757842345321,
+    "id": "115201840380076470",
+    "time": 1757840581971,
+    "text": "Добрый день! Да, на продленке. Конечно смотрю, мне важен не факт того, что они сделали домашнее задание, а как они его сделали)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 6477486,
+    "reactionInfo": {},
+    "updateTime": 1757842345335,
+    "id": "115201841963286444",
+    "time": 1757840606129,
+    "text": "Спасибо большое!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864276919,
+    "id": "115202281062821917",
+    "time": 1757847306256,
+    "text": "Грустные новости 😭\n\nНа сайте выложили расписание дополнительных занятий, но все они доступны с 7 лет. Я знаю, что некоторым деткам ещё нет 7 лет поэтому я задала вопрос администрации, что делать тем, кому ещё 6. \n\nОтвет администрации: Строго говоря, если в образовательной программе написано «7-12 лет», то мы и не имеем права зачислять туда шестилеток)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1757864269864,
+    "id": "115202308478948545",
+    "time": 1757847724593,
+    "text": "Может можно обратиться в лицей с каким нибудь заявлением? Лично?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864269850,
+    "id": "115202311813889475",
+    "time": 1757847775480,
+    "text": "Скорее всего, нет. Ответ администрации: Просто если мы поставим ограничение 6, туда набегут дети из детского сада",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864269850,
+        "id": "115202311813889475",
+        "time": 1757847775480,
+        "text": "Скорее всего, нет. Ответ администрации: Просто если мы поставим ограничение 6, туда набегут дети из детского сада",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757919615983,
+    "id": "115202341957339368",
+    "time": 1757848235433,
+    "text": "Да, логично, но мы 6летки, кто учится в лицее в 1м классе, может можно нас в индивидуальном порядке рассмотреть 🤞",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 5
+    },
+    "updateTime": 1757919615994,
+    "id": "115202357599422330",
+    "time": 1757848474112,
+    "text": "Информацию передала, будем надеяться, что запишут",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739667794,
+        "id": "115157875046748252",
+        "time": 1757169724224,
+        "text": "Уважаемые родители! \n\nОтправляю Вам таблицу ГПД, туда Вам нужно вписывать: когда ребенок уходит, обедает или нет и кружки, на которые будет ходить. \n\nУход: Пишем время, в которое Вы планируете забрать ребенка. Обеды: если обедает пишем «да», если не обедает «нет». Столбец с кружками пока что пустой, так как у нас нет расписания, как только оно появится я его вставлю в эту табличку на последний лист)\n\nДанную таблицу нужно заполнять до 20:00 каждого дня\n\nhttps://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 125784132,
+            "title": "Таблица гпд.xlsx",
+            "url": "https://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864243171,
+    "id": "115202535081452026",
+    "time": 1757851182273,
+    "text": "Жду данные)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "👍"
+        },
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 4
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864276919,
+        "id": "115202281062821917",
+        "time": 1757847306256,
+        "text": "Грустные новости 😭\n\nНа сайте выложили расписание дополнительных занятий, но все они доступны с 7 лет. Я знаю, что некоторым деткам ещё нет 7 лет поэтому я задала вопрос администрации, что делать тем, кому ещё 6. \n\nОтвет администрации: Строго говоря, если в образовательной программе написано «7-12 лет», то мы и не имеем права зачислять туда шестилеток)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864249728,
+    "id": "115202939354948553",
+    "time": 1757857350997,
+    "text": "По поводу 6 лет:\n\nАдминистрация сейчас решает эту ситуацию, как только будет решение, я Вам сообщу 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757864239145,
+    "id": "115202963376579258",
+    "time": 1757857717538,
+    "text": "Расписания еще не было на завтра, или пропустила?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757864239145,
+        "id": "115202963376579258",
+        "time": 1757857717538,
+        "text": "Расписания еще не было на завтра, или пропустила?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864137891,
+    "id": "115203002667385939",
+    "time": 1757858317068,
+    "text": "Не было, жду подтверждения",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1757919616005,
+    "id": "115203005851172931",
+    "time": 1757858365649,
+    "text": "Завтра жду от каждого ребенка тетрадь в косую частую линию) Желательно, чтобы тетради были подписаны и с обложкой 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739667794,
+        "id": "115157875046748252",
+        "time": 1757169724224,
+        "text": "Уважаемые родители! \n\nОтправляю Вам таблицу ГПД, туда Вам нужно вписывать: когда ребенок уходит, обедает или нет и кружки, на которые будет ходить. \n\nУход: Пишем время, в которое Вы планируете забрать ребенка. Обеды: если обедает пишем «да», если не обедает «нет». Столбец с кружками пока что пустой, так как у нас нет расписания, как только оно появится я его вставлю в эту табличку на последний лист)\n\nДанную таблицу нужно заполнять до 20:00 каждого дня\n\nhttps://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 125784132,
+            "title": "Таблица гпд.xlsx",
+            "url": "https://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864137880,
+    "id": "115203220710901273",
+    "time": 1757861644148,
+    "text": "7 человек не заполнили таблицу, больше ждать не могу(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 22059208,
+    "reactionInfo": {},
+    "updateTime": 1757864144136,
+    "id": "115203224933312384",
+    "time": 1757861708577,
+    "text": "Я буквально через 10 минут смогу дойти до компа",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Валентина"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864137880,
+        "id": "115203220710901273",
+        "time": 1757861644148,
+        "text": "7 человек не заполнили таблицу, больше ждать не могу(",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864144150,
+    "id": "115203248119503965",
+    "time": 1757862062370,
+    "text": "Заполнила 🙌🏻",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864152358,
+    "id": "115203252722627725",
+    "time": 1757862132608,
+    "text": "Спасибо",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 16119236,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864152358,
+        "id": "115203252722627725",
+        "time": 1757862132608,
+        "text": "Спасибо",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864152369,
+    "id": "115203260638962207",
+    "time": 1757862253402,
+    "text": "Добрый вечер\nОтметьте, Максима, пожалуйста \nДо 16.00 с обедом",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Мария"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "updateTime": 1757864200272,
+    "id": "115203300506667534",
+    "time": 1757862861735,
+    "text": "Виктория Романовна, у меня вопрос по доп занятиям, мы подали заявку на Город мастеров, ответа еще нет - на рассмотрении. Первое занятие завтра. Надо ли ребенку брать с собой гуашь, кисти и т.д. по списку?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 15598209,
+        "updateTime": 1757864200272,
+        "id": "115203300506667534",
+        "time": 1757862861735,
+        "text": "Виктория Романовна, у меня вопрос по доп занятиям, мы подали заявку на Город мастеров, ответа еще нет - на рассмотрении. Первое занятие завтра. Надо ли ребенку брать с собой гуашь, кисти и т.д. по списку?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864200286,
+    "id": "115203308914889488",
+    "time": 1757862990034,
+    "text": "Надо",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864200299,
+    "id": "115203310212307625",
+    "time": 1757863009831,
+    "text": "А во сколько занятие, подскажите, пожалуйста 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "updateTime": 1757864200313,
+    "id": "115203310755932697",
+    "time": 1757863018126,
+    "text": "Спасибо",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864200299,
+        "id": "115203310212307625",
+        "time": 1757863009831,
+        "text": "А во сколько занятие, подскажите, пожалуйста 🙏",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864200420,
+    "id": "115203315446074416",
+    "time": 1757863089692,
+    "text": "Или на сайте нет информации?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864200299,
+        "id": "115203310212307625",
+        "time": 1757863009831,
+        "text": "А во сколько занятие, подскажите, пожалуйста 🙏",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864200327,
+    "id": "115203315526227621",
+    "time": 1757863090915,
+    "text": "В 15:30",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1757864200340,
+    "id": "115203316302112116",
+    "time": 1757863102754,
+    "text": "А по расписанию ещё ждём?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 15598209,
+        "updateTime": 1757864200327,
+        "id": "115203315526227621",
+        "time": 1757863090915,
+        "text": "В 15:30",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864200354,
+    "id": "115203316691453770",
+    "time": 1757863108695,
+    "text": "Поняла, большое спасибо 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1757864200367,
+    "id": "115203316922925656",
+    "time": 1757863112227,
+    "text": "На завтра",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "updateTime": 1757864200380,
+    "id": "115203319187718592",
+    "time": 1757863146785,
+    "text": "Там 2 группы на город мастеров. Понедельник и среда",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 2
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 35121200,
+        "updateTime": 1757864200340,
+        "id": "115203316302112116",
+        "time": 1757863102754,
+        "text": "А по расписанию ещё ждём?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864233315,
+    "id": "115203319543708316",
+    "time": 1757863152217,
+    "text": "Да, но точно могу сказать, что 1 уроком - Разговоры о важном, а 4 - бассейн (ничего брать не надо, будет знакомство)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864233315,
+        "id": "115203319543708316",
+        "time": 1757863152217,
+        "text": "Да, но точно могу сказать, что 1 уроком - Разговоры о важном, а 4 - бассейн (ничего брать не надо, будет знакомство)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757864200394,
+    "id": "115203321812164565",
+    "time": 1757863186831,
+    "text": "Класс! Теоретический заплыв!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864200407,
+    "id": "115203323859464768",
+    "time": 1757863218070,
+    "text": "Я жду до 19:00, потом отправлю расписание)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757919616005,
+        "id": "115203005851172931",
+        "time": 1757858365649,
+        "text": "Завтра жду от каждого ребенка тетрадь в косую частую линию) Желательно, чтобы тетради были подписаны и с обложкой 🙏",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757919590043,
+    "id": "115203330899444490",
+    "time": 1757863325492,
+    "text": "А как подписываем, для работ по … ?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 29282029,
+        "updateTime": 1757919590043,
+        "id": "115203330899444490",
+        "time": 1757863325492,
+        "text": "А как подписываем, для работ по … ?)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758008156559,
+    "id": "115203363440298958",
+    "time": 1757863822026,
+    "text": "для работ по обучению грамоте",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757954830906,
+    "id": "115203369743684017",
+    "time": 1757863918208,
+    "text": "Расписание на завтра:\n1) Разговоры о важном \n2) Русский язык (прописи, тетрадь в косую линейку)\n3) Музыка\n4) Бассейн\n5) Окружающий мир (рабочая тетрадь)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864221378,
+    "id": "115203371273227969",
+    "time": 1757863941547,
+    "text": "Пока что расписание такое, возможно, будут изменения (позже)",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1757864214212,
+    "id": "115203376651858260",
+    "time": 1757864023618,
+    "text": "Виктория Романовна, пока нет ответа от администрации насчет 6 летних первоклассников?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864214223,
+    "id": "115203377533841478",
+    "time": 1757864037076,
+    "text": "К сожалению, нет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757864214233,
+    "id": "115203379684317864",
+    "time": 1757864069890,
+    "text": "Планируют потом открыть доп. группы",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757919579336,
+    "id": "115203734014334149",
+    "time": 1757869476537,
+    "text": "Только для записавшихся!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757919579325,
+    "id": "115203734016702555",
+    "time": 1757869476573,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "FILE",
+        "name": "Рсписание ОДОД на 15.09.25.docx",
+        "size": 14930,
+        "fileId": 5630937,
+        "token": "f9LHodD0cOI2Sr8mQ94O1gYlA3nICcfiSrGBty9Ee0WSrNN0JC0SIUap6SE6GeRcYE72Uv0hYEVP1gte0ie5"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757870203140,
+    "id": "115203771176792665",
+    "time": 1757870043591,
+    "text": "А что нужно в бассейн брать?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757864233315,
+        "id": "115203319543708316",
+        "time": 1757863152217,
+        "text": "Да, но точно могу сказать, что 1 уроком - Разговоры о важном, а 4 - бассейн (ничего брать не надо, будет знакомство)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757870203151,
+    "id": "115203780429751258",
+    "time": 1757870184780,
+    "text": "Ничего, в сообщениях выше уже писала",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  }
+]

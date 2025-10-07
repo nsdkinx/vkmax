@@ -1,0 +1,1204 @@
+[
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115132984305351386",
+    "time": 1756789921651,
+    "text": "Доброе утро! ☀️ \n\nНапоминаю про мед. осмотр с 10:40-11:00!\nЗабираем детей в 10:30, после мед. осмотра приводим обратно ко мне 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "UNDERLINE",
+        "length": 18
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      }
+    ],
+    "id": "115133150225712603",
+    "time": 1756792453395,
+    "text": "Виктория Романовна доброе утро! Проговорите пожалуйста с детками маршрут от раздевалки до класса🙏Алина растерялась и не знала куда идти, думаю, мы не одни такие",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115133160959276195",
+    "time": 1756792617176,
+    "text": "Я думала их после турникета встречают",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115133163435095522",
+    "time": 1756792654954,
+    "text": "Напишите вообще нам дети нашли дошли? Организация конечно пока не очень",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115133167133410380",
+    "time": 1756792711386,
+    "text": "И не хотелось бы мешки со сменкой не потерять в этом дурдоме)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "id": "115133171529876052",
+    "time": 1756792778471,
+    "text": "Доброе утро! Да , хотелось бы знать как дошли детки) \nМожет надо ограничить проход родителей до турникета, подвел ребенка к лестницам, а внутри встречает учитель",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115133172841805554",
+    "time": 1756792798489,
+    "text": "Так нас за турникет и не пустили",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 4
+    },
+    "id": "115133173296878951",
+    "time": 1756792805433,
+    "text": "Может нам если погода позволяет собираться у школы, потом всем классом заходить?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115133173799143894",
+    "time": 1756792813097,
+    "text": "Ну лучше так",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 12421452,
+        "id": "115133173296878951",
+        "time": 1756792805433,
+        "text": "Может нам если погода позволяет собираться у школы, потом всем классом заходить?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133176168801989",
+    "time": 1756792849255,
+    "text": "Как я поняла, стоя в очереди, некоторые классы так и сделали",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "💯"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "id": "115133172841805554",
+        "time": 1756792798489,
+        "text": "Так нас за турникет и не пустили",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133187974637068",
+    "time": 1756793029398,
+    "text": "Я имею ввиду, даже не доходить до него и не проходить внутрь, только до лестниц",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 32011993,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 38857467,
+        "elements": [
+          {
+            "type": "UNDERLINE",
+            "length": 18
+          },
+          {
+            "type": "USER_MENTION",
+            "length": 18,
+            "entityId": 44502596
+          },
+          {
+            "type": "USER_MENTION",
+            "length": 18,
+            "entityId": 44502596
+          }
+        ],
+        "id": "115133150225712603",
+        "time": 1756792453395,
+        "text": "Виктория Романовна доброе утро! Проговорите пожалуйста с детками маршрут от раздевалки до класса🙏Алина растерялась и не знала куда идти, думаю, мы не одни такие",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133188720306479",
+    "time": 1756793040776,
+    "text": "Если бы знали где наш класс, нам же его не показали даже на собрании",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Рашад"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "id": "115133189653753533",
+    "time": 1756793055019,
+    "text": "Класс 127 наш",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "length": 2,
+        "entityId": 62,
+        "from": 67,
+        "attributes": {
+          "animojiSetId": "1",
+          "animojiLottieUrl": "https://st.max.ru/lottie/picker_zany.json"
+        },
+        "type": "ANIMOJI"
+      }
+    ],
+    "id": "115133193613949299",
+    "time": 1756793115447,
+    "text": "Хорошо ,что бейджики у детей есть. Хоть по ним рассортируют цыплят 🤪",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 32011993,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 12421452,
+        "id": "115133189653753533",
+        "time": 1756793055019,
+        "text": "Класс 127 наш",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133195389397136",
+    "time": 1756793142538,
+    "text": "Это понятно,  а маршрут куда конкретно идти. Я про это!.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Рашад"
+  },
+  {
+    "sender": 31203251,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 32011993,
+        "id": "115133195389397136",
+        "time": 1756793142538,
+        "text": "Это понятно,  а маршрут куда конкретно идти. Я про это!.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133198610818206",
+    "time": 1756793191693,
+    "text": "До турникета, дальше сами отведут.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Константин"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115133207049951116",
+    "time": 1756793320464,
+    "text": "Вообщем дети и родители словили стресс все сейчас. Как узнать теперь что ребенок в классе с рюкзаком и мешком со сменкой ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 41201600,
+    "reactionInfo": {},
+    "id": "115133210368949833",
+    "time": 1756793371108,
+    "text": "Наш классный,напишет!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Sergey"
+  },
+  {
+    "sender": 32011993,
+    "reactionInfo": {},
+    "id": "115133215853984124",
+    "time": 1756793454803,
+    "text": "Надеюсь над организацией прохода в школу продумают, сегодня была прекрасная и стоять 10-15 мин в очереди было не сложно, а если ливень или мороз под 20 ) вот тут уже не так красочно будет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Рашад"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "updateTime": 1756793688737,
+    "id": "115133227749826275",
+    "time": 1756793636319,
+    "text": "Наверное надо пораньше приходить. Видимо все рядом живут и вышли за 15 минут до звонка.",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 41143905,
+    "reactionInfo": {},
+    "id": "115133228742042970",
+    "time": 1756793651459,
+    "text": "Так мы только две недели их водим , дальше от калитки они сами",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Svetlana"
+  },
+  {
+    "sender": 41143905,
+    "reactionInfo": {},
+    "id": "115133231908459828",
+    "time": 1756793699775,
+    "text": "Родители первые две недели провожают ребёнка до входа в здание (до 12.09.) для адаптации и изучения маршрута.\nНачиная с 15.09. вход для родителей будет только до ворот лицея (по территории лицея ребёнок передвигается самостоятельная).",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Svetlana"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 12421452,
+        "id": "115133173296878951",
+        "time": 1756792805433,
+        "text": "Может нам если погода позволяет собираться у школы, потом всем классом заходить?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133296695328769",
+    "time": 1756794688344,
+    "text": "Видела, что так делали 2 или 3 класс и это здорово.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 6,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 6
+    },
+    "id": "115133430935731875",
+    "time": 1756796736690,
+    "text": "Доброе утро! Не волнуйтесь, я вожу детей от гардероба до класса",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "💯"
+        }
+      ],
+      "totalCount": 2
+    },
+    "id": "115133437243770671",
+    "time": 1756796832943,
+    "text": "Родители у турникетов не стоят, сегодня была давка из за того, что все родители стояли у турникетов. Пожалуйста, завтра, довели до турникета и ушли",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 15,
+          "reaction": "❤️"
+        },
+        {
+          "count": 4,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 19
+    },
+    "id": "115133438822521705",
+    "time": 1756796857033,
+    "text": "Мы уже успели сходить на завтрак!",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRqABAABXRUJQVlA4IJQBAACwCgCdASocADIAAUAmJZwDGv4Bf4bolfMh8N9z8oP7NtxLeI9mPNM/k/6J/JelyLTwnEnawwrl63cUXEBhA4UWZsriMptDdM9q95tbbacHi3FzqsBu++A7GYSJmsAAAPvGWY9oxNtGoWYEQ+Zo2GJD1anHVLTWmPpJT9eth3A7VY4khZVp6QPprw6fpoZKvMMGyenwwMCQNHE0Rovb0/bXg1WsstNvmVwU67+0fUtwtablMktgR1kayUbTlGnXClxSmTIGPvQw8Mp1dtnbU+3vz6/Ad4FKZ1KcS3Jf84Ukpx/BjOLHtulhiyhOjaihkPU0lh7KpGs3F+RQzDGCB/fBBzn1A0iOyQqKPGBI9f+x+dD2Lpywyg7rFZlf9oDxwTSVun9mQ7FbRe4O3iVEjFQ3Z2OsCs5/yrAsz0aQdZN4EqJm8yq71ZJfo047/tkcc9dgrY6MB/x/naJi3ExB4K9sKeq2TfWzGxuhQuPz+v+xYmawnHyReh6L7thd1eklWfhGgKgoRHSaLv+xNemt2RUTkYAAAA==",
+        "duration": 16633,
+        "thumbnail": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fi.okcdn.ru%2FvideoPreview%3Fid%3D8707996322313%26type%3D39%26idx%3D1%26tkn%3DTIxskWtmm1vq6spfidQkBiOO6KA&signatureToken=mu0oE4AD-YxsV7NNZcU3CA",
+        "videoType": 0,
+        "_type": "VIDEO",
+        "width": 720,
+        "videoId": 9575902961417,
+        "token": "f9LHodD0cOI7BRfDsJOe6Gu0yBJnD_N4BUVcxA8GRjaxfhk0rzkvcQ0igPPt2zg0TbXPwUacIlAllVOWUFCL",
+        "height": 1280
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "id": "115133442569997920",
+    "time": 1756796914215,
+    "text": "Спасибо за видео!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 3
+    },
+    "id": "115133443881595651",
+    "time": 1756796934228,
+    "text": "Виктория Романовна, спасибо за видео! Будем благодарны, если будете сдать чаще, чтобы наши родительские сердца были на месте.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 7,
+          "reaction": "👍"
+        },
+        {
+          "count": 3,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 10
+    },
+    "id": "115133486123805005",
+    "time": 1756797578793,
+    "text": "Знакомимся с прописью!",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRlgBAABXRUJQVlA4IEwBAABQCACdASocADIAAUAmJQBiiKCqoZmLxx/QDMAMaa3zv8VzzJjaDAWYL1KX+U6QXeHmZ1nITtRT0chtYk53Fp95AV5dvyYH32yv6gAA/s1FIGd/mesfmbXQrH7QmG+/FSt/6MKYxEMCKgGfT1NCHI0UFrlfvAeI1TSTEoVcWNQfC5/051yKfiOvJyHnGzMb4Q7oiBF3xxfXdGy7/+cxmp0xYHwmLCTlpeorp3SZLqVQ98u21/fVKzjOSdMB5N3cQ1TBkjCga54UYLC/Cxp+sy3/kDiQbCKbrr3DV4x3ukuZGHt4P4CPxPvXLH+sKCIVklHfmLQ/5ph03nMTnUQHXltu3KbDet1me/EJ02w0T8/gClOO8p5PhIyIjfvwBCWaO9CnI1oDhlM0sp0VBw72dEM6Nm3+H3/lM/X99crJ/Vk/krDu4mCKit5YXEAAAA==",
+        "duration": 10843,
+        "thumbnail": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fi.okcdn.ru%2FvideoPreview%3Fid%3D8708046981641%26type%3D39%26idx%3D4%26tkn%3DG2v1K6kC8m98ggTmVo31k_n_sG8&signatureToken=KFOQeSQHLStRtTy6b5UXsA",
+        "videoType": 0,
+        "_type": "VIDEO",
+        "width": 720,
+        "videoId": 9575937236745,
+        "token": "f9LHodD0cOIXF7N08KlQNWOuiNUensKZJ2jlkqm5TEX89SfhZzJRyrsq1oNG5_DAcMA0HtaFVt0GmtV3or0Q",
+        "height": 1280
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "❤️"
+        },
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 4
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "id": "115133443881595651",
+        "time": 1756796934228,
+        "text": "Виктория Романовна, спасибо за видео! Будем благодарны, если будете сдать чаще, чтобы наши родительские сердца были на месте.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133509858190901",
+    "time": 1756797940951,
+    "text": "Буду стараться 🙏 Но не переживайте, Ваши детки всегда со мной, ни на шаг от них не отхожу 😁",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115133517610881072",
+    "time": 1756798059248,
+    "text": "Родители, которые приходят за детьми на мед. осмотр, можете зайти за ними в класс (127), если Вас не пустят, пишите мне, я выведу детей",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115133517610881072",
+        "time": 1756798059248,
+        "text": "Родители, которые приходят за детьми на мед. осмотр, можете зайти за ними в класс (127), если Вас не пустят, пишите мне, я выведу детей",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133561543087071",
+    "time": 1756798729600,
+    "text": "Родители, Вы где?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115133595436863122",
+    "time": 1756799246778,
+    "text": "Вадим, Данис и Николь на мед. осмотре",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 3
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115133595436863122",
+        "time": 1756799246778,
+        "text": "Вадим, Данис и Николь на мед. осмотре",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115133637738260021",
+    "time": 1756799892246,
+    "text": "Медосмотр прошли, прививочный паспорт Вадима вернули, маме Даниса занести карту с согласиями в медпункт 🙌🏻",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115133876621159397",
+    "time": 1756803537310,
+    "text": "А что за хамские охранники у нас в лицее? Бабушка подошла , спросила как можно забрать он ей так грубо отвечает выйдете , пожалуйста, хотя в чате информация постоянно меняется то идем в класс , то на улице стоим. Хотелось бы чтобы руководство объяснило им как вежливо общаться с людьми старше себя.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1757234647446,
+    "id": "115134762255532169",
+    "time": 1756817051018,
+    "text": "Сегодня мы с ребятами познакомились с прописями, выполнили несколько простых элементов. Им нужно будет доделать 1 страницу (там просто вертикальные палочки), но у некоторых это уже сделано (захотели сделать на перемене)",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRv4AAABXRUJQVlA4IPIAAADwBwCdASomADIAPl0kjEWjoiEdXmQAOAXEs4BllhXvvg1jM4aVSv/1varRq7nB9GtH0E28/fo1msh6ttrz4s2Nqpcil/CQyAAA/eO6+9+A8MriyShsX0znS6lYturuQuMc5GWZ+ITvHgSR5oqtLIUDpAcLEuMaQC9GdQL59Z4s3VCwf55uucB3JbZJaqPb9tX3xi2B18xFC5PHS0Sz37ZCeuchZR/Zh3zKStw8jB4pn0JN3MC3ZK/Xm9VbdfI/to69x/BEr+TcfojgyzhUO2Z+RrIm3YdbHFiLQaZet6OPkDcUGwLTjElAPKAMEcY5aLwAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotM6N0QUTz3rQY5OtWGBNy7zhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "lgPU7ZrL5QdU1yM6wrlUAfc79a/yraWHdbkkKNEkZDYbLEqF+6GUd0MQKYHWmLgYmD93dnSYDvs/1Bo77jLmR2i5W+SJhMq/T8jG2iONeeM=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179098948,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115134763428640716",
+    "time": 1756817068918,
+    "text": "Еще успела сфотографировать деток, пока они старательно выводили линии",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 3
+    },
+    "id": "115134765773836953",
+    "time": 1756817104703,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRmICAABXRUJQVlA4IFYCAABQDgCdASomADIAPlUei0WjoaEepAA4BUSxgFv2HTxx4uOX/2ycE8jP7Z/AOtmuD3+I7879drH/+R/mXhAEmw5pti53c1sdISfuiDBqM4JtgF3Vu7+7V6s96hbf6VGqHYxHj6lTXsXoJXDza81rDyVek+5hGz7zG8JOygAA/sYEC/mEt/ox/8e02vjdGSUMnpVvVVRtLhP8f/AcBVj+qLtjYJ3IzMksVqQ3J3pKN7STnbrfhSY/7B2c8gasm8vhiSS7uy1Ol9t1ZppARaYsO+qmBzhyYtWuizvknb56HvX9NXduugqQNfyvCQnpM12WdYSGnc7FwX/YoFQBBbm67mXv4MXeC/oWqWFjls546huQm51sFnsxVbZELhNdoY0HdcRfImGtqCuJGDv9Swbr/4NK5/8AcenI0u52xovmEV6EBYG1gW4yn0hN1rz+Ea6q6YYUj7w79bEDKm9lzB+lj2980VCMyig2bz+/MODYimgIrZszn6aJTz1BWckXWrDs0Vf1x5vh0mkNtg67Ie4VEnj1ooFZXkAgczcu3j4sBFTrlM3KyoLaulZCM1bD6S0eTC/YBwanKlH2iafVdo6pvU6DCQVXnkvn2u9tmxh02BF6ycHoKNZVUr41HP5Zy0EMI7qlrgWj/W15A3/25eC2KYi8X4yb/kjo8CC8dnc75GhYwFFMuhUj7OgPApnq+IHs1+PSCz3BIRsNgCdxsY/eMXVBj+yNr9ph74ivxa1GCHnawQrpcz+S6ti+fJmsCv5Lq2L58mBVjTaeJCqp1MkACu5scAuzAAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotggMd2eYdAO85JQfjMTCAazhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "gqj7kVePyvSnGtkl4ZxZNWDaNU9IOzvSiGWfSQxdzXHYGwmmhBrQxr9MdoN9I5W4FEEpBiqq7E74u2ATCKTS4EJCpJB87Kc1NMWyeG6qnn4=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179107396,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRjYCAABXRUJQVlA4ICoCAADwDACdASomADIAPlUei0WjoaEepAA4BUSxgFmeH5x91cHxePT/n/5b5hfohuWrea3nv+B/AP550vRcBsUlVcLeQpjByE5rvk/kRY1Puaa64YAQj2DR2intZCN+YF20+BvzpgOpbgaXvSowN8bHB/IAAP702eBZJcynkzl8xEBGjsDpLVd5pBWaaC6UHG1ixD6+6O0vmEh/1FIp9vPj4gRu4almU05qqJ56l/X3fx+LcPk5U1gzbRehf2detYPziQlKGIksGjzP9b7P7UUq151W/BtD5qtQXYW+8C/w6dNq5Jpq/U3TO9AoLlN+KW5tKRHbqb70dLBJgqlkeqJ6yQjye3JxlCbeiXP9UP/1HxJY824zXgQHrWjQ7tH0wZi8z0WfhntWYtPOZx6vq/pfX5Plj6vToZJ87t0WH0zH4OHZ8cELZqUvTXjiX71VimQtTZuwRTezQ39oBRHBoZHAraJaKlvXcclqolEfCNPhos6+ecpvkBKi7uzsyGwYLqQ66KGqfH95/c+0py5t8bIs6tetHyUyTgWP5rZBKiq/94Yz2XL5RDLPD3McS/635B4HILMOlZzp6s8m2E/hgcOG1oGlwT+Mvv2WB7LyqDyfSsVetqLjMRMb8gY6EG9dsGc9ZXPqTc29vDFRjdypsMeyfYLHQZnMW6gqZ1c8Kv6gfLEJkFPv5MaTW+/kUaYc/+BRphz/4JsD2/43vIt4HNzLhGQ5mWSq6ekjcf3AAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotZY-LFaFZpMDJ_8pke4SH7DhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "Czh/scdKagrDI/Nzn0KoVjeWp+7VM2WJjpyXsK52AsTGJGjt8YAw1sLfIXnHwDt5T0vR0Os1eEC7Hj2BnH6wrqin0R0CWHA2rgNtX2aZ0oM=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179107908,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRpICAABXRUJQVlA4IIYCAACwCwCdASomADIAAUAmJYwCvuBONIQu+Ffix9BHBPIb/Aba1zrf8t/cSU+InAM6nc5SdzLq+oKB0YW2NccZdKzizAVmCXfuX4sgCokaqHKV3Pt6oZwf+PjX8NEU4QNsiN1uIcye9vAA/mwP5+K/ENb2jyc3U1t3JvcFnoNSi+n+bAYTV5ThRMOCHX9ZBBy+PUkfX7NJ/RRKIX6bXxUPg0p63PIbif+8YB/4HxEpdZnn+j7vkVbnsYUFHJgx6Y85podxJexlj9sPgD/F3jRS8h3tLTljLn9qR6wyUaK5vMEKe5KYazh/Nmpt+lnT9hmZ8wVt7KrnodAe7Q4hYqSVCrYOWpyOmAiNdw5JykbGxbZ2e68STRC7jTrDdEYw2Y53oDeO/ihD5R9LjfYSdTtT7QCfdSZesvBa+9a1fweKyg3//WsCWbe421XyAP43c3UsrYWvR/C+O4gWraaMblqyi2/61P7lT30+2CfGl2+0X4loFcfpsL5mWNtrsYTnnM03el9tenqNrgP4HcIGjUQPL3dqCj3XvV9gw9UXHGvk+SQHjy/9qv06sKIBAtGCy0o3fn+P1520ti7xCZKHPok4+DK/Fvg6NVWlRBXlyd2awBEXB4E2PNk4CN7bY/pfXp6FLHOe+NH3CUpWObvQk84rqQHOnw+2WtlUBJfSaf9KAF+0VA4ozHAREq6YeIrLRzkrTWrW/7B/5KltzDCzvlkg/BNRUtgDnzAZNDsI6TTUW4KBTxrCzGoQ1l01OAvkKXM6YmzTFN2J0DZzzMKlArJVJgrXiw/+TeHteWCkC/5N/WR3bzva2mO4o6+FPB/MLZPWAJG3rE588Wjq9JXilTnv+Crv2gRmwAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not07533G9vXbzp0-33YsfX0DhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "1cIxH07KiEoqvFN4XxVKe3d39d9r7E4RMvBl51ni/mdP4XfnKXKEFmSnUiUgZUwFI5TEcFGfNuSlbMrGBOm7nbON6fOyolGygveDfxmGhyA=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179108164,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRigCAABXRUJQVlA4IBwCAADQDACdASomADIAAUAmJYwDDZ5gNITAfxXRxeXvaL01F6vjT/kOoA4QH9VxWCsW/6/+Kf2seklhW+jMtk86Oq2cBxEW19FaPrw7jewtaMK3RScUNlA5JCFHNzE2IdthuTLEeuf8HFkoXiIiGwX9egAA/vvS7loF/HmZbYDywnqOZcGYUj/SzD2vUKTyxenCxHdlPHT5FYkY/8Ngq18TPKiP8vmcys4TPjd0qwdRtUbHyPQN4ELZPJHXnDCra/ps6Pv9iXFQ+pbw2QGfcxvDtd6ZGy7gb/YbJbJEpgLf/A9COSCSZzXci/QLXLBbrw8HNHNrAoErOEQOqkJkn/E7rUs5uev+6K4HBVeKv/hTcM0Ov426I/VvcmdLRPHdKoZiEcQGs23Z0MROYdmiP261e0+X6x3+62mGyCXyWwZ7w1SF3FDTOerxpQD+RHbrIGHbFmYSEylONHlJbF2gy+bWsQMGjz3mkfvBqZjOO6Z5KSJ62h/mwWsYCp91P9kWpJvyBlDoupErMewPLDeijOBGxTRMh2bV7EF51+HaDH8My3aqFJl/BJaJC/HXtzY7eJJ7lYT12gGI1ftAcryvIXdn/Re/qRHrgBAc1i+aMDAuJF7U62AFdq0SpqyKmwd3/6UiZUQl+w9muiv1/qbTZhNNKCCqwe+diqLD+z/9+YBO2f0GPtt8z63ucH1S4pxaW+bhVFVkVogYViSddAUSAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not1fQWCQXWpOPmNV_EjD9H2zhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "s0pL6Z+243lUkxFJiHbQi1Mu5fYpA7QDlP31bJrQ7D6xeVaXU8+jI9qymLV+kPynPQtYSUiRqD0s0+Yf4i8q3VTc7t/2nGWHA9syaeN5rjA=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179108420,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRhoCAABXRUJQVlA4IA4CAACQDACdASomADIAPlUei0WjoaEepAA4BUSxgGDpel8K3pQ+w/D+W21IxmzvklwDVdv5j+MDyTv2TzBFbQcYtOASnCz4c1f9OiXHTtB6unow1rCsmyK0257/YHZtTC3VtYWpmuNTpStEdUQ3xUagAP7nIKaf1TnSKsbLkswD+55tvBqE7YnX06OnOAuY0lRRmiKY1HCgjF8iVgdh21REaf9CnfOxBPToKXODlb2mypBLyQ6KfP4y2HOXnRFUypI+g3+TnjpohOp7ZmMmKmR1whG596g/ftTD3wAJWBwcfzrzevyO7ksx/+nowBa7MKs5llHbdGX6edQY4cYzLUzkFF87Jz/FDUfzH/QrpjR2RhizgWfRyN8Mox/9UGSFAwxLc1pYjZb7h5Ev77qH8ViaAKlfC1fEV35dNA70ME5OlH/sJjmqON8wseF8e4sx6QHe3OeAX+PgOa+D8Srv+AXTtDEw2LUnymmNuEtYO1gXpD0mCH9HtSQQLvQ8WmkMnbNR3v+CJrYh/vz2AyfBr96zBQeWEjcLm5hTQvlmcs1r4mT1qv1RckoX1dFOGilKy9wfTchImzUJNvMJcQcR61YtAbYnneAsuho+CWrWIMZDxCrquv4ffXepft0XNADe3iu8LmIA3gSCEFheAv3mq7Mr9JdgGDa4ipkjykR2v/Ss+VGIf528WEAgJ2VMKjrbIAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotoZSscmvCnnEmHIi0yhx6gjhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "QVnhnE0eINcXvSMINffcBfog+COpmE7m+ON9PCNXiRy2hqeHaSfK8eCS3NYgN1TlpHqzzABe0IJloXIADSDc8+vEVT4qHsJGswY85YBa8Vk=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179108676,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRi4CAABXRUJQVlA4ICICAACQDQCdASomADIAPlUei0WjoaEepAA4BUSxgGSiH5GYfJ+BnpyfJ//L7cnHXzZb+1+C1/Y/SGJqvpsZgQ0cWhxPnQ4MhGTVnqP5Bfz+ZHCxPAppniQTWi/K3XQK16dicZpKLr16fgL/QOS6d6arA9CakP+8IIAA/uxbZN8K/QvZ/UDzoWTuo+/7nXpe/Z4y7f2T3h8QTWji+eWAaDbYUVVMBGCM8s6T25zL55jObRU0cKFhMB3UgkylRPyz7qUwn3ZasprPxrGA05fGrzfaQXwcvP/4RJFi7Z+ge7v6VHdzTMu3SpsHh+XINpsvHbWWNN+nm2vZ7ZgNMDZYDDi6JwBFr524eiVBZUf94byGLgeZDUD73AYnMFM9Ajb/kX+PwVmZbJL5QZWDOutst4PXrR4E76QdHYsviIcS8EYX4rKlmHGOaMm7XFBDu8y2Z8O5+RqfOZeuz5qeskmq9C6RH8LX/JhluvwM+8CNclq5RSLrP8iniUWw9HyssytU+U9FOCJxfKc0WKeVoimRJErUCwZryOLEOjEp14iBQbLwdf7Eyibtw6RmgjPpNvDApi1wYIToIivMp9ObrGugV/fABEazEDbqF/rA7I3SeDxstQqKI96d1U9xs4r0r1KfQcfNLuzMdA8X1u9Q+V5dLHErjXIHv4/6Sj/5tZsf5X+BznCn5e6m4W45Cs3b6B912D/Gg+oAC9ufg97GDQoiCRjJnmQjoAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not6wSXHTTlNKj-UADxP9Wf9DhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "E7a3VYJpa0wm43ux0r+StDJ+0wr3f9Yd26xBqmOfxGGGT9t6d879UYObK3OowCi66tCIHKqTUsEh6I+tVd9L/DYVGQpdjHjB/97w2D6c214=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179108932,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRqoCAABXRUJQVlA4IJ4CAABwDgCdASomADIAAUAmJZQDKNDp4s/ufhD3oPVPs7lbXpX5YeqX9s6nTyT/3jHb/2zvcf2viUNOj9HD9O/o/gq+pt/qCq4NS8ikSSNN/gAOHrmYN9kMc9gzlcEoVhVvP3mjueJuE1LK4yU923LJKU6z6cmzazte4bYq2q/wAP7Zq/qo0J8aVE6h7CaXzfGnps0Xgvd02fWr2p6RyBjDvft0JjEY6nph3T8XQNiEleAgR3Lf161//JjIPlPN94vqfCzd/rydB16QOfTB14nuTy2jipLLBQE6NEKAc2ybOF1NWtwXQqeSp+oPxRh706UF25JbJnbFQTn+WpOh91/uxedOzl9nKRNy4rjUXMiMqbGWmayprxb+WdARESlYP5n5Aa2d7g5E0gxpDYdf4Hv55J1gKMHnz6aQ+gZO2P2Xz6JAPO7WzE/JHHIGzB0n4ySNspg8Zzk60PQCT8xWR4dbnkLUHoCbpQyme62X01GaOrx+H21NtakOb7fxQRIfSRsvqYy/m1lZGWkzrHzCjkQKMmGphL2uAr07ossQh/i3Cdmy05sWHz4UDzW4jViBoM4MPrcBPXL2KmSUgsonU92rX9ewolx81ZLzP+Ylzm8/J1Z7JmrVqvXrEG6wAWM9vvggP4VZxkCTLUpqYf1pxykYBP8W5nqqr4/4Fyv1V595/VORDS+5ZOP79jBk2vBdcSEVMqA/Gx/u/kcvU+AoT9uy7zZ9e8QPCVoy4gJJUiUfzz8GBTq0KbjaGbdsKR3cWuslMZqR70QlPXr67XvHcN0zuBaStyvK3doQl9GgI0Gv4vjhFN8WyfeiLa4SIju0ot/b+3HSzkDgxBG2bujQxj/lZtbBNrUGoh/KQqAR7iIpzkLAOC41P+DDb8J5/BdwAAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotwGhIJOuDTl3I4LFwFNZu_zhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "ZKjiYfSvwbx1Hp8EAMV2eBXv5leTcwDNPP0fUiP8Xq39bw6u0W6DFGVPfv0zWuVKILeR712phfHEr7f1fkYF8xbT3Jzu3BWwSNM10kFJ1nM=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179109188,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRuICAABXRUJQVlA4INYCAADQDwCdASomADIAAUAmJQBdnMbrqvGDmi+/5e9qvTU/YNYI+M8df5b1gWSv+teCv+Z6zz/OeAD+m6qB/VeFm8+n9Z/jfhM+p//YPUzJBEofmwnZDYbYq10Sj7hytPKLrRef0+WlfRg9MTZ4YGztPzSExvnbH8zVdYgc2MAfAfIfdMzegot7xmAA/use02/Bx4n1kgwYQtcrsJw1MOKSvORL0VDTyxiC+buIYvM769fCxbNFHL7CahM1YwJiSp2ZwjxlX/fcaqD0KpZ9Tv7GQ+eAv/y+83dCHk6P1YNvixb8RRaJEC7CB7LLOfPTAElRNZ66geR5P8ZFDPUXP+bDdSH3Fpf+oYEL/unqKR38KGeLezfTcgRzzSRRfaVGiF9lu4DwVJ/vtBruPITWeM1OsrtjP7rNd8/o7XltWHU6afaWh02sDsOVee+oAbwyNJW5Br1GLRcOesV6cO+9UYqx3uTQ7r/MCBahj4WGb/oLiBn0LdurwFEZTIH1f9AwN3SP+IxfO4wjHs0xtjhEfb321MAL0rul6vzObCOftV7QQUwa2MXM19GthnKMdKJXsCw3HzZrfDt046IDafsQJN7QBbCDVesJss5danjFK7jNyt6k1Jk4eWUVyiayNcag5pxio/KZk9aHyCV5pCRtGtalkdJOgPBah3UQaWVlh7LlrTVu2UFa6V4meeWQH6a7gW4bf/JxVUs6ODc8oyI25e+gGqhtLRBgsicZM2jGNcW8pPdCWYT2dwsgcAyGlaxAqnRjin6lEOodCH2eZezh2eY335uWSyK///LLtt1DL10F13OOTwwDxqpKBvHWLmfD4CnXl6lFNwpvwf8ogLkynHJdl/R3/ue+NTwcLwTGqAFcNWv3mFvzGBj6D2Wbw8fe84/jH5tOCB/lWAG0S04LQdCptLDbZ1H/PPhnHft5EwaL0252kkk7CXCL8vcp6Ov7AroME4L0obwAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotWhIWnu_cDG9b5qvVmpmjoThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "xObLKthk+7z1ROi0Lo7C9XyPF8URSUVFCzYGDMkDhoZM7SktiJL3JvhZYiV5fM/SfIz28PIv3zgHEhAlbQVH6iVfCjMAeZ17ovJHJH0/+xM=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179109956,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRq4CAABXRUJQVlA4IKICAAAwDgCdASomADIAAUAmJZQDMUEMBlyAXwBMevxG6wLzOfu/c/If+x7dLwAfyXWKf3Xv4/2m3jvQ6/aP65/VeaVNFJXslbVGZzH5qfo6wEzD0XSpUoeCUfeqS/4zFWr+zvVMLyO13/0CDE9EjMy0b1V788Y73p9RNLQ/2AD+C4K8Cm6MdUPXw//oxt8dsUZoSkMkSrctcwSfqYHoOw/b4QXv3/JCL/0pwOo4wbiEV3u2EZvH+ziLbjZBDs/OJdWo9F9a8t2PfiB/yW3BElE7FQYu0ByeWRfFNjUn7AnP+ELU3+OQHA8+6X5+qa7+hGP1+bijLahx/vZrSjPQ7DT7/4TNsFi0jd0KYRrHP6hftMrr0VbOaojnpK2R2Y7xR9J0SvrLmpI+brT7m//CteXJ+F2au2S1G9b84FSdWX42BK3JCFtnsEDmWks8dNPeWB1N3i7lXw2UsXcFR7NmtXTRi4Wvr71wAIQLUeTPjXmNAiynuiUW5GD2zoHLgDkdAEbNgDC+ub1UsQkReHTJVg+Sd5xxks1uloaYHPhyOykNcr+eUdh+Y7ObUbyjmlw+l1APi7ruVkvbxg0tPcFnOqGG5PbMZsuXnylqTw8lCBRpgXweYlRFHW08jX44EGQgZlOyQE8jXY0THYpuU5IKmXtAj64ybr93keGcYe7/rE7bmP/JlVX9tmykZ2gCtqqkhuAR2fJcDMr3GrzPXj8kR/UuBe7FqKNHyNh0t7E0k6YqpsQOg4dfxdgRKOHnfkvKcgnN98Z5sS/99C9jcyL8r86Gc7T0XP9ztMEO/k4BK/YAi7wzZy0PuUdw5iSQaXFo6Jd3rzYxdXp9fAS5auMxQX+fFXDz5ADn8m66K3hAJnuqahXgbXiP3FUCrzi0lBe8BgH4g7/AAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotfaRBknR3xt_08ttLyUhFFjhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "plcJU9Fnr6rHdkcxf7Cf4Z2EZjsNXbHbFrqanDmBGk+J6gWvJlKCHAyUbkng7Rn9zRUHc4Vsea6IKBcX29xXbkDRw/rD4O4EN/8jre0KswI=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179110212,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRjYCAABXRUJQVlA4ICoCAACQDACdASomADIAD8AmJZQDAXFI2geEfjN8sew+PA8cv7n/FMwz1Wbvcf1XidMg6/ff5T0N36Qf5L+AGRu3yMMv9wEuiXmN9zOxArqF8e3aQmRWOqhk8WjcaToPw76Xo3lvKmYc14GN4dC9E1FAAP71BLKgT4+3A2GQ/9cks1MBnmCFw5/4eOwXTCbHMUgDo87DGS/5Dm5LJmw/HsFS8mG4lq0++j7Kwjwhe6tMSD49x/AZSeyWHf+5FYn+s4OdTmWvyCks+IC37J6RNwewIrZ6b/8pQU/ELt2H9jUJKLXd0fRw/ppR5qJFqfmfkR37m0YevT+f06z5BqqJKlAyFldT7gqx0eUdM5lgW/vUgPId/FiqYMPrVc7OqnZK7lZ8fr1Iu3AuBoiuMD7aTqO/Z/wy/ivwm9Ke8/oY9zpFylVoyG+8z5m7rEnbR3VGdDW6r8LOq5qqM87+wswBPmDoK+slH5kHRPLzbx20Zl/mCZbKfY72z/Q5Fj3+cYWw2WR4wkU7Clq8YNsQ4tmW5DBdn4QydOBg90N3VttaJbRcD+RPteqEUhcrrVAE5k/WkpIQjSW9NC0h0/Sm3guwirsarXV5hsXpttieXOOU+FSH408NbE3MI0I1uyrTCPnZZ5MH20BGclIpUrE4apZpAiAvvWeZQySm9Ldisn/GhJ6U1bgYeWT6+6laN6F029g0lRDoN9X2K75dxe0+PwtDdiPhWurgvs7eDdvrKiDoAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotEuSBj3iTU0EX1Wd1JmidYjhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "f0iroNjtlTGFR6DiDLDkY5yUfwryZmalANjYC6Dt23twKv0JiwYyHKQ4slSjv3rY2TEihEK/e4anigbjH/vp8NJ592uD3fQu2+RWLvPFDL4=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179110468,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRkICAABXRUJQVlA4IDYCAABQDACdASomADIAAUAmJQBmgeYoWSAFQsfE49P+Y/l/m7/gGGdf0X8e8Iz1OP9B/DSPqfnfvddR44diKQy6mNe+YN9KrM8aAN0zwjTvxVkhiLHcczo5b1rM3VnyvgI45ClQolO432DN8bphAAD9miX1WWR18+d5H+9blei+3Bj/HVntQrv+kn+oP/x8xdThu0UsYA0WHmt5Dig3McDoCOoZ776vm0lq5/eOzlVDSv17CP/IjslT9dEhWrH8SVlaCz8HUnHdxnyDCQbb8DGtz0xcDhx1gf/eegbev7fs2Oaq/nO32W6Mb6A1IAUTZ1rc7fF6PUxgnqvwnfOKdo4o/ln80O/XuFYAvmy2BfFznBrzhjgLYr8BPM8E7KfoLdcjsS/mmqyZ5LX5Qb2eY6lwg+VKT0fuVLtOVPjnOx1uiLfq+XOW2y1mvc8sgwYzClwlFw9PTmoDD/ktznFBE7/1LC+c7xc2qBKjrjLrOI6sbs3rtXQZbcHbeUM/i8v2Vob+spYF79gHc3wEXk1f930Nbsd6TwqYkW5vrz7ltUzpZbBgWneVGmxOhMWFLmEDaWIgM/JRHJUPQ0EOlIxeSLPUVdkXXGqyqfOm0f8TW0NfJBDYIN+QJkglbzhudLTa1+Y9yWsGN+ENYR8YwXh+6NDj/M8/I6tPZS+mxq7aBodhwWsAKLpYrdCgV3qysF+tkuNcfBbtFmzY//5D3bSfmCgy2dfgiu6A8rIsiL11oy4E5egOVfqVTooAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotYn5Yc8SMCioL2lQots5M_ThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "5gE2psQLE5pXLp2/QeKxMZJfADX57t9j2xLcGy/nmdxQ6ofjsE5PkYRQO8RUwkGmkxq+vBLSZh9nLlzJhEwtUBJN9Lcr3L0cpes8ZLNGoyU=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179110724,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRmgCAABXRUJQVlA4IFwCAAAwDQCdASomADIAAUAmJQBl68wDzkRWmwwCE8+Efg69ZH2f4bye/w/8a6yvwpXCwuAavX/b/xoofCfeND/x6B4hE5GkXfl44V6ZacvJ1YYe4Eg/5B9SuhiCHRVRhXZOAh4ok/xK6C4hEgCr0NKsenU4BFAA/u0v+nzq/Jm60nKN9bJ3mtifCDPAAdZlFf8g/dksJ58eB9orX2DI/5oNaGJqH30KvAp8f29b/BlqPpsV6u7dcNVw5bAwQzE9KPxQPep/wsEkbyX9irWg8ZyX2sfj6ve1GCiwPph+rTNavje0eFg2a/VhR1H8UB/+sFTRgAB9Tow+/mnCaLnUNa0kjYI4kb+l/9tVTRtdex8Q1Y3P1k3xBZ+J/IZ020YRajFKd9monF7aEUWw2rkTDoJteDsw4JrjZ8H6xam/NHLPWY99Bm1RsEn7/8a38hsg/vjUq+Jg34r+99g9t8ePAUxAh7ONK/xZo/k7ZQRyizP/FwPwUgnthakRhXSxbcSSbgUVexS7Tbuy0RJoDXg9RmRww4PlUIEnUyWaVozZKnRq/JPrOjXz0N3vbpSHnmwEavFdmkUV6J7AzN9RNWX69858iow2ZeIqPMTs2IAcw7Mk5AQ3cQcDYU5Zq0xvG/6F0RbhZz5cMV0s2l0t7Xa7r1AAD4eHyIHr5eQYyMBLJOSdHQr0LB53LyRq0HVN3rhQqFG6IkcM05N+aXXHmrs6ikltQvQFeCTggrwGWHADGhQIP1r7c/k7oUT2TiI7pTfsC4FmTFwtQCdRXEggOQCngCBciuiHoYYjpLeZKRWWAAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notiss1iuaFjaT8meRC-ljkxzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "AKPKuyZHCdioF79v0FcptrissFXo0v9dumjY+3lbeO0OLBMBiybqDj3FVzyUa1zpCtszbGyY0cq49cKrJlfUD8Unk9CBFlFZgA84/bRebbE=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179110980,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 8,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 8
+    },
+    "id": "115134766187440239",
+    "time": 1756817111014,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRrQCAABXRUJQVlA4IKgCAAAwDQCdASomADIAAUAmJYwC7M6ZI+Qk+Efjw9an6n1Pyo/qW3Jx4X+Rw0DWIv3flPv7oZy/PDoyg0i7g0rB2I17QF/hWgM8Xe+TSsduSNiD09v+MMuq+epYALoT7h5N1tJSJGmcSilBvt7BXcAmViFIkgAA/gv+f17MRTAv3ZMlPAqvXbG4+Lcm79HSWV7V9Gzek+k4H/QEW+wo0Ff+4LVT7ioJtw/3FsHfpF3vUWZ06tO6PPZLRNvzCFt731akTd3QLFYvFM3KkztqX2perHZd+zSIoG5VH8idEtcz/zo+NnMam89/qacO8j9AYQfHPzVAUveWCy3/puEr/1u/P2CtkW8MiL66MGbrwaF8VPVvbH2p7Vk/ZJe02SOSGs+r0U4+FEaY1Y8xPVA4kCBNTmrWXBij/LrulLM32iUK+DYIQKLihKChgEhf4Hb/hmaVN7WKEMkQud3Knui50St+75+QPw8HqjbzAUS0fx3vLKKI5aZBmTlGVGNXmz9lPFV/3Y9IPD8P1sVNiLSvPc3Hp0YSk/QUQNGR5mgjaRy/WvydfG4XKsW8K78t/+4eGYEiv1pK7CPoiMnL8IwTz/1CcUti+n91zmSjpIpTRWSrNhwtbcKbNvpw/D9slH/6O233T9Gclm/BJVf262i+jdn9VGXwqFGv6UKsI8DKwL2ZU1aq3m4Aak2zaThCIvND63fqqv88f4foN7MEHygmKW1/QeHDqT12df26js747uNwZw1g5EP9AxophYdhQKW03+0GLrVH9j6RLqe4nlAf3aFSDt18DnoATqYUUG9QsPhKv360HfLov5lDy+uYbpVXUeDJJL35NKtoDAiK1JqNvk/isELT4TreS/r1dlZ/VPJSzdlBIOwQRJNvEu0B4060+SSKXnCRG9+VtAAAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not1A90spmkBJJAGSMY52CiIzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "6f8htBqjhDomMXhKxcprVh3ek8RqgbSwYXF/eMv5f0XH/0efGXhB8691d0p51NDn7s4l4UkmhVf1ut+KmghV0oF8J2OhYB78u9gvyM9giJU=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179111236,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRnICAABXRUJQVlA4IGYCAAAwDACdASomADIAAUAmJQBihdfjuIeujG9jn4v4Pyd/w1LD6LHkGn8N/OuYn/txmVfdRUYv0kXYoTv2n85jjosB/8Z7K2c2L6c8iCS9yrjBIFyj/DrrHzwNB4lEou9v5sH9c3PxpQqjwUxwAP783U+Yanbbxt/d+dBGIwrw5rt9qzs0Fvpr+p+sVbAfPw7v58KR9S42P1czH//J+XVXP1Ryz9AJJ/nNFwVY19zRSUVpr5T9CUMONmQJLVzCMPA223o8/i6gW/wTu8llq19/rttcmlJnwVqrU0zFBZLyKb2BsFA8P5v7UqXfd/3+vcfFmPtJHDpckCXZgTB8vtjKuyveb7fzVSHb+Fuo5xvjVQhjhV2j3b5HYylCNtES/nAbHn9Jpp4lbN7PgfeyrmZYAAoUJekmOIKhOnFecgX2AiJvfzlo/ptcIkKpKP4ynjo47BbPwE5jJM2s/9mL+oHC90svzVuZcXi8PXvWjzohJt9xfx2sWRM4ea+EVETgMAoBjYZwn/9zJ1tbzs+fQimAvOL4zSBkURAhyJvS9qgN1CGPly24LwoBnUDoVvWIw6r9PbIfJbPSNFbhu4UK3ZEvEs9q0kumUdbxLiDhZMUk5Y6LEBfeUQyL+uj82FAtfddvaplHSOcmOesx6wfrmeFz/thfPW0UieofrWgqogxv2n8CWfT6knThoc2LidKHftvpcdhamJChnspWiJuAxwVpebLW+uT7EmNF0KzTcLTPBj3Zq67hdryFR7NGzi1cGSisDwv0I9mAwqivt18vtAXRvAIE3UC+8d+A2oN6KdckiCZyrr0TEMAAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not267CYZ5ghtBIFP_j1Xa1QjhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "ubn1NTZF890pfiHYtURAKghQoAktbAYKVSblUgP9YLR+1v+sEKVxb9IOlhb/rV4Ykpj/2CGQpGTMRGfSrBwXGDLUM0mCABwO0P+byV+DIG0=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179111492,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRk4CAABXRUJQVlA4IEICAACwCwCdASomADIAAUAmJQBBSyyFtqwBOfdZD7fj+/0nyZ/tO6Vxk/d0/FdwzefH/I/xHkADOq9OHZSl4n1f9T+92G+Yr/4Ipih2G2iTr0K/53Bdu7B/6lGJPR0yGVUJnsDs33jZpZgA/v28xzXTCj9QcewG95Mj1Oa9MVz90SnHDS/1H2O5tbnloNHqQS9f//+MDza2CnirOQDSGv5DROBewEui4pyJdTN7BeRqR5+6mADEPpvmS36pLzOrN2kz0ngtpkp1EwvDn+f3T/yQRGDz5qfobCywGgnQlaH/FH8U1HeyDZH3QzlHf7wk1j2n4dn+M3Z7vPm1XcaGvTx+S1OnlDR01/hvKoYV3Jg0LgE74OVHLxf35/bu2fM+8j5ieKlOyUrz51trnLCU5RPnQlreuMoj7x/74ppC/kaWv3sJXWfeNw4JbrgTnUoO/+Ufg+gyP2tv1mqsniz1kqAEywjv8H7o1zvQiTL66YEEiw1D/G1VfDlNpReKq00WLQdHrls0xjJZvb+frkaXeuybA4UbNJOFXzZ6P8UoKV+x0Vfp5BWd+/7+2MLXOcg7UDWCkLcIPOOfHaN+hegyIVyI5sn3iv7Nn/jRzlrzSAwGoIWXLhrLR6/wKrsDmiBNtY95XaTdUWngwGkyW39n1ns/DkMj4eQJTIjW6dIWz6G6rmcmcJUP6i1hjZiCsWXGSfKPK5D7yBvf8G3SK//AAe0S8UCLxqnKkpJGzbdJZ+TI/u9vgMvo09Qa9H5VGihxWgnk4aMgAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notxk4_3KwNLkJTuKiiOxD4iThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "7ZlIu1CjOyUzYrBCzJZfqgqpMN+5ooeEwndTAw38LC+hJXvl2UcbdzyLiCGB6kPXFUHYl2QmNONkbTwIf81JNmW/hakUdWXP49RS2seNEZ8=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 179111748,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 6477486,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🥰"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115134802119391265",
+    "time": 1756817659292,
+    "text": "Спасибо вам большое за фото!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🥰"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115134803667860671",
+    "time": 1756817682920,
+    "text": "Какая прелесть 🥰 спасибо большое!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🥰"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115134808128911177",
+    "time": 1756817750990,
+    "text": "Такие серьезные❤️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "🙏"
+        },
+        {
+          "count": 3,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 8
+    },
+    "id": "115134814444983321",
+    "time": 1756817847366,
+    "text": "Дети за партами, так они будут сидеть первую четверть",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRtgBAABXRUJQVlA4IMwBAAAQCQCdASoyACAAAUAmJQBlmbZ/gf4zfTWIBrLvs3lV/eJd7/kKy+/aORdKSCtWHm5TIjLTrE/0KijB5nGxHBlRksDTltg9yyGEoP5QBBA6hAAAmPuh9rXyRk/EzEZf3A5DshLY2DhMsmZHhN3zD/fsZZnf8/rkxL+7oa9vfiLwOND8FrhkIYK5iMadE7HiIaYcHyEF+z6KpTf88HkH38P+kcJCPGeO39oYtd0lNrPNF1/nnFlvVLUDPDWdGKxexmkwQKYuk/h/85h3+DirX1bX/9prkPbgL+m4NU5+/9N3cclvMRMmuneEakeV/o4TGKHbDNgwbt6xhMjSCawVs/M1PpK9l/BSRltS9WN+t57SjI1HG/80SnPWlhs/vOMFfiz5wOfi5Ku6VZV17v1Z+gmnu1h3H7+GwV/iG3VZfgH6OuFAV0cOgQQuUmJ7wnKq/rQd/1U36h7Ak58gbsLwCy/j5b3Tmvy3UIP+axDt5q7m2kXPdwO34QCEjiH196zQlOrqCfrPLfnnQjf/fRiL9I3ZncYdP74jPXOMsvz//iY1rkwqyntRm5l9/prnfnKXbX2WUiaZ6YkRm4rZN8IJpnSOauUPyWnYOeje0ggA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not05ASBqgqovAaYq28uEMzDzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "CAJhuJl50C12oHKn622RxOWVqXDZPdcSTfDJzenARjKusLFHwN9ObmAU+l3Cxq98i48XCp4pvQ/Li254exTXTs12ZAMiYne/QcIqtSvbVMM=",
+        "_type": "PHOTO",
+        "width": 1920,
+        "photoId": 179315780,
+        "height": 1229
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "STRONG",
+        "length": 25,
+        "from": 66
+      },
+      {
+        "type": "STRONG",
+        "length": 21,
+        "from": 94
+      },
+      {
+        "type": "STRONG",
+        "length": 15,
+        "from": 225
+      }
+    ],
+    "id": "115134837189473533",
+    "time": 1756818194419,
+    "text": "Расписание на завтра \n1. Линейка\n2. Математика\n3. Окружающий мир \nВ 12:00 дети уходят домой \n\nЧто положить в рюкзак? Пенал, рабочая тетрадь по математике, учебник по математике. Окружающий мир выдам завтра (учебник+тетрадь)\n\nЧто за линейка? Данная линейка будет посвящена памяти жертв теракта, который произошёл в Беслане. Данное мероприятие входит в учебно-воспитательную программу и проводится во всех школах",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 5
+    },
+    "id": "115134854194607068",
+    "time": 1756818453897,
+    "text": "После 20:00 напишу важную информацию по гардеробу и дополнительным занятиям 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35517271,
+    "id": "115134884008651066",
+    "time": 1756818908823,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "add",
+        "userIds": [
+          50104614
+        ]
+      }
+    ],
+    "sender_name": "Оля"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "id": "115134975559490784",
+    "time": 1756820305778,
+    "text": "Будем рады услышать про обеды.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {},
+    "id": "115135249342803188",
+    "time": 1756824483380,
+    "text": "Виктория Романовна, подскажите пожалуйста, тетради нам подписать или дети сами с Вами подписывают?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "UNDERLINE",
+        "length": 18
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      }
+    ],
+    "id": "115135257231057720",
+    "time": 1756824603745,
+    "text": "Виктория Романовна и уточните пожалуйста как оформить проездной? Его в школе оформляют?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 3
+    },
+    "id": "115135271980530063",
+    "time": 1756824828804,
+    "text": "Мы уже направили базу нашей школы в метрополитен (где и оформляется проездной), базу загрузят ориентировочно к 18 числу. Если я правильно помню, для оформления проездного нужен студенческий. Данную информацию отправлю после 20:00",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 8,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 8
+    },
+    "elements": [
+      {
+        "type": "STRONG",
+        "length": 7,
+        "from": 61
+      },
+      {
+        "type": "STRONG",
+        "length": 12,
+        "from": 651
+      },
+      {
+        "type": "STRONG",
+        "length": 12,
+        "from": 1409
+      },
+      {
+        "type": "STRONG",
+        "length": 5,
+        "from": 1421
+      }
+    ],
+    "id": "115135878136811015",
+    "time": 1756834078015,
+    "text": "Добрый вечер, уважаемые родители! \n\nПоздравляю всех с первым учебным днём в первом классе! Было шумно, но мы справились 🙏Просьба от меня: поговорите, пожалуйста, с детками о том, что их много, а я одна) Понимаю, что сегодня был первый день, первые уроки, но лучше это обсудить сразу. Бывает очень сложно их перекричать 😅\n\nИнформация по проездным: Ждем, когда наши списки внесут в базу метрополитена, как только я получу информацию, сразу ее отправлю. Сразу скажу, школ много, поэтому ближе к 18 числу нас внесут в общую базу школ\n\nИнформация по гардеробу: Теперь мы встречаемся у входа в начальную школу (там, где сегодня забирали детей, у лестницы) в 8:35-8:40. Забираю детей и мы все вместе идем в гардероб \n\nИнформация по дополнительным занятиям: На следующей неделе (очень надеюсь) будут различные мастер-классы, на которые Вы сможете записать детей. Потом я отправлю Вам сводную таблицу всех занятий и вы выберете для себя подходящие\n\nИнформация по обедам: Со следующей недели можно оставлять детей до 19:00 (на продленку). Обед будет в 13:30. Стоимость обеда - 171,80 рублей. \n‼️ВАЖНО‼️\nДети не носят деньги в школу! Мы с мамами, которые состоят в родительском комитете, выберем человека, который будет собирать деньги, а затем передавать их мне (можно будет организовать сдачу денег на обеды перед тем, как я буду забирать детей в школу) Нас ещё не подключили к системе карт, поэтому деньги приносим строго наличными 🙏🙏🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115135905262490726",
+    "time": 1756834491920,
+    "text": "Если есть вопросы, обязательно пишите, я на связи)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "id": "115136533524719056",
+    "time": 1756844078441,
+    "text": "Добрый вечер, учебник по окружающему миру выдавали ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115136536943992342",
+    "time": 1756844130615,
+    "text": "Добрый вечер! Нет, выдам завтра (С утра в рюкзаке у них учебник и рабочая тетрадь по математике + пенал, больше ничего не нужно)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "id": "115136541571809340",
+    "time": 1756844201230,
+    "text": "Папку для труда, и изо тоже пока не надо ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115136536943992342",
+        "time": 1756844130615,
+        "text": "Добрый вечер! Нет, выдам завтра (С утра в рюкзаке у них учебник и рабочая тетрадь по математике + пенал, больше ничего не нужно)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115136544070833842",
+    "time": 1756844239362,
+    "text": "Поняла вас , спасибо ☺️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 47298472,
+        "id": "115136541571809340",
+        "time": 1756844201230,
+        "text": "Папку для труда, и изо тоже пока не надо ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115136544531971063",
+    "time": 1756844246398,
+    "text": "Не надо, на этой неделе только основные уроки (русский язык, литературное чтение, математика и окружающий мир)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🥰"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115136549311642425",
+    "time": 1756844319330,
+    "text": "Поняла ) спокойной ночи 🌙",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  }
+]

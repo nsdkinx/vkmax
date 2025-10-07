@@ -1,0 +1,1067 @@
+[
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1759743675696,
+    "id": "115326154565572669",
+    "time": 1759737465905,
+    "text": "Доброе утро! Вопрос от психолога: Мне передали ваши заявления. Пожалуйста, уточните у следующих родителей, согласие у них или отказ? Не подчеркнуто в заявлении, а бывает так, что родитель против.\n1. Арефи Кристина\n2. Васильченко Александр\n3. Мирзаев Данис\n4. Мухамедиева Аделина\n5. Раевский Иван\n6. Фарбер Вадим\n7. Фролова Николь",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {},
+    "updateTime": 1759743675706,
+    "id": "115326172661772399",
+    "time": 1759737742031,
+    "text": "Вадим согласен",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1759743675716,
+    "id": "115326176713327841",
+    "time": 1759737803853,
+    "text": "Васильченкр согласен",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1759743675726,
+    "id": "115326212685196350",
+    "time": 1759738352740,
+    "text": "Раевский согласен",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "👌"
+        },
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 6
+    },
+    "elements": [
+      {
+        "length": 50,
+        "from": 17,
+        "attributes": {
+          "url": "https://forms.yandex.ru/u/68e3807dd0468802414c2f3b"
+        },
+        "type": "LINK"
+      }
+    ],
+    "id": "115326336064306840",
+    "time": 1759740235356,
+    "text": "Заполняем форму: https://forms.yandex.ru/u/68e3807dd0468802414c2f3b",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "SHARE",
+        "contentLevel": false,
+        "shareId": 249192772,
+        "title": "Яндекс Формы",
+        "url": "https://forms.yandex.ru/u/68e3807dd0468802414c2f3b"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115326340329202557",
+    "time": 1759740300433,
+    "text": "Чем быстрее форма будет заполнена, тем быстрее я занесу Ваши данные в электронный журнал и открою доступ к нему",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1759743601388,
+    "id": "115326348861252353",
+    "time": 1759740430622,
+    "text": "Готово ✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {},
+    "updateTime": 1759743601399,
+    "id": "115326351465055612",
+    "time": 1759740470353,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 6477486,
+    "reactionInfo": {},
+    "updateTime": 1759743601410,
+    "id": "115326352359383776",
+    "time": 1759740483999,
+    "text": "Готово",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 22059208,
+    "reactionInfo": {},
+    "updateTime": 1759743601421,
+    "id": "115326353293575261",
+    "time": 1759740498254,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Валентина"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "updateTime": 1759743601431,
+    "id": "115326360634206142",
+    "time": 1759740610263,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 12072188,
+    "reactionInfo": {},
+    "updateTime": 1759743601441,
+    "id": "115326362892771081",
+    "time": 1759740644726,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Лариса"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "updateTime": 1759743601377,
+    "id": "115326368409146009",
+    "time": 1759740728899,
+    "text": "Данис согласен ✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759743601451,
+    "id": "115326369604398965",
+    "time": 1759740747137,
+    "text": "Паспортные данные не забываем!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1759743605541,
+    "id": "115326369646316798",
+    "time": 1759740747777,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "updateTime": 1759743601461,
+    "id": "115326371906671472",
+    "time": 1759740782267,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {},
+    "updateTime": 1759743601481,
+    "id": "115326378229192255",
+    "time": 1759740878741,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "updateTime": 1759743601471,
+    "id": "115326422128487732",
+    "time": 1759741548591,
+    "text": "✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759743675696,
+        "id": "115326154565572669",
+        "time": 1759737465905,
+        "text": "Доброе утро! Вопрос от психолога: Мне передали ваши заявления. Пожалуйста, уточните у следующих родителей, согласие у них или отказ? Не подчеркнуто в заявлении, а бывает так, что родитель против.\n1. Арефи Кристина\n2. Васильченко Александр\n3. Мирзаев Данис\n4. Мухамедиева Аделина\n5. Раевский Иван\n6. Фарбер Вадим\n7. Фролова Николь",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743330494,
+    "id": "115326424017362232",
+    "time": 1759741577413,
+    "text": "Кристина согласна",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {},
+    "updateTime": 1759743330512,
+    "id": "115326527275545003",
+    "time": 1759743153008,
+    "text": "Мальцева Андрея отпустите,пожалуйста,в 12.40.\nОн без обеда.\nПапа ждет его у ворот.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33953969,
+        "updateTime": 1759743330512,
+        "id": "115326527275545003",
+        "time": 1759743153008,
+        "text": "Мальцева Андрея отпустите,пожалуйста,в 12.40.\nОн без обеда.\nПапа ждет его у ворот.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743601491,
+    "id": "115326540067580354",
+    "time": 1759743348199,
+    "text": "Хорошо, они еще на физкультуре",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 34439283,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1759743720500,
+    "id": "115326558212418579",
+    "time": 1759743625067,
+    "text": "Машу Гапоненко отпустите, пожалуйста \nДедушка пришел",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1759747167386,
+    "id": "115326618058769052",
+    "time": 1759744538250,
+    "text": "Фролова согласна. Данные внесла ✅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "updateTime": 1759749835977,
+    "id": "115326807083656911",
+    "time": 1759747422541,
+    "text": "✔️ форму заполнила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1759749835988,
+    "id": "115326913625873221",
+    "time": 1759749048246,
+    "text": "Форму заполнили)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {},
+    "updateTime": 1759751093023,
+    "id": "115327033978289122",
+    "time": 1759750884678,
+    "text": "Форму заполнили",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 18941460,
+    "reactionInfo": {},
+    "id": "115327124730360975",
+    "time": 1759752269445,
+    "text": "Ваню и Агату отпустите, пожалуйста, после кружка",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115327126522846460",
+    "time": 1759752296796,
+    "text": "Выпустите Раевского пожалуйста",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115327132287578072",
+    "time": 1759752384759,
+    "text": "Отпускаю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327150607772465",
+    "time": 1759752664303,
+    "text": "Добрый день,Мирослава можно отпускать",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 31203251,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327161362308755",
+    "time": 1759752828404,
+    "text": "Добрый день! Выпустите Марину)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Константин"
+  },
+  {
+    "sender": 16119236,
+    "reactionInfo": {},
+    "id": "115327272745058340",
+    "time": 1759754527970,
+    "text": "Добрый день\nМаксима отпустите пожалуйста",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Мария"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115327281860602370",
+    "time": 1759754667062,
+    "text": "Здравствуйте! А Максим у меня на английском",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 16119236,
+    "reactionInfo": {},
+    "id": "115327282377596825",
+    "time": 1759754674951,
+    "text": "Жду)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Мария"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "id": "115327292383239496",
+    "time": 1759754827625,
+    "text": "Добрый день!\nАнвара после английского можно отпускать",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "id": "115327317544220703",
+    "time": 1759755211551,
+    "text": "Здравствуйте,  Попову Алису тоже отпустите после английского",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "id": "115327319883739324",
+    "time": 1759755247249,
+    "text": "Добрый день! И Кристину, пожалуйста, отпустите после английского",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "id": "115327320090507155",
+    "time": 1759755250404,
+    "text": "Фролову Николь жду после английского )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "id": "115327322228594991",
+    "time": 1759755283029,
+    "text": "Добрый день. Андрея выпустите пожалуйста",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {},
+    "id": "115327340281427715",
+    "time": 1759755558493,
+    "text": "Добрый день. За Прохором подошли",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327353903260509",
+    "time": 1759755766346,
+    "text": "Отпустила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1759755953334,
+    "id": "115327365644423573",
+    "time": 1759755945502,
+    "text": "Отпустите Платона Савельева, пожалуйста",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327367588111812",
+    "time": 1759755975160,
+    "text": "Саша, Василиса, Вадим, Ксюша, Руслан, Алина и Данис на продленке",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327371706976342",
+    "time": 1759756038009,
+    "text": "Василису Федорову тоже отпускайте сейчас мама напишет )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327377049790881",
+    "time": 1759756119534,
+    "text": "Василису жду",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327378430436189",
+    "time": 1759756140601,
+    "text": "Отпустила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115327391529125055",
+    "time": 1759756340471,
+    "text": "Все, теперь звоним Ксении Андреевне",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "id": "115327698889499408",
+    "time": 1759761030418,
+    "text": "Виктория Романовна, завтра приносить вторую часть прописи ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "id": "115327757487332938",
+    "time": 1759761924550,
+    "text": "Виктория Романовка, подскажите пожалуйста, могу я завтра с утра получить книги ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11018897,
+        "id": "115327757487332938",
+        "time": 1759761924550,
+        "text": "Виктория Романовка, подскажите пожалуйста, могу я завтра с утра получить книги ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115327780598068082",
+    "time": 1759762277192,
+    "text": "Да) До 16:00",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115327780598068082",
+        "time": 1759762277192,
+        "text": "Да) До 16:00",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115327781626450351",
+    "time": 1759762292884,
+    "text": "Благодарю.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 32320433,
+        "id": "115327698889499408",
+        "time": 1759761030418,
+        "text": "Виктория Романовна, завтра приносить вторую часть прописи ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115327781891888563",
+    "time": 1759762296934,
+    "text": "Да, завтра приносим вторую часть 🥳 Сегодня всем выдала)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {},
+    "id": "115327783930192611",
+    "time": 1759762328036,
+    "text": "Прохор прописи не принес 🤦🏽‍♀️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115327785405455938",
+    "time": 1759762350547,
+    "text": "Значит, они у Ксюши)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "id": "115327813825284968",
+    "time": 1759762784199,
+    "text": "Простите пожалуйста, я возможно что-то упустила… О каких книгах идет речь ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 32320433,
+        "id": "115327813825284968",
+        "time": 1759762784199,
+        "text": "Простите пожалуйста, я возможно что-то упустила… О каких книгах идет речь ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115327830077877436",
+    "time": 1759763032194,
+    "text": "на родительском собрании выдавали книги. Если вы не получили - необходимо с Викторией РОмановной договориться об удобном времени, подойти и забрать учебники",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "id": "115327830077877436",
+        "time": 1759763032194,
+        "text": "на родительском собрании выдавали книги. Если вы не получили - необходимо с Викторией РОмановной договориться об удобном времени, подойти и забрать учебники",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115327832463324535",
+    "time": 1759763068593,
+    "text": "Спасибо!)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115327900009568626",
+    "time": 1759764099267,
+    "text": "Для тех, кто ходит на развитие речи (платное занятие)\n\nНужно заказать тетради: Рост Книга Занимательный русский язык 1 класс В 2-х частях\nhttps://www.wildberries.ru/catalog/300497056/detail.aspx?size=456640150",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 900,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8qHfqe8tKSELFvkySvrCa-Iaoi1uJiGnUIVH9Af0sso4",
+          "height": 1200
+        },
+        "_type": "SHARE",
+        "description": "В данном пособии представлены материалы к тематическим коррекционно-развивающим занятиям с первоклассниками курса «РПС» («Развитие познавательных способностей»). Пособие соответствует федеральн...",
+        "contentLevel": false,
+        "shareId": 250544452,
+        "title": "Занимательный русский язык 1 класс В 2-х частях, Рост Книга",
+        "url": "https://www.wildberries.ru/catalog/300497056/detail.aspx?size=456640150"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 29282029,
+        "id": "115327783930192611",
+        "time": 1759762328036,
+        "text": "Прохор прописи не принес 🤦🏽‍♀️",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759823282149,
+    "id": "115327958217392237",
+    "time": 1759764987448,
+    "text": "Добрый вечер) прописи у нас, завтра принесём))",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {},
+    "updateTime": 1759823282138,
+    "id": "115327967063322087",
+    "time": 1759765122426,
+    "text": "Виктория Романовна, подскажите, пожалуйста, это выполняем?",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAACwCACdASomADIAPl0ijUWjoiEb/x6oOAXEs4Bo/BIDY/htJd8gdP3uoh6E1kSXDm5LK9N9jLm9OvvJIEAZY6N+gKaaztnYC17s+gLHLAAA/HIeh/l4p+pi+WPcOPCpCwH0nukKDrf9XFOqvN6zv/GIUcLZq6+3srjS4dvThZrvkFrifvkSYY1paqke8zdj3n1x0wM5gD8unseUdIhr3bvnFz52BqzJpS/6WfU/GB90NsMFCi79VsWYGY3ObDmePNepQQiiPQKYbErWI2y/KOSS4KxKHWfT2H/Pr04EVA7QCnYQvMu1y2/p/zNLMcd/OyIZTop4x1AOB2uGGA8afsROtNF3LUVurLjjlAAAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notm7Ibi8G1Ev0lIVESJxEv5zhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "jH3vMgpDBAHmhZnHbAZvyrqK9ywe4SYqo60WcyC0kJA5Npai63T06+vxjr/yih1IYIeZ02MmfLsnk/sLUo8lyIyF290jx5t4N1ot9hfbckM=",
+        "_type": "PHOTO",
+        "width": 1224,
+        "photoId": 386947009,
+        "height": 1632
+      }
+    ],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 12130753,
+        "updateTime": 1759823282138,
+        "id": "115327967063322087",
+        "time": 1759765122426,
+        "text": "Виктория Романовна, подскажите, пожалуйста, это выполняем?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAACwCACdASomADIAPl0ijUWjoiEb/x6oOAXEs4Bo/BIDY/htJd8gdP3uoh6E1kSXDm5LK9N9jLm9OvvJIEAZY6N+gKaaztnYC17s+gLHLAAA/HIeh/l4p+pi+WPcOPCpCwH0nukKDrf9XFOqvN6zv/GIUcLZq6+3srjS4dvThZrvkFrifvkSYY1paqke8zdj3n1x0wM5gD8unseUdIhr3bvnFz52BqzJpS/6WfU/GB90NsMFCi79VsWYGY3ObDmePNepQQiiPQKYbErWI2y/KOSS4KxKHWfT2H/Pr04EVA7QCnYQvMu1y2/p/zNLMcd/OyIZTop4x1AOB2uGGA8afsROtNF3LUVurLjjlAAAAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notm7Ibi8G1Ev0lIVESJxEv5zhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "oc2FczPOtXVUgp1HUR/+eEpc+1/Nebieg3Km3I54CSxNZ6Pg/3mq5mJRY8qFLOgF/C6wUkEyJZxUlpRD+GQr6gf4y5KJVOK3PPnzWd6aKUQ=",
+            "_type": "PHOTO",
+            "width": 1224,
+            "photoId": 386947009,
+            "height": 1632
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759823282159,
+    "id": "115327970060491949",
+    "time": 1759765168159,
+    "text": "Да) Только написать хотела 😁",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "updateTime": 1759823282170,
+    "id": "115327981371145009",
+    "time": 1759765340746,
+    "text": "Вы не проверяли у тех, кто уже сделал?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 5
+    },
+    "id": "115327984383563367",
+    "time": 1759765386712,
+    "text": "Уважаемые родители! Сегодня брала несколько дневников на проверку, заметила, что у некоторых сокращения уроков записаны неверно. Верный вариант:\nРус. яз.\nФиз-ра\nБассейн\nЛит.чт.\nМатем.\nОкр.мир.\nРоВ (Разговоры о важном) \nИЗО\nТРУД",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 38857467,
+        "updateTime": 1759823282170,
+        "id": "115327981371145009",
+        "time": 1759765340746,
+        "text": "Вы не проверяли у тех, кто уже сделал?)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759823282180,
+    "id": "115327985480907837",
+    "time": 1759765403456,
+    "text": "Сегодня не успела(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "elements": [
+          {
+            "length": 50,
+            "from": 17,
+            "attributes": {
+              "url": "https://forms.yandex.ru/u/68e3807dd0468802414c2f3b"
+            },
+            "type": "LINK"
+          }
+        ],
+        "id": "115326336064306840",
+        "time": 1759740235356,
+        "text": "Заполняем форму: https://forms.yandex.ru/u/68e3807dd0468802414c2f3b",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 249192772,
+            "title": "Яндекс Формы",
+            "url": "https://forms.yandex.ru/u/68e3807dd0468802414c2f3b"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759823282191,
+    "id": "115328006039276177",
+    "time": 1759765717152,
+    "text": "Жду всех 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 12130753,
+        "updateTime": 1759823282138,
+        "id": "115327967063322087",
+        "time": 1759765122426,
+        "text": "Виктория Романовна, подскажите, пожалуйста, это выполняем?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRhoBAABXRUJQVlA4IA4BAACwCACdASomADIAPl0ijUWjoiEb/x6oOAXEs4Bo/BIDY/htJd8gdP3uoh6E1kSXDm5LK9N9jLm9OvvJIEAZY6N+gKaaztnYC17s+gLHLAAA/HIeh/l4p+pi+WPcOPCpCwH0nukKDrf9XFOqvN6zv/GIUcLZq6+3srjS4dvThZrvkFrifvkSYY1paqke8zdj3n1x0wM5gD8unseUdIhr3bvnFz52BqzJpS/6WfU/GB90NsMFCi79VsWYGY3ObDmePNepQQiiPQKYbErWI2y/KOSS4KxKHWfT2H/Pr04EVA7QCnYQvMu1y2/p/zNLMcd/OyIZTop4x1AOB2uGGA8afsROtNF3LUVurLjjlAAAAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notm7Ibi8G1Ev0lIVESJxEv5zhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "GHV2f8jwxlZUmxjF2f6PFok5kdtGnWSBKSuB6lIgVlu1uYaXhNikXNqHa2CLZiTdclosM3EWBcMjR0b+0Y8eFEck27IVUdYa0k/SuuCgwNw=",
+            "_type": "PHOTO",
+            "width": 1224,
+            "photoId": 386947009,
+            "height": 1632
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759823282201,
+    "id": "115328251997785841",
+    "time": 1759769470181,
+    "text": "Добрый вечер! А карандашом писать ✍️ или ручкой ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 47298472,
+        "updateTime": 1759823282201,
+        "id": "115328251997785841",
+        "time": 1759769470181,
+        "text": "Добрый вечер! А карандашом писать ✍️ или ручкой ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759823282211,
+    "id": "115328254498648175",
+    "time": 1759769508341,
+    "text": "Карандашом, но если хорошо получается, я разрешаю писать в этих тетрадях ручкой",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  }
+]

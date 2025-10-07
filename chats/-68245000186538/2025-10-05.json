@@ -1,0 +1,777 @@
+[
+  {
+    "sender": 66775681,
+    "reactionInfo": {},
+    "updateTime": 1759657013697,
+    "id": "115320272628706782",
+    "time": 1759647714671,
+    "text": "Доброе утро. А завтра будут занятия по Английскому?",
+    "type": "USER",
+    "cid": 1759647714538001,
+    "attaches": [],
+    "sender_name": "Fedor"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {},
+    "updateTime": 1759657013707,
+    "id": "115320273792144735",
+    "time": 1759647732424,
+    "text": "Доброе утро!И бассейн?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759657013717,
+    "id": "115320313906338719",
+    "time": 1759648344518,
+    "text": "Доброе утро! Уточняю информацию, как только будет ответ, напишу 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 9,
+          "reaction": "🥳"
+        }
+      ],
+      "totalCount": 9
+    },
+    "elements": [
+      {
+        "type": "EMPHASIZED",
+        "length": 23,
+        "from": 98
+      },
+      {
+        "type": "EMPHASIZED",
+        "length": 8,
+        "from": 122
+      }
+    ],
+    "updateTime": 1759657013727,
+    "id": "115320451576562515",
+    "time": 1759650445199,
+    "text": "Виктория Романовна! С праздником 💫  Дорогой учитель, спасибо за то, что Вы не просто обучаете, а видите в каждом ребёнке личность. Пусть каждое Ваше слово отзывается светом в сердцах наших детей. Желаю вдохновения, терпения и глубокого удовлетворения от дела, которое Вы несёте. 💐",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 35121200,
+        "elements": [
+          {
+            "type": "EMPHASIZED",
+            "length": 23,
+            "from": 98
+          },
+          {
+            "type": "EMPHASIZED",
+            "length": 8,
+            "from": 122
+          }
+        ],
+        "updateTime": 1759657013727,
+        "id": "115320451576562515",
+        "time": 1759650445199,
+        "text": "Виктория Романовна! С праздником 💫  Дорогой учитель, спасибо за то, что Вы не просто обучаете, а видите в каждом ребёнке личность. Пусть каждое Ваше слово отзывается светом в сердцах наших детей. Желаю вдохновения, терпения и глубокого удовлетворения от дела, которое Вы несёте. 💐",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759652553848,
+    "id": "115320456292104262",
+    "time": 1759650517152,
+    "text": "Большое спасибо 🫶😊",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1759652553858,
+    "id": "115320472104484419",
+    "time": 1759650758430,
+    "text": "Скажите , пожалуйста, нужно заполнять дневник за прошлую неделю и будущую , верно?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1759652553858,
+        "id": "115320472104484419",
+        "time": 1759650758430,
+        "text": "Скажите , пожалуйста, нужно заполнять дневник за прошлую неделю и будущую , верно?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759652553868,
+    "id": "115320496287211242",
+    "time": 1759651127429,
+    "text": "На будущую, которая с 6 - 10",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "updateTime": 1759657013737,
+    "id": "115320605774909317",
+    "time": 1759652798079,
+    "text": "Виктория Романовна,  с Днём Учителя!🌷🌷🌷 Желаю вам крепкого здоровья, отличного настроения и чтобы ваши ученики радовали вас , своими достижениями и успехами🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷🌷",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1759657013746,
+    "id": "115320658489472799",
+    "time": 1759653602439,
+    "text": "Виктория Романовна,\nС Днем учителя! Спасибо за ваши усилия и заботу. Мы рады, что вы наш учитель. Желаю вам много радости и хороших учеников!🌺",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1759657013756,
+    "id": "115320708294979849",
+    "time": 1759654362411,
+    "text": "Виктория Романовна, с праздником вас🫶🫶🫶 очень рады, что вы наш учитель ❤️ будьте всегда здоровы и полны энергии🥰 очень вас ценим ☀️ пусть наши детки вас радуют и заряжают отличным настроением 🌺",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759657013766,
+    "id": "115320798522258481",
+    "time": 1759655739170,
+    "text": "Большое спасибо 🙏💕",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      }
+    ],
+    "updateTime": 1759657096998,
+    "id": "115320824235577559",
+    "time": 1759656131524,
+    "text": "Виктория Романовна в таблице ГПД есть вкладка \"Кружки\". Сюда записываем и платные, и бесплатные и внеурочку типа \"подвижных игр\"?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "elements": [
+          {
+            "type": "USER_MENTION",
+            "length": 18,
+            "entityId": 44502596
+          },
+          {
+            "type": "USER_MENTION",
+            "length": 18,
+            "entityId": 44502596
+          }
+        ],
+        "updateTime": 1759657096998,
+        "id": "115320824235577559",
+        "time": 1759656131524,
+        "text": "Виктория Романовна в таблице ГПД есть вкладка \"Кружки\". Сюда записываем и платные, и бесплатные и внеурочку типа \"подвижных игр\"?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759657097009,
+    "id": "115320886681478511",
+    "time": 1759657084373,
+    "text": "Да) Туда все кружки и время, чтобы я знала, куда и кого отдавать 😊",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759557990499,
+        "id": "115294289872505770",
+        "time": 1759251249275,
+        "text": "По математике до 15 человека записаны",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRnYBAABXRUJQVlA4IGoBAABwCgCdASoqADIAPlUei0WjoaEepAA4BUSzm4AB5vPOm/r/4B/FOmWLfZ3+YMXU8jlzA1pOZM+ZpX7p0++Iw/swd0mnBb3VLrDNEPlf1cklpNa0Yskk1D/6npQvAAD+9QfdrqJvfVB/DsP3qz86HWx2pZwg6KWsdbMTh+rENPaJi7txfXGR20lkbtu5+/AcKIOYSvu28uUypXyJGJBtxsSXreRk7Z99gyhftNOB+9+6k+vdaMnkDeXgqmF28XXbvkJRqYHMTx6w9LSv9J+z3+3xn0BxxPy/nx2kJ9y95p4ch2V44N97TFavMBCe3yzckY/xgJcY1Z3sgb0g0uvJu0bBuCXTEikwt95yMeIXvAlaGn8IaFKyYdHxlp+riS5/KlfbzpT3Ux+u1p9OS9mCq2t2LDmRqsvA8qNo1svKkdg/9/6EJFc1vKwvqfeIy8K61mSEJXoEFWi4VPwQyol3Xd1znaWayFLcVsgAAA==",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not4ZH6eqD-QhSRii-9e1saLjhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "gFG8EFqgRBv8lwrQKUly952qeEbuvIOyppbPNoMmXFSwKxTFMHVkx0KtyaZQytgxGZcSieGU82twZblJwr1f7tC7BDdatL7tgI0RG/mWvSM=",
+            "_type": "PHOTO",
+            "width": 1617,
+            "photoId": 390830404,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743703268,
+    "id": "115321613025031846",
+    "time": 1759668167496,
+    "text": "Дорогие родители! Вот уже второй день не могу составить список детей на математику, так как я просто не понимаю, что делать в сложившейся ситуации…\n\nЯ понимаю, что кто то сидел ближе, кто то дальше, но список составить надо) \n\nЯ прошу Вас сейчас подумать над тем, кому действительно нужны курсы по математике и написать мне в личные сообщения. Все мы взрослые люди, я надеюсь, у нас получится решить эту ситуацию 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 3
+    },
+    "updateTime": 1759743703279,
+    "id": "115321629170292775",
+    "time": 1759668413853,
+    "text": "Напоминаю, что мы будем заниматься по курсу «Умники и умницы»\n\nМеста закончились ❌",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 5
+    },
+    "updateTime": 1759743703289,
+    "id": "115321643144738569",
+    "time": 1759668627086,
+    "text": "Если я не ответила на Ваше сообщение, значит, Вы записаны)\n\nСоставлю список и отправлю в чат ближе к вечеру 😊",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 3
+    },
+    "updateTime": 1759743703299,
+    "id": "115321730843098542",
+    "time": 1759669965257,
+    "text": "Математика (платный кружок) среда 13.55-14.30\nПроверьте, чтобы не пересекалось с другими занятиями.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 9,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 9
+    },
+    "updateTime": 1759743703258,
+    "id": "115321740038773664",
+    "time": 1759670105572,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "FILE",
+        "name": "Список детей на математику.pdf",
+        "size": 72342,
+        "fileId": 9554042,
+        "token": "f9LHodD0cOK3YItnY3ipjmRiyD2LIyXWXZ3KAHNa1p4eUGAvx8av6-pc6IDSmZp1UCjZ9f7eQJRAVZAUs8Gk"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "id": "115321786838640412",
+    "time": 1759670819681,
+    "text": "Развитие речи (платный кружок) вторник 13.55- 14.30\nТоже для само проверки родителей, записавшихся на это занятие",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759743703258,
+        "id": "115321740038773664",
+        "time": 1759670105572,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "FILE",
+            "name": "Список детей на математику.pdf",
+            "size": 72342,
+            "fileId": 9554042,
+            "token": "f9LHodD0cOL6HIGm2eIQLzSNL1D6ehnUnqziIgGbkZbeDNn6Cmh3ZCRhHAqS9LVz52jr0l95bKkOtnuzVIWL"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675543,
+    "id": "115321812754060968",
+    "time": 1759671215119,
+    "text": "Добрый вечер,можно уточнить почему Сорокина исключили из списка и добавили кого вообще нет в списке?)Мой был 5 в списке с родительского собрания",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759743703268,
+        "id": "115321613025031846",
+        "time": 1759668167496,
+        "text": "Дорогие родители! Вот уже второй день не могу составить список детей на математику, так как я просто не понимаю, что делать в сложившейся ситуации…\n\nЯ понимаю, что кто то сидел ближе, кто то дальше, но список составить надо) \n\nЯ прошу Вас сейчас подумать над тем, кому действительно нужны курсы по математике и написать мне в личные сообщения. Все мы взрослые люди, я надеюсь, у нас получится решить эту ситуацию 🤗",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675554,
+    "id": "115321881600543610",
+    "time": 1759672265633,
+    "text": "К сожалению, в процессе первоначальной записи не все участники соблюдали правила записи, из-за этого возникла неразбериха, чтобы обеспечить всем равные и справедливые условия, я была вынуждена аннулировать первоначальную запись и открыть ее заново.\n\nПрошу отнестись с пониманием — это вынужденная мера.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759743675565,
+    "id": "115321884789329275",
+    "time": 1759672314290,
+    "text": "Также, сейчас составляются списки на другие платные кружки, следите за постами лицея в ВК, кружков много, а мест мало….",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759743703258,
+        "id": "115321740038773664",
+        "time": 1759670105572,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "FILE",
+            "name": "Список детей на математику.pdf",
+            "size": 72342,
+            "fileId": 9554042,
+            "token": "f9LHodD0cOJrutHm4lN08PD_RiF4jFYElTRI5BG5oz35mgvOundHnUQGZYm7aUMeC8jwufBxFAs915pVeLRU"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675576,
+    "id": "115321951025962611",
+    "time": 1759673324981,
+    "text": "Обидно, мы билыв списке 16 тыми, а в итоге не попали(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 31203251,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759743675565,
+        "id": "115321884789329275",
+        "time": 1759672314290,
+        "text": "Также, сейчас составляются списки на другие платные кружки, следите за постами лицея в ВК, кружков много, а мест мало….",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675586,
+    "id": "115321990068331569",
+    "time": 1759673920720,
+    "text": "Платные кружки будут только в постах ВК или будут появляться еще в https://dopobr.petersburgedu.ru/?",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "SHARE",
+        "contentLevel": false,
+        "shareId": 171940019,
+        "title": "https://dopobr.petersburgedu.ru/o",
+        "url": "https://dopobr.petersburgedu.ru/o"
+      }
+    ],
+    "sender_name": "Константин"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 31203251,
+        "updateTime": 1759743675586,
+        "id": "115321990068331569",
+        "time": 1759673920720,
+        "text": "Платные кружки будут только в постах ВК или будут появляться еще в https://dopobr.petersburgedu.ru/?",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 171940019,
+            "title": "https://dopobr.petersburgedu.ru/o",
+            "url": "https://dopobr.petersburgedu.ru/o"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675595,
+    "id": "115321992772982377",
+    "time": 1759673961990,
+    "text": "Должны на портале появится платные",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 4
+    },
+    "updateTime": 1759743675605,
+    "id": "115322014043611978",
+    "time": 1759674286554,
+    "text": "‼️Открываю еще одну группу по английскому языку с 0‼️\nРасписание: ВТ и ЧТ с 15:10-15:55\nМЕСТ 2\n\nДля записи пишите мне в личные сообщения",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "👍"
+        },
+        {
+          "count": 3,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 8
+    },
+    "updateTime": 1759743675615,
+    "id": "115322569879543226",
+    "time": 1759682767937,
+    "text": "Завтра бассейна не будет(\nБерем форму для зала",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 12,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 12
+    },
+    "updateTime": 1759743675624,
+    "id": "115322758018566256",
+    "time": 1759685638711,
+    "text": "Вечерние новости! \n\nС завтрашнего дня в нашем классе начинаются платные кружки 🥳\nКвитанции на оплату и договора будут чуть позже)\n\nЗавтра у нас будет первый урок английского, отдельную группу создам чуть позже)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115309470498441646",
+        "time": 1759482887244,
+        "text": "Уважаемые родители! Делюсь с Вами ссылками на тетради по платной математике и внеурочной деятельности «Логика и алгоритмика». \n\nПочему лучше приобрести тетради? \nВо первых, в первом классе детки только начинают учиться работать с учебниками и тетрадями, чтобы в дальнейшем им было легче, лучше сразу сделать упор на работу с книгами, а не с листочками\n\nВо вторых, экономия времени и средств. Если бы я на каждый урок делала 30 копий, то уходило бы очень много краски, а потом и денег на картриджы….\n\n1) Тетради по внеурочной деятельности «Логика и алгоритмика»:https://www.wildberries.ru/catalog/250647505/detail.aspx?size=391931365\n\n2) Тетради по платной математике:\nhttps://www.wildberries.ru/catalog/154953424/detail.aspx?size=258737068",
+        "type": "USER",
+        "attaches": [
+          {
+            "image": {
+              "_type": "PHOTO",
+              "width": 900,
+              "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr80N5w_N-p2uv9hNLEArttJoaoi1uJiGnUIVH9Af0sso4",
+              "height": 1200
+            },
+            "_type": "SHARE",
+            "description": "Данное развивающее пособие предназначено для ознакомления детей с элементами логики и соответствует программе факультатива «Элементы логики» для 1-го класса. Занятия строятся от простого к сложному,...",
+            "contentLevel": false,
+            "shareId": 240243012,
+            "title": "Логические задачи для школьников 1 класс, Новое знание",
+            "url": "https://www.wildberries.ru/catalog/250647505/detail.aspx?size=391931365"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675636,
+    "id": "115322807906891566",
+    "time": 1759686399946,
+    "text": "Напоминаю про тетради)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759743675636,
+        "id": "115322807906891566",
+        "time": 1759686399946,
+        "text": "Напоминаю про тетради)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675646,
+    "id": "115322833126379219",
+    "time": 1759686784765,
+    "text": "Тетрадь заказана, но еще в пути(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 32320433,
+        "updateTime": 1759743675646,
+        "id": "115322833126379219",
+        "time": 1759686784765,
+        "text": "Тетрадь заказана, но еще в пути(",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675656,
+    "id": "115322840660917222",
+    "time": 1759686899733,
+    "text": "Еще есть время до среды 🤞",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1759743675656,
+        "id": "115322840660917222",
+        "time": 1759686899733,
+        "text": "Еще есть время до среды 🤞",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675686,
+    "id": "115322864771079161",
+    "time": 1759687267625,
+    "text": "Эх(( не успевает прийти",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 41143905,
+    "reactionInfo": {},
+    "updateTime": 1759743675666,
+    "id": "115322879140461929",
+    "time": 1759687486884,
+    "text": "А вот эти куда?",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADQBwCdASoXADIAAUAmJZwCVAIMA64fTvuAVrvwIKVP7iDVM9Ui/Wv4B4ORhIIaUYBxbiAkksLjcZKqHtim/zLTD5UT3EXgAAD+/rdaXBofPKVCe/iV6Q+zyibP9JjwO/W5fPtfyDTC4vXp++lg5O2c+BkwQ5+683p/3KSPV8K/NsAddMZ447mynsJ0Zlb2ZLWeS8Ju565jU1QE+vSLLacylJMysmAfh52pw8WL+xu1jsr8suzHPfc16juqOi8OzP/uTSO3y/1UqYl69X/3SYLN9k27qLc/dTuR4dhGGmtZ6vp9Odx/wHYvQj/tciPQy6eX+MCvjSlUbazZ2qPBQv9klqaHmWRo8zQ5uaYZPuj1HaFXgty/ZQRLFzh1zv/9Ucrv0+FX81JmNNsb9MMtQ0hI8gFQU593utkpvWIFG1O4vlAQAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not-Xe7KLf5cWopSUyOJb0JzDhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "evGeuJgruOAVeZ1yfJ/G1wx6II36zVb4nSxFkTzYG3r0xsWMg135KPqUXhdBIUPijrRja5iS2HwKkh4ntRGpXQA+8+wNZjWe",
+        "_type": "PHOTO",
+        "width": 883,
+        "photoId": 387105889,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Svetlana"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 41143905,
+        "updateTime": 1759743675666,
+        "id": "115322879140461929",
+        "time": 1759687486884,
+        "text": "А вот эти куда?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRlABAABXRUJQVlA4IEQBAADQBwCdASoXADIAAUAmJZwCVAIMA64fTvuAVrvwIKVP7iDVM9Ui/Wv4B4ORhIIaUYBxbiAkksLjcZKqHtim/zLTD5UT3EXgAAD+/rdaXBofPKVCe/iV6Q+zyibP9JjwO/W5fPtfyDTC4vXp++lg5O2c+BkwQ5+683p/3KSPV8K/NsAddMZ447mynsJ0Zlb2ZLWeS8Ju565jU1QE+vSLLacylJMysmAfh52pw8WL+xu1jsr8suzHPfc16juqOi8OzP/uTSO3y/1UqYl69X/3SYLN9k27qLc/dTuR4dhGGmtZ6vp9Odx/wHYvQj/tciPQy6eX+MCvjSlUbazZ2qPBQv9klqaHmWRo8zQ5uaYZPuj1HaFXgty/ZQRLFzh1zv/9Ucrv0+FX81JmNNsb9MMtQ0hI8gFQU593utkpvWIFG1O4vlAQAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not-Xe7KLf5cWopSUyOJb0JzDhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "a77oOBljK7BPCC2CPu5EVmQiuRVBqohl99lB+9nWv2QxSagZYV9K+Tkyhh/+867MEEgrNKVfBc32ywai8lFx6AjaCqKDke7l",
+            "_type": "PHOTO",
+            "width": 883,
+            "photoId": 387105889,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1759743675676,
+    "id": "115322882561030107",
+    "time": 1759687539078,
+    "text": "Это математика (платная)",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  }
+]

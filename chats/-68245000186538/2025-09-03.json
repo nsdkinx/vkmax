@@ -1,0 +1,588 @@
+[
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "👍"
+        },
+        {
+          "count": 2,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 5
+    },
+    "elements": [
+      {
+        "type": "STRONG",
+        "length": 44,
+        "from": 72
+      }
+    ],
+    "id": "115138442901804507",
+    "time": 1756873213223,
+    "text": "Доброе утро! Напоминаю: встречаемся у входа в начальную школу (на улице) в 8:35-8:40! \nБольшая просьба не опаздывать 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 2
+    },
+    "id": "115138767319814500",
+    "time": 1756878163449,
+    "text": "Детей забрала, у дверей стоит завуч, можете отправлять детей к ней, дальше они пойдут в гардероб)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "👍"
+        },
+        {
+          "count": 2,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 5
+    },
+    "id": "115138809055950302",
+    "time": 1756878800292,
+    "text": "Все в школе!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 7,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 7
+    },
+    "id": "115138869062166457",
+    "time": 1756879715914,
+    "text": "Пришли на линейку!",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRmgCAABXRUJQVlA4IFwCAACQDQCdASoyACYAAUAmJZQC9i+5pccrfo72gyiH4P+G+aX+H6iupq/7D+AfxjXIOEB/gPRD/lf4X/VeloN2o+3pQPpSD8cJeDZc8QJJ6I5ICTrgPllKphJa/HUH43txBheTzSSQ5CCdA6WWj10INBEZ1RL8o/wA/uNP/K5hhGFXpQ4glDbdTCxcPQzmOo4jbAiZyr493MQafxCJYNBY4YrN4DrykKCQh+/FCN4yeOuLMFmtwp5lQSWA8Ap0EAMntS7Q69c86itokJFn/FXk0D+9VdtsV1L/kXiZwR/2dS03u/rpopowQ/ys6GP+dW3a2rf1/EsyJcqpiNApUBrAx9itOpvDt+726k1ZbnACGgR/CHfHAVPyx9deFIu/cYLwZ3Q29WklJ7TQMOclipSRx8W1BcN+Tv8RNea6UhTOSS08SWF7a4cl5nANABri0ufPPLkkPsnhByv5g7j5Vek31/IBKsWJGmL6c46/x3+Z2SpvisdZZ7wqJhn0u9O8bvPqC90Rz1sBs3dRYwYYj/L+uTPb/wdcufuElzxqHlvwnrFP5qvhLrfI4/Y/geMrJTKXxwXXf9jwx05MizDJiuvkXP2pwG/JYyf+EorpUH4Cr7/U+g8SBAKk3QZJKVdapXH54jc3RMAuprS5BUpfyY/4puxDpWoSb6YYZmZ6gRbMeJjW//h7fFZihC3t6ImN08S5UmsP2gJKxsay3TI7x9MlvUg7yN3/2JI0NFL/4haJl02w3N6wrRiYEIeumoCWPIdQumY8iKlmHAUICKlqgdJGK/yfHFSo6gXKBa33/gAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotKNCK0vJe584qEM3ul-I3ejhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "10v96Jr1cuO9pottJeClx0LPv4K0iUHO/WNQyLqyVyr0dbziWtaX/a5hB1Fq9x5J7MNhdqDAZPO2YShq9sOBmQ9pMZo+z/jv4UAnZ1Kd6qE=",
+        "_type": "PHOTO",
+        "width": 1920,
+        "photoId": 186040132,
+        "height": 1440
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115138869062166457",
+        "time": 1756879715914,
+        "text": "Пришли на линейку!",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRmgCAABXRUJQVlA4IFwCAACQDQCdASoyACYAAUAmJZQC9i+5pccrfo72gyiH4P+G+aX+H6iupq/7D+AfxjXIOEB/gPRD/lf4X/VeloN2o+3pQPpSD8cJeDZc8QJJ6I5ICTrgPllKphJa/HUH43txBheTzSSQ5CCdA6WWj10INBEZ1RL8o/wA/uNP/K5hhGFXpQ4glDbdTCxcPQzmOo4jbAiZyr493MQafxCJYNBY4YrN4DrykKCQh+/FCN4yeOuLMFmtwp5lQSWA8Ap0EAMntS7Q69c86itokJFn/FXk0D+9VdtsV1L/kXiZwR/2dS03u/rpopowQ/ys6GP+dW3a2rf1/EsyJcqpiNApUBrAx9itOpvDt+726k1ZbnACGgR/CHfHAVPyx9deFIu/cYLwZ3Q29WklJ7TQMOclipSRx8W1BcN+Tv8RNea6UhTOSS08SWF7a4cl5nANABri0ufPPLkkPsnhByv5g7j5Vek31/IBKsWJGmL6c46/x3+Z2SpvisdZZ7wqJhn0u9O8bvPqC90Rz1sBs3dRYwYYj/L+uTPb/wdcufuElzxqHlvwnrFP5qvhLrfI4/Y/geMrJTKXxwXXf9jwx05MizDJiuvkXP2pwG/JYyf+EorpUH4Cr7/U+g8SBAKk3QZJKVdapXH54jc3RMAuprS5BUpfyY/4puxDpWoSb6YYZmZ6gRbMeJjW//h7fFZihC3t6ImN08S5UmsP2gJKxsay3TI7x9MlvUg7yN3/2JI0NFL/4haJl02w3N6wrRiYEIeumoCWPIdQumY8iKlmHAUICKlqgdJGK/yfHFSo6gXKBa33/gAA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotKNCK0vJe584qEM3ul-I3ejhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "+Zy0oStdGHCK0jTU7DsFn8fdLV7Bwa4NpYJNv6bW6RatwXqr1N1mGS4zZPpIgV/UBIQJi36ug6zmKHrZxQfBILQjswInlh+ZCCM/FqjrqoU=",
+            "_type": "PHOTO",
+            "width": 1920,
+            "photoId": 186040132,
+            "height": 1440
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "id": "115138878062229758",
+    "time": 1756879853244,
+    "text": "Доброе утро,Сорокина Платона  нет,он дошел до класса?🙈",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115138880028829999",
+    "time": 1756879883252,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRmICAABXRUJQVlA4IFYCAABwDgCdASomADIAPlUei0WjoaEepAA4BUSygGL0gowx6MPWfHvZv/tnk1/XepV8NG+y9r/yWqAcCT6cv+h/ACD8ejynuUmTizbv/l26tMfO+e959zKPFjXOVIPFBS3taACr4LMLPiVEVVw4QKHCHOg5ge88jJNOF5ufWLHAAP7+q7FoSoeqS6OmguW7d8nfIeiv1wO3wlyWtAR1f8zXeX+CwqTiOsTjSIvb7myjrCmev52RVmZWzSvNixVrdShZrNnIH19Ev0/AN0EdDYkbyvKMyAV5VaGGWiKzDYYZAFP2ccj81SLryz/D1ev3VVPcdmV5QviR1O+LowvE1H86vspPMA0EIKK8o21BPI03/bFU/Bp3MStmXunuHnCNg/jUoQS8mW47gmoPavztEBikfJ1PAfXn79OAEW48vuUTYt5KAnAyWr84tioDSQQkQgxo/zC2udqdtGetPxiKWeUDpkGpUlpYehMEWCkLFls0uImHhPjiXimlmeH4pTbL4CRlXdhI+Oxtmkx7Ib7tnWTsWp5hZKM+DzrKNyYlRxvPCwI4qR5TdPpRPUjD8tNYXYs9uwJvOVEM8tAOrhPRI75Mxw9jCNZn6E7y391XyEKStvFSXXL+/8BZtTwBPO+YBQ4F+ThLxbNlzR+SFnKr50VJe7KwXoZizTysIap2Niu98nQDbkMUuc2/Eb7JkRB4lI5XbkQRT7o0W0UeyTThUWSUf3+/yt41bxSMValStj2x1xG8eiytNcx+aXabODULcu3Fx+Cnsxp5ILypPPf/85P9Fee1xakCw6AA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotnBMeSE-HNTxbF0XNDBqqtThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "TXl7+fs5E9IfRU8EcezNCXkHg2FHT9Vj7F2jEvHFTwSjm4IMnEBrZAQI6OrkhK3kBXTp9yvXC1L3w2V9d1wcv7qQaM7iULf9/VeFxQesAlI=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 186064708,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "id": "115138881659693442",
+    "time": 1756879908137,
+    "text": "Спасибо ,извините за беспокойство)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "id": "115138883451974909",
+    "time": 1756879935485,
+    "text": "Извините, не вижу Артема Баранова😁😁",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115138885041476911",
+    "time": 1756879959739,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRlgCAABXRUJQVlA4IEwCAAAwDQCdASomADIAAUAmJZQDK6Dp47PvX4gda76mPwv0v9C8qf8BuoP7dbvv8lV/38n/MCnB2Milim/AKcRhEtyHfiKP2h2wACpLPlKxVJ9z6juf/pKNOs/LOOq15yo97pmaDPov/KSPwETCSg7axDVoFAAA/vUMzLAAZA83+qkKJpuDeOth86wXcUXwmdRyCU3OTOpeB/4q8QGN3J9D+cveHQhhTC8TjgdRd5iRhfWufoeTBpP3I8HeDt8zvn/zLP/z0sp1GtPVfojAH6Yhthb/j9C1t3TxH7NaUGVYIXXNJ3VQp4E5p9nUDc+2u5rWp7iUUWSGbOVvaEZ2Nk/VElbnxUd2wv+C8gZpqP/Bu73obyF9YuPk+eFIWKDYpVyLaH/u4Fs6Eql7qBBB3z6Kc9l/slpGdzNq2bonv182qf3xOPv/vOzB+3MdLETJ78MdNqCxv7RjCZ20lfUOzBP4nCU5wIXydVT6uP01LFo5bXZfFhDJ6GjcSfAJi59fHU//osr67m9UCBxpjXYqGWaqRh15Q3dh7PFOaMHDbJJJXXB+YyAtTj1VEp/fZbgKyOM5K/MVqHmHu9JTKaa3MgIMQxP/3OpFc7RgNTZpZ+u65HjZmJxPl1u2d+wa3cELckZDimiqHToGNX6UwpV7szk7892gAzX8IhoxQj/T/RwXkW7B6uyMLBdvJm+GpQqvtFjsuqs//ydpX5gnzF7T7Y1ip1HKSq4XweM0KmGQsdiNzGdWElHGOrin8TISUAPw4qjEmMgEDKD2WQ5GMAAAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotuwP_FsSY_RwMOj8sspG8_DhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "OS6c+mOF2mT8CYQ3AssyPWMNeA62Z5u4yy7Prj4qIxMZHbC08/V3GIYWz+CeUpVjthzDD1a6rIAE5Q7lWLvGdjVCXXGwUK5sBtTHWOgW89k=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 186077508,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115138885575058606",
+    "time": 1756879967881,
+    "text": "Не переживайте, все 30 человек со мной",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🥰"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115138885848074211",
+    "time": 1756879972047,
+    "text": "Спасибо 🙏🫶",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 15,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 15
+    },
+    "id": "115139024750599577",
+    "time": 1756882091531,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRk4CAABXRUJQVlA4IEICAACwDQCdASomADIAAUAmJZQDNT28PBnw1+r3wHaxegeT39s20Xgv/uX4zbDX3vv7Bbx3oG/rH9G8G73a/xZMyu6CUL3njbjH36WmFWAZp2l0fwShdQh0SXxAzEyRn4i4TiyTBioA3/quFShkQz9vrMDmlubWIragAP74sLLBDNefTZFICOabHMlYwtwB9u//9kHfGendrb/+O87/Bub3/Uee1EOiATwo7xGqgh3cQLr6ZhCg69JTKHA/47YZuKvNKqTtQn/CvZrGD9Ej7TwW33s58A4Z75jwdjfiARcxHLpwD4cGBkzuL7jE4bKsqJyCyrDccf2PFD2K+doDxt3dH1BRbGcwl7iwCbjpjvolHyOvKjWmiMtNn/GPnzkqgOeb07rX3J+LSb47Rr914krmyL7Vg8CT2i7NmPPAOqBbCi2MLmxjM9i6ycFnTD0PNnET5KVn9/tWEELUzFN/C/l0peuquqlxG6Pv4nX/uqnfG7o0/tJpXlxbxGoZAZ3laid7MPKBjHilHkrFUb67njppy1/Lvx/GacW6LKuEuwjbrF592hU+ryMw0kAlgj7LvOkbjNb2DEVGxn2r86c7Yi4S+WSgS/6XgCb+uZiLKzqb9xQ1mtx0t5AX9PLZ5+KXq90qUU/zhJnGgVZQZ2u9bsLF9w5+2/GjO4PnVitxb8/0WHGSbEeAob/MYqATuxgT5wIuxeWUWKJdaLHJantebAL6xqVjmg7eEMUVT/qku8IcZ9g3+n8B1qwu0ceA+sH2aGlfcAAAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notkh0gJFYOvSgti_kmoI0I4ThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "d8nlzFFu8cwYPUscPWM3R0Ey66Sc53fpEdqao18JVNIRccTZzmdGmnt0Yd7RFfHbUV9iroYO2Ih7KWbfOSEK0CEbTgT+0rkmG210mU8uFyU=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 186319940,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRkACAABXRUJQVlA4IDQCAACwDACdASomADIAAUAmJZwDKB39/2blZ/YTKF/TPKD+77c/vANZz/bvAuXAOCO9F7+S/m3hHe65+lxmbWJGNIHnLCJKJNGjYnL/4ByOvN9QGHBVqusDJTgAhX0XzIcyJTqXPWogyca59qK0f5IGgAD++r7mq0PKrYJLkHZ7vdh66Ve+jiNL3yRK+B7nD7XlNN58hLzOsXv1zr4qePdBgGxMqzfW3Qhn/CLBvXXBiSz/R6qZHM/V5ecEqMO62/GEcPNh+JSqZrSMVS6+tp4fl/jJvuAXk0s8Vz2qwv9/BmGjOpVNtnsXfwLeIaVbhHaSmULnlS8EIQbK79ljd+2ntPJ0dMPjxMT1/UL+VI+ODn2uVO6g/yid5FelPN8znkTuXNbRKM1WhcmNzhmoRR5X97cmbWBQG9D/+O61R8w68LVf+TuasZ2f75iwt+gZKVKn2/LVnK1drBTIkz3iKTCbsM7JpTzPzhxZ0X8vgbzhbhSKZ/E2EdBT8t7YpPVOeTK2/+MXL7+/xPzipWiHI/SfL6b8MnneEUj8y1xB/9ytBKbKm7t1B49oq3v+J9jhWQlpcGWugXPNP/RMQJPxlR6JGxmOTk0UTQvxaqX7KjITKtO/CX2wLJfoRTdquDSAfpv+DXBB6CtC7l+XXvDD+mClfrkPZugfk0lcNHAsdgYcXDgQG12UX28dszce3JVwmKDQWfa81Vwu18YaWqWYTA/R/4a/4eTbMj5tiQB0lfrpZmZcEOOAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotJ5si9EcpM0bScwNprRQ6-jhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "McJ63N1nm/qwXGyYcvqOkQTmKYx/VXRS/35r72A+7+2D1GSgeHAIM79SJ+WsDQpONeStk4f0DeC945C9F/DIlrMZPkc3vYcw3TIGCGn1HEM=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 186320196,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRnwCAABXRUJQVlA4IHACAABQDQCdASomADIAAUAmJYwDBEAjEr6q9Dl6U9qMrG9V8qf8Vt4u8z1m3957/X+d4mPUgf6r0mv07viDDKc9EicP3QmTlRCWR9DPp+W+5NJ8Ft7ZlbxjrehxRP3hzn9XflHvJzGOxV42KwVy7p8utIqWyZQAAMtKomWCIaoeHaNJL48f50u2PdJ/Wl5DF3rctDqfdpxH6ign7acHKqTcodQfem8FK9/JcTJfzX/KH/PW6Gt/2Oh9//oJK8/P4/tPeMHBB6ViycPzjflYz10dq8XQz/3f2i5/8et+O7cP/+qnoPmu1m/Xq3UeBr9PSw1Rt7EBEWsiXiX8Zt8fKlWVyidVAXdXOT7EdvU5xB3/TQn/KvPCtlwBZPjJwwbHqWxtF4lgbV9lrehjEmaBDU9xndVbTnEwrfhyLApam33P6eMRD8Xi+Ahd4LZJwOouqY8plP28V4jccxZyHiFdGoti4AXuOc469i4ztIJnEuxCIOZevTWVbM9mmpjxR3722iuKBSRWQ72luQkTCCHRQ7sExk7V/ziAl8VjY6Z/wEk0HTeyndfNMvEDJhJhINbkOoJCg3tzm2x3gWENo9NxzqR9Dr3agjpOpn/PzlsLyV0/eojWgz47xt+sLuDioD0AuCIEjI9/mGndZCA1Bbqy896J5jmuqNE1BTlCNMP1Qe2QOdVS5P8wIbVIyXvK09M13sGWA4qsqNXl4kAdG4Xdf3rQixavM4GDPUBVX7ldK23nxAzisQjCU+89kZqxi4Oo9VmVx8WMinc+RL6iv8bmD+/BIAn1uMsIR/nPn6SL0aXt0AZXZqrlBVNGUZzaDvhZZAAAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not0Qx_z6vSVpkVGRbqi_X2szhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "ORbYjRDlJfGw05p8Si/24iBI7EN/In8JYOBk91rhOqyzd9/eVDEkhHjLIhScBgN4HMv55R/gGEwV/BfHRA0PIObt5kp2Ab7KRRol+hhmdOs=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 186320452,
+        "height": 1920
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRuACAABXRUJQVlA4INQCAABwDwCdASomADIAAUAmJZQDKOYHZ/ms9uO9fwyeNPY/cccCv575Jf2j+UdaB5Jf6J3qvKq+ED+meBL+q3DD+7eil+m97N6L5mc/qt5+by/r6FxpL2rx0/6yy3pe6V0tJVWlrSG6SZtqe4baKam/5QMaTUSWbxggvlQwgcsqFZ4LhF9B/gAA/oTZaxGrSD0+0etvfdOzeJCwXWHNA3zFRXMCDsifMuNTrTiM7+tN4VJWn0f6Vn8jEqm8zNiI1j87kWJbtgZb7giNQKJC96pE5JUqPF6cK5UrXggBZD73+TIY7bl7+7W+mVLA2/BX3MAOiNE9+Vk+JJe+Rh4rE+lYyXlBS8EoznPSuAsLBaeDRf5+jsNCBOxZwr+RXoNLmkS7Tm9pzhV3ScdTV597+zgO3XbOcyTTTi82cFM1hoHdKe9/JV4RnWJkXeHvOH3+UbyH7nSOY/wfU+b8Yfbxct+AObpKPmNhkSO6HAt+5rKh7n942+3Con6WHMhL/8zZSaEhNlsvS/AD/5ReXrA0pZQ0PaLKf7R7DEHV22PPmf+2VNtvQ0KtBvU2JTB3KSKO14Et9LTnYsvIhvZCwHqy46Cfb+4Q/MNO1ryclqn2+XwjmF5HZC7zETSkvTAXjkdZscz9k9RfedHzdffnMHMX5U2nYsveK5/YGEmJBX+KRKbqk6Q10u9d8FB//n7D38Uy6BF6DEJdCHHtU+cJWlqaIycx308r5vHy6NiLGEIecH5GBRZ875Z7rpoTM9UaqmBOUoX1ikx6pdNLIZzbHC1o/b/hsk1yX7F5F8o0wfd/elgl+Zdc72Z7kxB3EYSp10EOrevbGFb6LPxGBEyUP5GQj+eZ6wD73Vi3slDcy/tYB/WRW9ecM06QdMb7Xs25MV2KxGdXMs7XQlUZmgEpP5uXuewvBMBkzMDr7nmpMon7O3SQ8KDv85mmrbFLDkgt0IRlBCruCIS6sAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotPSejUodeIMWx_QQqA1hXcThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "+6ieX8BvJ5WTN5FMkA9bmHXyfCDqk4SyqLTS8S0xFSZbFgVe1XVBLKQLrHpMcqKINIMVTvS2gMshmDq2igJFeL8XoQJMgqYMChz/+oVjURo=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 186320708,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "id": "115139087722885666",
+    "time": 1756883052412,
+    "text": "Спасибо за фото❤️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "id": "115139359089427123",
+    "time": 1756887193137,
+    "text": "Спасибо большое,  за  фото!!!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "id": "115139601978756078",
+    "time": 1756890899334,
+    "text": "Дорогие родители! У некоторых детей в рюкзаках заявление на работу с логопедом согласие\\отказ. \n\nБумажек хватило не всем (или кто то решил, что нужно взять две) Сегодня схожу, возьму еще, завтра выдам тем, у кого нет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115139673724109762",
+    "time": 1756891994081,
+    "text": "Подскажите, пожалуйста поподробнее , в какое время это будет ? На протяжении всего года ? Или логопед посмотрит ребенка и решит нужно ли это?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115139721030861898",
+    "time": 1756892715925,
+    "text": "Насколько я вижу из заявления. Пока проводится диагностика. На ее основе уже будут формироваться дальнейшие действия, которые озвучит сам логопед",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757234647459,
+    "id": "115139832801155732",
+    "time": 1756894421404,
+    "text": "Дорогие родители, я неправильно разрезала 😅🫣\nВот так должно быть) Копии взяла, завтра еще выдам",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACQBACdASoyABgAPlUei0WjoaEd9AA4BUS0gABnMpJMA7FMSLtdMm828oaBrwAA/vZdHwtYCbF/Zw/TTapFFe53AI294agRqJQx0zOHDVi2PN24lHBdAYZPQo7SHLzG2sLcI7uSZwJNr4AA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotWEqiJbR3U_OKC6qTevFGKzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "qg06m3rc0FvngI1LhF5vlPMS0np/GOFW1vVsTDHjNCyRMX4PwNJYrJMWaOBkEb9fx9LUR4Sxaj4nuCLaYDED/n3EDoKdUaHA",
+        "_type": "PHOTO",
+        "width": 1920,
+        "photoId": 187959108,
+        "height": 922
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115139953799219491",
+    "time": 1756896267688,
+    "text": "Родители Тимоховой Василисы, отправьте мне, пожалуйста, ее свидетельство о рождении 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {},
+    "id": "115141128515772870",
+    "time": 1756914192440,
+    "text": "Добрый вечер! А какое расписание на завтра?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 6,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 6
+    },
+    "id": "115141140796546296",
+    "time": 1756914379830,
+    "text": "Добрый вечер! Завтра по расписанию: \n1. Азбука\n2. Азбука\n3. Математика \n\nПоложить в рюкзак: Азбуку 1 часть, прописи 1 часть, учебник по математике, рабочая тетрадь по математике",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "id": "115141340271359536",
+    "time": 1756917423574,
+    "text": "Информация по проездным:\nДля оформления ученического надо принести корочку ученического (купленную самостоятельно) с вклеенной фотографией ребёнка на соответствующее место и вписанными легкостираемым карандашом (!) фамилией, именем, отчеством. \n\nПредлагаю сдать корочки в понедельник, 8 сентября, я отнесу их на подпись",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115141364584511800",
+    "time": 1756917794563,
+    "text": "Начинается централизованный прием документов для оформления бесплатного льготного проездного для следующих категорий: ДС (дети-сироты), ДМ (многодетные), ДК (по потере кормильца), МР (СВО).\nПрием документов будет осуществляться в холле 1 этажа (заходите и налево).\nГрафик приема документов:\n04.09.25 с 16.00 до 18.00\n05.09.25 с 09.00 до 11.00\nТакже направляю пакет документов и заявление, которые необходимо предоставить. Обратите внимание:\nЗаявление печатаем ТОЛЬКО ДВУСТОРОННЕЙ ПЕЧАТЬЮ (иначе не примут).\nФото ребенка приклеиваем.\nВ заявлении в верхней части указываем данные родителя, в нижней части — информацию по ребенку",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115141365570931026",
+    "time": 1756917809615,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "FILE",
+        "name": "Заявление МР до 18 лет через УЗ.docx",
+        "size": 19560,
+        "fileId": 3878852,
+        "token": "f9LHodD0cOJsSfFT42txc1NXDLOuCG27xJV2ky_i4zJRmQd5wS6ovcypWzvHBaaVCgomy5iKu2XlhlZA3mXT"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115141365579126835",
+    "time": 1756917809740,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "FILE",
+        "name": "Заявление на первичное БПД 2025.docx",
+        "size": 32062,
+        "fileId": 3995857,
+        "token": "f9LHodD0cOJYedsge5wjNXw1qn1uhfoqkQm1hxXV3hHjXYk_HD1GOIDEhxgs8kJUqLpCPFzyXZ8rXrBXoBKe"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115141340271359536",
+        "time": 1756917423574,
+        "text": "Информация по проездным:\nДля оформления ученического надо принести корочку ученического (купленную самостоятельно) с вклеенной фотографией ребёнка на соответствующее место и вписанными легкостираемым карандашом (!) фамилией, именем, отчеством. \n\nПредлагаю сдать корочки в понедельник, 8 сентября, я отнесу их на подпись",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115141371705693101",
+    "time": 1756917903224,
+    "text": "А проездной для всех или для только льготников ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 3
+    },
+    "id": "115141381246044627",
+    "time": 1756918048798,
+    "text": "Проездной могут сделать все. У льготников просто своя система оформления",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115141383719034651",
+    "time": 1756918086533,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "FILE",
+        "name": "Перечень документов для БПД.doc",
+        "size": 286208,
+        "fileId": 3709849,
+        "token": "f9LHodD0cOJmKnsp7bBhOwxno2GiNbJJFNsa6uQtiWmxcg5C8O5vGDgZcbFtSWza9qrTVIn5LCZgEkp3wqB6"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "STRONG",
+        "length": 20,
+        "from": 38
+      }
+    ],
+    "id": "115141763461091485",
+    "time": 1756923880937,
+    "text": "Информация от администрации по поводу бесплатных льготных проездных:\n1. Обучающиеся, у которых уже есть проездная карта, предоставляют полный пакет документов (кроме фото), так как они перешли в новое образовательное учреждение. Будет работать их прежняя карта.\n\n2. Те, кто оформляет первично, предоставляет полный пакет документов, включая фото. Им изготовят пластиковую карту.\n\n3. Если на момент поступления в школу ребенку нет 7 лет, проездной не будет оформлен. Оформление бесплатного льготного проездного осуществляется с 7 лет. \n\n4. Карты обучающихся ( у кого они есть), работают до 1 октября.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 8,
+          "reaction": "👍"
+        },
+        {
+          "count": 2,
+          "reaction": "🫡"
+        }
+      ],
+      "totalCount": 10
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115141140796546296",
+        "time": 1756914379830,
+        "text": "Добрый вечер! Завтра по расписанию: \n1. Азбука\n2. Азбука\n3. Математика \n\nПоложить в рюкзак: Азбуку 1 часть, прописи 1 часть, учебник по математике, рабочая тетрадь по математике",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115141960796294557",
+    "time": 1756926892033,
+    "text": "Дорогие родители, прошу прощения, что пишу в такое время, положите завтра ребятам тетрадь по математике в клетку, пожалуйста 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  }
+]

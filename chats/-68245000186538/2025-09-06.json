@@ -1,0 +1,531 @@
+[
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757234647888,
+    "id": "115156067658249897",
+    "time": 1757142145664,
+    "text": "Доброе утро, не подскажете какого размера должен быть коврик для труда?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "🔥"
+        },
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 4
+    },
+    "updateTime": 1758739676004,
+    "id": "115156164152488339",
+    "time": 1757143618049,
+    "text": "Уважаемые родители, доброе утро ☀️ \nНапоминаю, что я собираю денюшку на обеды на следующую неделю. \n\nВдруг кто-то забыл/не знал, еще сегодня жду переводы по ссылке :\n\nhttps://messenger.online.sberbank.ru/sl/pd2iIydry2CGxQcnP\n\n\nВ Гугл таблице отметила тех, кто уже сдал:\n\nhttps://docs.google.com/spreadsheets/d/1mg60ekg37074pZILAH-RTsHrBWh439PONAkM5Uo8ye0/edit",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 1200,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8T2ui8Tu2A-RamKCpFzsGc4aoi1uJiGnUIVH9Af0sso4",
+          "height": 630
+        },
+        "_type": "SHARE",
+        "host": "Google Docs",
+        "description": "Возможна задержка котировок до 20 минут. Информация предоставляется по принципу \"как есть\", исключительно для ознакомительных целей, не связанных с проведением торгов или консультированием. Отказ от обязательств",
+        "contentLevel": false,
+        "shareId": 89276360,
+        "title": "Обеды_1.4",
+        "url": "https://docs.google.com/spreadsheets/d/1mg60ekg37074pZILAH-RTsHrBWh439PONAkM5Uo8ye0/edit"
+      }
+    ],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 44502596,
+    "id": "115156264332628050",
+    "time": 1757145146677,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "add",
+        "userIds": [
+          22059208
+        ]
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "🙄"
+        },
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 4
+    },
+    "updateTime": 1757234647902,
+    "id": "115156272242977215",
+    "time": 1757145267379,
+    "text": "Дорогие родители! Доброе утро! ☀️ \n\nУ нас в классе пополнение)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 22059208,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 7,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 7
+    },
+    "updateTime": 1757234647915,
+    "id": "115156286267399375",
+    "time": 1757145481375,
+    "text": "Всем доброго дня! Я мама Макопец Марка, рада знакомству))",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Валентина"
+  },
+  {
+    "sender": 16119236,
+    "id": "115156353551003045",
+    "time": 1757146508041,
+    "text": "Изменилось прикрепленное сообщение чата",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "pin",
+        "pinnedMessage": {
+          "sender": 11725768,
+          "id": "115156164152488339",
+          "time": 1757143618049,
+          "text": "Уважаемые родители, доброе утро ☀️ \nНапоминаю, что я собираю денюшку на обеды на следующую неделю. \n\nВдруг кто-то забыл/не знал, еще сегодня жду переводы по ссылке :\n\nhttps://messenger.online.sberbank.ru/sl/pd2iIydry2CGxQcnP\n\n\nВ Гугл таблице отметила тех, кто уже сдал:\n\nhttps://docs.google.com/spreadsheets/d/1mg60ekg37074pZILAH-RTsHrBWh439PONAkM5Uo8ye0/edit",
+          "type": "USER",
+          "attaches": [
+            {
+              "image": {
+                "_type": "PHOTO",
+                "width": 1200,
+                "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8T2ui8Tu2A-RamKCpFzsGc4aoi1uJiGnUIVH9Af0sso4",
+                "height": 630
+              },
+              "_type": "SHARE",
+              "host": "Google Docs",
+              "description": "Возможна задержка котировок до 20 минут. Информация предоставляется по принципу \"как есть\", исключительно для ознакомительных целей, не связанных с проведением торгов или консультированием. Отказ от обязательств",
+              "contentLevel": false,
+              "shareId": 89276360,
+              "title": "Обеды_1.4",
+              "url": "https://docs.google.com/spreadsheets/d/1mg60ekg37074pZILAH-RTsHrBWh439PONAkM5Uo8ye0/edit"
+            }
+          ]
+        }
+      }
+    ],
+    "sender_name": "Мария"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757234647928,
+    "id": "115156645053818738",
+    "time": 1757150956021,
+    "text": "Добрый день. Только что перевела за Тимохова Василису (пн, ср)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 36325681,
+        "updateTime": 1757234647928,
+        "id": "115156645053818738",
+        "time": 1757150956021,
+        "text": "Добрый день. Только что перевела за Тимохова Василису (пн, ср)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757234647941,
+    "id": "115156646184682299",
+    "time": 1757150973277,
+    "text": "Отметила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757234647955,
+    "id": "115156665399055535",
+    "time": 1757151266465,
+    "text": "Уважаемые родители! \nУ меня предложение.\n\nЗакупить в класс игры: шашки, шахматы, домино, лото, мемо.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757234647968,
+    "id": "115156667737920663",
+    "time": 1757151302153,
+    "text": "Могу подобрать игры на маркетплейсе",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757234647981,
+    "id": "115156672002553971",
+    "time": 1757151367226,
+    "text": "Я за. У нас есть хороший набор настольных игр в одной коробке . Можно его принести? Помимо того, что будем закупать?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757234647994,
+    "id": "115156673330631312",
+    "time": 1757151387491,
+    "text": "У нас есть одна игра хорошая, могу принести",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757234647981,
+        "id": "115156672002553971",
+        "time": 1757151367226,
+        "text": "Я за. У нас есть хороший набор настольных игр в одной коробке . Можно его принести? Помимо того, что будем закупать?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757234648008,
+    "id": "115156674775557616",
+    "time": 1757151409539,
+    "text": "Конечно, можно! \nУ нас уже есть несколько игр в классе)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757234648021,
+    "id": "115156674962331924",
+    "time": 1757151412389,
+    "text": "Может и правда, посмотрим у кого какие игры есть дома?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1757234648153,
+    "id": "115156676358457416",
+    "time": 1757151433692,
+    "text": "Отличная идея!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1757234648034,
+    "id": "115156676400406947",
+    "time": 1757151434332,
+    "text": "Может ещё для улицы : мячи,скакалки,резиночки?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 12421452,
+        "updateTime": 1757234648034,
+        "id": "115156676400406947",
+        "time": 1757151434332,
+        "text": "Может ещё для улицы : мячи,скакалки,резиночки?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757234648047,
+    "id": "115156677257150479",
+    "time": 1757151447405,
+    "text": "Поддерживаю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757234648060,
+    "id": "115156679107373397",
+    "time": 1757151475637,
+    "text": "Давайте!!! Мы уже поотносили, что дома не пригодилось. А в классе зашло на ура.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757234648073,
+    "id": "115156682438230049",
+    "time": 1757151526462,
+    "text": "Виктория Романовна, на продленке будет прогулка, как я понимаю. Штаны и футболку переодевают в раздевалке общей или в классе? Хочу проинструктировать ребенка.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757234648086,
+    "id": "115156688428486926",
+    "time": 1757151617866,
+    "text": "Вообще, он может переодеться в туалете, в кабинке",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757234648099,
+    "id": "115156699404467633",
+    "time": 1757151785346,
+    "text": "В кабинке не развернуться, я там была)  ну ладно, тогда сами сориентируете их. Кажется, в классе оптимально.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757234648113,
+    "id": "115156700329889357",
+    "time": 1757151799467,
+    "text": "Хорошо 👌",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757234648126,
+    "id": "115156702378946747",
+    "time": 1757151830733,
+    "text": "Условно, зашли девочки, потом мальчики.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757234648140,
+    "id": "115156703690428193",
+    "time": 1757151850745,
+    "text": "Да, так и сделаем)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757234648086,
+        "id": "115156688428486926",
+        "time": 1757151617866,
+        "text": "Вообще, он может переодеться в туалете, в кабинке",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757234648167,
+    "id": "115156733887086063",
+    "time": 1757152311509,
+    "text": "Добрый день,  т.е кто остаётся на продленку , принести одежду на смену,  для прогулки?",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757234648181,
+    "id": "115156740227556036",
+    "time": 1757152408257,
+    "text": "Можно не приносить) Это по желанию, если переживаете, что одежда запачкается",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757234648195,
+    "id": "115156960638625703",
+    "time": 1757155771463,
+    "text": "Подскажите, пожалуйста, что писать в заявлении на продленку? Время и кто будет забирать. Оно же разное будет и люди разные .",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757234648209,
+    "id": "115157041651084434",
+    "time": 1757157007615,
+    "text": "Напишите самое максимальное время, а в строчке, кто будет забирать, впишите 2 человек",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757234366000,
+    "id": "115157043362009603",
+    "time": 1757157033722,
+    "text": "Спасибо",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 12421452,
+    "id": "115157486064324871",
+    "time": 1757163788823,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "add",
+        "userIds": [
+          47432537
+        ]
+      }
+    ],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1758739667794,
+    "id": "115157875046748252",
+    "time": 1757169724224,
+    "text": "Уважаемые родители! \n\nОтправляю Вам таблицу ГПД, туда Вам нужно вписывать: когда ребенок уходит, обедает или нет и кружки, на которые будет ходить. \n\nУход: Пишем время, в которое Вы планируете забрать ребенка. Обеды: если обедает пишем «да», если не обедает «нет». Столбец с кружками пока что пустой, так как у нас нет расписания, как только оно появится я его вставлю в эту табличку на последний лист)\n\nДанную таблицу нужно заполнять до 20:00 каждого дня\n\nhttps://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "SHARE",
+        "contentLevel": false,
+        "shareId": 125784132,
+        "title": "Таблица гпд.xlsx",
+        "url": "https://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc"
+      }
+    ],
+    "sender_name": "Виктория"
+  }
+]

@@ -1,0 +1,1241 @@
+[
+  {
+    "sender": 6044181,
+    "reactionInfo": {},
+    "updateTime": 1757249730061,
+    "id": "115162662056373494",
+    "time": 1757242768194,
+    "text": "Добрый день Виктория Романовна,\nПодскажите расписание уроков на 08.09.2025?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Максим"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 5,
+          "reaction": "🤝"
+        }
+      ],
+      "totalCount": 5
+    },
+    "updateTime": 1757525032680,
+    "id": "115162667021384544",
+    "time": 1757242843954,
+    "text": "Добрый день!\nРасписание на понедельник:\n1) Линейка + разговоры о важном\n2) Азбука (учебник Азбука и прописи 1 часть)\n3) Математика (учебник Математика, рабочая тетрадь, тетрадь в клетку 12-18 листов)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115162668539329018",
+    "time": 1757242867116,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "FILE",
+        "name": "математика.docx",
+        "size": 12595,
+        "fileId": 2902348,
+        "token": "f9LHodD0cOIPDEqV_jnP5BjUneIcPFnD1ytAhEDsm3dW2qcGwA6mOshiZd44VXEGk1rfZ06rRNKitTFTkEUf"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757249719094,
+    "id": "115162669012048634",
+    "time": 1757242874329,
+    "text": "Вот так подписываем все тетради",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1757249719107,
+    "id": "115162678818377777",
+    "time": 1757243023962,
+    "text": "Родительской рукой подписываем или ребенок пусть учится и сам подписывает?",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "updateTime": 1757249719107,
+        "id": "115162678818377777",
+        "time": 1757243023962,
+        "text": "Родительской рукой подписываем или ребенок пусть учится и сам подписывает?",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757249719118,
+    "id": "115162715199509995",
+    "time": 1757243579094,
+    "text": "Пока что родители, чтобы было аккуратнее",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 4
+    },
+    "updateTime": 1757269270753,
+    "id": "115163366429557249",
+    "time": 1757253516076,
+    "text": "Питьевой режим в школе:\nВсем детям подарили бутылки для питья на 1 сентября. Все дети должны мыть их вечером дома и приносить пустую бутылку в школу. На каждом этаже есть кранчик с питьевой водой.\nДети набирают бутылочку воды и пьют.\nЛицей организовал условия для питья. Родители, просим вас проследить за чистотой бутылочки дома по вечерам и ее наличии у ребенка ежедневно.\nНеобходимо подписать бутылки, они у всех одинаковые. ФИ и класс.",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRj4BAABXRUJQVlA4IDIBAAAwCQCdASomADIAPlkgi0WjoiEerowAOAWEsoBmaUrdWBvwB/AOmyGFn+UpvlMBmk3Td6ydc/Bb+adh/yVZjiZbYAzn/7zfFrsiWl+dUzF7wWOAAP6L+ieg+/iOwHyJ656I7y4hq3jR9n7wIXuzX1b4/lc0JoJLdd9x0SIEZQJ9h8iw1sQehvIMK10pUK7mQEZXMNMLibyeEZioXnj0xqdQAwI043MJcG0D8OLkxsxl3ex/f34D/hdst9pQ8/ZykPfMM9x8dYX9XAFviZXqqU8iMr/GoIEIAiivZHu1BCV0X2Y07QNFEwjePnJZZfkKXegIqDozgPotrQZproB87o7znvpXpH6+/hJ/Jt088JjJxd/NTiE0PMm7GI1Dfx7KExMxm2RTG7cO8sEN1FMr6u0AAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not5M0Iy03_tkUPdxYflFQWdzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "MwtuhyUQHS49qLZrH0dL/IYbuI8tXiZDN7a1vdgSNQYwTKKbNlMQ+Uwy7lBhE1GyCH6TbbveheJUKoJL/gbvO/S7RD7yk0mwXpKa80DHPS8=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 189148991,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 18941460,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757249719094,
+        "id": "115162669012048634",
+        "time": 1757242874329,
+        "text": "Вот так подписываем все тетради",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757261282904,
+    "id": "115163822770312545",
+    "time": 1757260479283,
+    "text": "Рабочие тетради тоже так подписываем?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 18941460,
+        "updateTime": 1757261282904,
+        "id": "115163822770312545",
+        "time": 1757260479283,
+        "text": "Рабочие тетради тоже так подписываем?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757261278595,
+    "id": "115163823739656021",
+    "time": 1757260494074,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1757263977742,
+    "id": "115163878707777562",
+    "time": 1757261332821,
+    "text": "Дорогие родители, добрый вечер! У нас пропал учебник по Азбуке, карандашом было подписано Баранов Артём, может кто-то находил у ребят?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739667794,
+        "id": "115157875046748252",
+        "time": 1757169724224,
+        "text": "Уважаемые родители! \n\nОтправляю Вам таблицу ГПД, туда Вам нужно вписывать: когда ребенок уходит, обедает или нет и кружки, на которые будет ходить. \n\nУход: Пишем время, в которое Вы планируете забрать ребенка. Обеды: если обедает пишем «да», если не обедает «нет». Столбец с кружками пока что пустой, так как у нас нет расписания, как только оно появится я его вставлю в эту табличку на последний лист)\n\nДанную таблицу нужно заполнять до 20:00 каждого дня\n\nhttps://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 125784132,
+            "title": "Таблица гпд.xlsx",
+            "url": "https://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757263977753,
+    "id": "115163970982322277",
+    "time": 1757262740819,
+    "text": "Напоминаю!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757263977763,
+    "id": "115164012764545163",
+    "time": 1757263378365,
+    "text": "Прописи подписываем для работ по русскому языку, верно?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757263977773,
+    "id": "115164013722556245",
+    "time": 1757263392983,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757263977753,
+        "id": "115163970982322277",
+        "time": 1757262740819,
+        "text": "Напоминаю!",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757264667403,
+    "id": "115164034862690220",
+    "time": 1757263715556,
+    "text": "Добрый вечер,уважаемые родители,отметьте пожалуйста,кому не сложно Сорокина Платона -15:30 понедельник,обед оплачен .До Компьютера не добраться,с телефона не получается сейчас 🫤",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33031021,
+        "updateTime": 1757264667403,
+        "id": "115164034862690220",
+        "time": 1757263715556,
+        "text": "Добрый вечер,уважаемые родители,отметьте пожалуйста,кому не сложно Сорокина Платона -15:30 понедельник,обед оплачен .До Компьютера не добраться,с телефона не получается сейчас 🫤",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757263977793,
+    "id": "115164041306728718",
+    "time": 1757263813884,
+    "text": "А обед нужен? Льготный или нет?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757263977804,
+    "id": "115164042767183432",
+    "time": 1757263836169,
+    "text": "Не льготный",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757263977814,
+    "id": "115164045289800918",
+    "time": 1757263874661,
+    "text": "Сделала",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "updateTime": 1757263977825,
+    "id": "115164046814295989",
+    "time": 1757263897923,
+    "text": "Виктория Романовна, ученический билет с фото можно во вторник принести?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757263977836,
+    "id": "115164047528122197",
+    "time": 1757263908815,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757263977846,
+    "id": "115164048890361555",
+    "time": 1757263929601,
+    "text": "Давайте тогда все ученические во вторник соберем, я отнесу",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757263977857,
+    "id": "115164048902919084",
+    "time": 1757263929793,
+    "text": "Уважаемые родители, отметьте пожалуйста в таблице Василиса тимохова завтра до 15:00",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {},
+    "updateTime": 1757264360915,
+    "id": "115164069421778276",
+    "time": 1757264242886,
+    "text": "Добрый вечер!\n\nТоже не получилось отредактировать файл с телефона. Пишет: «Нет доступа к изменениям файла».\n\nОтметьте, пожалуйста, Мальцева Андрея. Уход в 15:00. Обед оплачен.",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757264632323,
+    "id": "115164088742804096",
+    "time": 1757264537701,
+    "text": "У Тимоховой обед оплачен",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757264722196,
+    "id": "115164096784180388",
+    "time": 1757264660403,
+    "text": "Отметила",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757264715981,
+    "id": "115164099535785617",
+    "time": 1757264702389,
+    "text": "У кого еще проблемы с таблицей?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757269270766,
+    "id": "115164102240046774",
+    "time": 1757264743653,
+    "text": "Попробуйте установить «Таблицы» на телефон, так должно получиться",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757264715981,
+        "id": "115164099535785617",
+        "time": 1757264702389,
+        "text": "У кого еще проблемы с таблицей?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757269270779,
+    "id": "115164102393154817",
+    "time": 1757264745989,
+    "text": "Добрый вечер! Я сама не смогла отредактировать, но мне помогли)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 34439283,
+    "reactionInfo": {},
+    "updateTime": 1757269270791,
+    "id": "115164102452914330",
+    "time": 1757264746901,
+    "text": "Маша Гапоненко, завтра до 15: 00\nОбед оплачен \nПрошу прощения, смогу отметить с компьютера через 2 часа",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1757269270817,
+    "id": "115164117697888704",
+    "time": 1757264979521,
+    "text": "Рабочие тетради, прописи по образцу подписываем?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757269270804,
+    "id": "115164119239776085",
+    "time": 1757265003048,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757269270830,
+    "id": "115164389761313386",
+    "time": 1757269130879,
+    "text": "Руслан, Анвар, Федя, Марк, Данис, Ваня, Мартин, Марина, Вадим и Николь не остаются на продленку?",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757269270843,
+    "id": "115164392588015545",
+    "time": 1757269174011,
+    "text": "Раевский остается , я же его внесла",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👌"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757269270856,
+    "id": "115164393122384739",
+    "time": 1757269182165,
+    "text": "Анвар на этой неделе не остается",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757269270843,
+        "id": "115164392588015545",
+        "time": 1757269174011,
+        "text": "Раевский остается , я же его внесла",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757269270869,
+    "id": "115164393943148361",
+    "time": 1757269194689,
+    "text": "У меня его нет в таблице…",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757269270882,
+    "id": "115164396709955878",
+    "time": 1757269236907,
+    "text": "Ну вот такая таблица 😅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1757269330167,
+    "id": "115164400137096272",
+    "time": 1757269289201,
+    "text": "Или руки такие) сейчас исправлю )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 22059208,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757269270830,
+        "id": "115164389761313386",
+        "time": 1757269130879,
+        "text": "Руслан, Анвар, Федя, Марк, Данис, Ваня, Мартин, Марина, Вадим и Николь не остаются на продленку?",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757269343029,
+    "id": "115164402829822424",
+    "time": 1757269330289,
+    "text": "Марк остантся",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Валентина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1757269330167,
+        "id": "115164400137096272",
+        "time": 1757269289201,
+        "text": "Или руки такие) сейчас исправлю )",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757269343041,
+    "id": "115164403079645587",
+    "time": 1757269334101,
+    "text": "Вот теперь вижу)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 22059208,
+        "updateTime": 1757269343029,
+        "id": "115164402829822424",
+        "time": 1757269330289,
+        "text": "Марк остантся",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757269377888,
+    "id": "115164403921716254",
+    "time": 1757269346950,
+    "text": "Вам нужно заполнить таблицу",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739667794,
+        "id": "115157875046748252",
+        "time": 1757169724224,
+        "text": "Уважаемые родители! \n\nОтправляю Вам таблицу ГПД, туда Вам нужно вписывать: когда ребенок уходит, обедает или нет и кружки, на которые будет ходить. \n\nУход: Пишем время, в которое Вы планируете забрать ребенка. Обеды: если обедает пишем «да», если не обедает «нет». Столбец с кружками пока что пустой, так как у нас нет расписания, как только оно появится я его вставлю в эту табличку на последний лист)\n\nДанную таблицу нужно заполнять до 20:00 каждого дня\n\nhttps://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "SHARE",
+            "contentLevel": false,
+            "shareId": 125784132,
+            "title": "Таблица гпд.xlsx",
+            "url": "https://1drv.ms/x/c/63199542eb6a9b15/EYs0a0Wl0NJNh-1emWuOOxsBWASXESn6AY7koUaZJSBkYg?e=rpISBc"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757269363594,
+    "id": "115164404433909167",
+    "time": 1757269354765,
+    "text": "Вот эту",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11725768,
+        "updateTime": 1758739676004,
+        "id": "115156164152488339",
+        "time": 1757143618049,
+        "text": "Уважаемые родители, доброе утро ☀️ \nНапоминаю, что я собираю денюшку на обеды на следующую неделю. \n\nВдруг кто-то забыл/не знал, еще сегодня жду переводы по ссылке :\n\nhttps://messenger.online.sberbank.ru/sl/pd2iIydry2CGxQcnP\n\n\nВ Гугл таблице отметила тех, кто уже сдал:\n\nhttps://docs.google.com/spreadsheets/d/1mg60ekg37074pZILAH-RTsHrBWh439PONAkM5Uo8ye0/edit",
+        "type": "USER",
+        "attaches": [
+          {
+            "image": {
+              "_type": "PHOTO",
+              "width": 1200,
+              "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8T2ui8Tu2A-RamKCpFzsGc4aoi1uJiGnUIVH9Af0sso4",
+              "height": 630
+            },
+            "_type": "SHARE",
+            "host": "Google Docs",
+            "description": "Возможна задержка котировок до 20 минут. Информация предоставляется по принципу \"как есть\", исключительно для ознакомительных целей, не связанных с проведением торгов или консультированием. Отказ от обязательств",
+            "contentLevel": false,
+            "shareId": 89276360,
+            "title": "Обеды_1.4",
+            "url": "https://docs.google.com/spreadsheets/d/1mg60ekg37074pZILAH-RTsHrBWh439PONAkM5Uo8ye0/edit"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757269370314,
+    "id": "115164405114163269",
+    "time": 1757269365145,
+    "text": "И эту",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 34631151,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757269704594,
+    "id": "115164419789621777",
+    "time": 1757269589075,
+    "text": "Добрый вечер. \nФедя остается до 15-00\nСейчас заполняем таблицы",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Роман"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 34631151,
+        "updateTime": 1757269704594,
+        "id": "115164419789621777",
+        "time": 1757269589075,
+        "text": "Добрый вечер. \nФедя остается до 15-00\nСейчас заполняем таблицы",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757270010331,
+    "id": "115164428144240075",
+    "time": 1757269716556,
+    "text": "Вижу, спасибо 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 41143905,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757269270830,
+        "id": "115164389761313386",
+        "time": 1757269130879,
+        "text": "Руслан, Анвар, Федя, Марк, Данис, Ваня, Мартин, Марина, Вадим и Николь не остаются на продленку?",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757270006434,
+    "id": "115164428973442194",
+    "time": 1757269729209,
+    "text": "Мы останемся , с телефона не получается, сейчас с компьютера заполним , а подскажите в ученическом билете , что надо заполнить?",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRjABAABXRUJQVlA4ICQBAADwCACdASomADIAPlkgjEWjoiEdVAA4BYSzgGVa02H92JRC9cj3mxOUhXSkkbe/ZgHQ0u4XYrcAF7no2gBntw5AkpWbw5Kf6grAvzJlx6mAgAD+jDmUGy8d3XsOTUMRteGPCIrwjc961kN/s5V+MFwAJuI6kH/4GR+6KzRWt3loSXI4vc67Y+Asr5iX8JjAH2frGQhNpYlK1+tyD8dAMFuWtILBnkeQJ+nWfdwbr8f65607qAoqicCvYG5MXsNKzgQAzW2kS6P6PpY7UvTKKAzdjpuoQ3LP5XfOf4FPcmbSwfVKPkpvAbaCTcVYVzoZHIPZITgd2wHoXwI2eZG3Bkn9JNIQyaH4bXxNcADditzH4CgAE5U21X9OPLhWpPODpviwAAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notik7aI9LV6FeArGmR725O_ThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "f2yijHIbcBFUUp1e0P7q+pzTBTm7bUhtYceOBmDNdLeE24L2e11z/54vwE2t2dZ5Ge0nv8bCrMid+fYniMp9vT8JIUBDyBegZcf3+knC77E=",
+        "_type": "PHOTO",
+        "width": 1440,
+        "photoId": 191557985,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Svetlana"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙄"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 41143905,
+        "updateTime": 1757270006434,
+        "id": "115164428973442194",
+        "time": 1757269729209,
+        "text": "Мы останемся , с телефона не получается, сейчас с компьютера заполним , а подскажите в ученическом билете , что надо заполнить?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRjABAABXRUJQVlA4ICQBAADwCACdASomADIAPlkgjEWjoiEdVAA4BYSzgGVa02H92JRC9cj3mxOUhXSkkbe/ZgHQ0u4XYrcAF7no2gBntw5AkpWbw5Kf6grAvzJlx6mAgAD+jDmUGy8d3XsOTUMRteGPCIrwjc961kN/s5V+MFwAJuI6kH/4GR+6KzRWt3loSXI4vc67Y+Asr5iX8JjAH2frGQhNpYlK1+tyD8dAMFuWtILBnkeQJ+nWfdwbr8f65607qAoqicCvYG5MXsNKzgQAzW2kS6P6PpY7UvTKKAzdjpuoQ3LP5XfOf4FPcmbSwfVKPkpvAbaCTcVYVzoZHIPZITgd2wHoXwI2eZG3Bkn9JNIQyaH4bXxNcADditzH4CgAE5U21X9OPLhWpPODpviwAAAA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notik7aI9LV6FeArGmR725O_ThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "qxNBlmRx6EEE5EgRoy9dGDodKGKI7Vjf8KXIaSJoNr35GoJLOgjHT5b/vCJLyTavDaDRiKKajGfdizy3i2dLQiT+xn9fVoXLQzKfPckod44=",
+            "_type": "PHOTO",
+            "width": 1440,
+            "photoId": 191557985,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757270006445,
+    "id": "115164430420110598",
+    "time": 1757269751283,
+    "text": "Заполнять не нужно",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35517271,
+    "reactionInfo": {},
+    "updateTime": 1757270006456,
+    "id": "115164431308052980",
+    "time": 1757269764832,
+    "text": "Здравствуйте! Мартин Соколов остается, сейчас все заполним.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Оля"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757269270830,
+        "id": "115164389761313386",
+        "time": 1757269130879,
+        "text": "Руслан, Анвар, Федя, Марк, Данис, Ваня, Мартин, Марина, Вадим и Николь не остаются на продленку?",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757270077993,
+    "id": "115164445603285408",
+    "time": 1757269982960,
+    "text": "Руслан остается на продленку до 16.00.\nОбед оплачен. \nТаблицу не получается заполнить ((",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1757525032693,
+    "id": "115164449647632891",
+    "time": 1757270044672,
+    "text": "Николь Фролова, остается до 15:00. Обед оплачен.\n\nИ у меня не дает редактировать 🤔",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757525045245,
+    "id": "115164459190064731",
+    "time": 1757270190278,
+    "text": "Я открыла доступ всем, сейчас еще раз проверила, можно ли заполнить, у меня все работает и с компьютера, и с телефона. Попробуйте установить приложение «Таблицы», с телефона можно заполнить через них",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757525056720,
+    "id": "115164460731427337",
+    "time": 1757270213797,
+    "text": "Я не смогу заполнять таблицу каждый вечер",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757525056731,
+    "id": "115164483762935906",
+    "time": 1757270565230,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAACwBQCdASogADIAPlUei0WjoaEd9AA4BUS0gABQRcEDEGO52AATk64dKOvUR6J/Gpo/sL+c2kAA/vyJ+Spr6f+mm8EyNA/qPVgtM2hqla+3lfMhSrlVT6aDezo7j0DtBGHhRHtxENNO73l90Yogwm1D87W51h55qlq755bwCw3W2OjNdAcN+G4eQoDHKHNsjsunkUEentqtDnPwAAA=",
+        "duration": 13580,
+        "thumbnail": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fi.okcdn.ru%2FvideoPreview%3Fid%3D8732988410377%26type%3D39%26idx%3D1%26tkn%3Dp50-NZooAnhtY2lPxrnvxY_XhbQ&signatureToken=eC1lJ8FCs-KGq4N97yzPmQ",
+        "videoType": 0,
+        "_type": "VIDEO",
+        "width": 720,
+        "videoId": 9593096003337,
+        "token": "f9LHodD0cOLPxr3jLYCfqLQYRxOj_fwZdRp-hbgrA--_qTWz_nNoFmXN7Bws4lqZPDz6MJx2tks8NfT83Xd0",
+        "height": 1140
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1757525066347,
+    "id": "115164485909901246",
+    "time": 1757270597990,
+    "text": "33 😰",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33031021,
+        "updateTime": 1757271051133,
+        "id": "115164484219709848",
+        "time": 1757270572200,
+        "text": "Виктория Романовна ,можно вопрос не по теме ….в классе было 30 детей,сейчас 33!?Не хочу спрашивать откуда  они появились 😂спрошу как они сидеть будут в классе,поставят еще ряд парт?Мой сейчас на последней сидит,получается за ним теперь еще будет парта?",
+        "type": "USER",
+        "status": "REMOVED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757525066335,
+    "id": "115164485938323318",
+    "time": 1757270598424,
+    "text": "У нас 31 ребенок",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757525066358,
+    "id": "115164486673720073",
+    "time": 1757270609645,
+    "text": "Откуда информация, что 33 😅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1757525086765,
+    "id": "115164486681774229",
+    "time": 1757270609768,
+    "text": "В таблице 33",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757525086779,
+    "id": "115164487863851509",
+    "time": 1757270627805,
+    "text": "Первый ребенок начинается с 3 строчки",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1757525086792,
+    "id": "115164488625058852",
+    "time": 1757270639420,
+    "text": "Точно 😅",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1757525086805,
+    "id": "115164492329069056",
+    "time": 1757270695939,
+    "text": "Зашла через excel теперь все редактируется 👌🏻",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🤣"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757525086779,
+        "id": "115164487863851509",
+        "time": 1757270627805,
+        "text": "Первый ребенок начинается с 3 строчки",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757525098254,
+    "id": "115164492429358543",
+    "time": 1757270697469,
+    "text": "Всем спокойной ночи💤 Эксель со своим приложением меня довел))",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115151561486921203",
+        "time": 1757073386946,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "_type": "FILE",
+            "name": "заявление в ГПД.doc",
+            "size": 30720,
+            "fileId": 4172689,
+            "token": "f9LHodD0cOLbuNKhVbsazv90uAW1AeF1LnfgtrCIgf4SbTpkqcABxbkbyuSCf-oCO125XYgDjCXZbd2ZKfRS"
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757525098268,
+    "id": "115164496246220940",
+    "time": 1757270755710,
+    "text": "Напоминаю, про заявления на продленку",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "length": 18,
+        "entityId": 44502596,
+        "from": 104,
+        "type": "USER_MENTION"
+      },
+      {
+        "type": "UNDERLINE",
+        "length": 18,
+        "from": 104
+      },
+      {
+        "length": 18,
+        "entityId": 44502596,
+        "from": 104,
+        "type": "USER_MENTION"
+      }
+    ],
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757269270830,
+        "id": "115164389761313386",
+        "time": 1757269130879,
+        "text": "Руслан, Анвар, Федя, Марк, Данис, Ваня, Мартин, Марина, Вадим и Николь не остаются на продленку?",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757525098282,
+    "id": "115164643193062656",
+    "time": 1757272997941,
+    "text": "Вадим остается. Тоже не у компьютера, с телефона не открывается(. А это приложение Таблицы в эпл сторе? Виктория Романовна",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757525106962,
+    "id": "115164645796763477",
+    "time": 1757273037670,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115164646551849442",
+    "time": 1757273049192,
+    "text": "https://apps.apple.com/app/id842849113",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 1200,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8c9eOJlqK6j1rIbSYceo004aoi1uJiGnUIVH9Af0sso4",
+          "height": 630
+        },
+        "_type": "SHARE",
+        "host": "App Store",
+        "description": "‎Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can: * Create new spreadsheets or edit existing ones * Share spreadsheets and collaborate with others in the same spreadsheet at the same time * W...",
+        "contentLevel": false,
+        "shareId": 128315204,
+        "title": "‎Google Sheets",
+        "url": "https://apps.apple.com/app/id842849113"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115164649907169602",
+    "time": 1757273100390,
+    "text": "https://apps.apple.com/app/id586683407",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 1200,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8K3YlNzu5Vs5fCcn_kqvhe4aoi1uJiGnUIVH9Af0sso4",
+          "height": 630
+        },
+        "_type": "SHARE",
+        "host": "App Store",
+        "description": "‎Microsoft Excel, the spreadsheet app, lets you create, view, edit, and share your files quickly and easily. Manage spreadsheets, tables and workbooks attached to email messages from your phone with this powerful productivity app. Work...",
+        "contentLevel": false,
+        "shareId": 128316484,
+        "title": "‎Microsoft Excel",
+        "url": "https://apps.apple.com/app/id586683407"
+      }
+    ],
+    "sender_name": "Виктория"
+  }
+]

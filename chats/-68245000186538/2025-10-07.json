@@ -1,0 +1,142 @@
+[
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1759823282233,
+    "id": "115331231196530395",
+    "time": 1759814929146,
+    "text": "Доброе утро. Виктория Романовна, можно книги получить. Жду в холле",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1759823282243,
+    "id": "115331236044615763",
+    "time": 1759815003122,
+    "text": "Где 1-кл переодевается",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759823282253,
+    "id": "115331244313361442",
+    "time": 1759815129293,
+    "text": "Здравствуйте! Можете пройти в класс и забрать",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 6477486,
+    "reactionInfo": {},
+    "updateTime": 1759823282222,
+    "id": "115331249424857529",
+    "time": 1759815207288,
+    "text": "Доброе утро! Можно мне тоже?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759823290297,
+    "id": "115331253143498516",
+    "time": 1759815264030,
+    "text": "Заходите",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 6477486,
+    "reactionInfo": {},
+    "updateTime": 1759823282295,
+    "id": "115331253679369363",
+    "time": 1759815272207,
+    "text": "Спасибо!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "updateTime": 1759823290309,
+    "id": "115331298731383757",
+    "time": 1759815959646,
+    "text": "И я бегу за учебниками",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "updateTime": 1759823282305,
+    "id": "115331301723806696",
+    "time": 1759816005307,
+    "text": "Меня не пустили",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759823282316,
+    "id": "115331302190483169",
+    "time": 1759816012428,
+    "text": "Выйду",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 34439283,
+    "reactionInfo": {},
+    "updateTime": 1759823282263,
+    "id": "115331316172657840",
+    "time": 1759816225779,
+    "text": "И я иду",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 7,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 7
+    },
+    "updateTime": 1759823282274,
+    "id": "115331361129104094",
+    "time": 1759816911760,
+    "text": "Дети на физкультуре",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1759823282284,
+    "id": "115331611381150731",
+    "time": 1759820730303,
+    "text": "Уважаемые родители! Очень злюсь! \n1) У некоторых есть часы (правила для всех одни, часы остаются дома)\n2) У половины нет прописей и тетрадей в косую линейку!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115116829835403173",
+    "time": 1756543424002,
+    "text": "Доброе утро! ☀️Родители, которые приходят сегодня на уборку, встречаемся в 12:00 в холле школы (там, где собирались перед собранием)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 7,
+          "reaction": "❤️"
+        },
+        {
+          "count": 4,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 11
+    },
+    "updateTime": 1757234647392,
+    "id": "115117206251313569",
+    "time": 1756549167653,
+    "text": "Немножко прошлась по школе, нашла столовую! Большая, светлая, а самое главное - несколько входов 👍",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRjwBAABXRUJQVlA4IDABAACQBwCdASocADIAPlUei0WjoaEd9AA4BUSxgGAQCf7OP6rWU37v/ACU+8i5t8u0MoQfjoh/XsX8Lb7z6VqRjCUgKyLmzAAAyPnKmQtlGjOI+kf4DsbYSBf0yV6YFf+r6yZ6O1w0XCQa/p89nVySsKAcTxVTMAqOTfQJT6T+CeGxpDpc2b7Q6m2qrzKtSJsLHYApBY0H8ngtJbRX3Hg+6iGfc1js9bA1kd5po68rycmy9sN4NncO565mOGtzJUWNY0hnBlhjLs6EMltg5+5uU4Bo0ClWbtBvqP7Dq0y+jLUzxO+hv4siOvrAqwbQ8Duoc5xtwpXAUPWE7+bKW1AUY9Z4p2ECpYjrwRuBcb7b7JxFrDWWwYIFgReZVdJ0Qb9XGrGQt/aX1jhPjRoLVY63AAAA",
+        "duration": 6555,
+        "thumbnail": "https://pimg.mycdn.me/getImage?disableStub=true&type=PREPARE&url=https%3A%2F%2Fi.okcdn.ru%2FvideoPreview%3Fid%3D8694574287369%26type%3D39%26idx%3D5%26tkn%3DZFjtla3MqKDcTpwBTyAoKTRGy0I&signatureToken=UK_zdECBQKbqckEcenHbsQ",
+        "videoType": 0,
+        "_type": "VIDEO",
+        "width": 720,
+        "videoId": 9566199832329,
+        "token": "f9LHodD0cOJy1nB5IS3m_kN4dqgm4jNtCmetZg75R6T5khpjD_YiqIk1oP0EkXJzGn-m0JjEn-EISk44aBxM",
+        "height": 1280
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115117209096756344",
+    "time": 1756549211071,
+    "text": "Большое спасибо!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "length": 18,
+        "entityId": 44502596,
+        "from": 13,
+        "type": "USER_MENTION"
+      },
+      {
+        "type": "UNDERLINE",
+        "length": 18,
+        "from": 13
+      },
+      {
+        "length": 18,
+        "entityId": 44502596,
+        "from": 13,
+        "type": "USER_MENTION"
+      }
+    ],
+    "id": "115117495280624985",
+    "time": 1756553577890,
+    "text": "Добрый день! Виктория Романовна подскажите пожалуйста, у нас будет собрание по дополнительным занятиям 06.09?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115117509680707986",
+    "time": 1756553797618,
+    "text": "Добрый день! Как только мне сообщат информацию, я сразу сообщу) Пока что не знаю, но очень надеюсь, что это будет в первых числах сентября 🤞",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "STRONG",
+        "length": 14,
+        "from": 117
+      }
+    ],
+    "updateTime": 1757234647406,
+    "id": "115117523015183281",
+    "time": 1756554001086,
+    "text": "Уважаемые родители! Обновленная информация по 1 сентября: \n\nЗабираем детей в 10:40, откуда именно смотрите на схеме, ровно в 10:40 всех детей должны забрать!\n\nРасписание такое:\nС 8:00 работают фото зоны и разный интерактив\nВ 8:50 построение на линейку\nС 9:00-10:00 линейка\nС 10:00 - 10:40 Классный час",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRgICAABXRUJQVlA4IPYBAADwCACdASogADIAAUAmJZgB4gnACzh/0dp2LE7y/6gIpVxY6s+v6P+J/yjmXTJxG3Pu0Jr2Evc5XQ9/RESyW1xsE6ca6eTYicprSLNZag8TTAD+/u3CRW9Y5PYf82YwkBhlnGZ75qce2r7yn/9SOf0TWqwz4ie/ANp4Fpok8pjHk2WvpPf/6pd2/PnM3+vDo+YyZXR+my1ZPkqxTItH/DGE2l4xpMIFO5YeHCtCr0QiPxRJa56rDwYPmDVY81uyL2ZqaV+2kAR4Tjnvkf8Dt3fX2baKEdeK1/vKC5eOVrnj7C37QYiLtUEmCxFnaxkRh+RwFEhW2Z/xnlvu9gOE7WxZMS6U+be913DgZmZ7En+ygcZ2Wv6pWdRvbj32iZFUDwkGciSGHst8YnwCiqSh9PL2A4H/PK8QlsEGARxsZ8bkkbi4U5SeHPv/Pv36uMeRTy4FNNEqhO4nk3t9k3ga0Nwix/IXO9z7jP88t2178VMdte1i2vj0PR7E9wW5lI2AH55lUsPq+P9nr5k2tBe3H+n/EoYPUVK3H1oV5YQ3xCLEb8u/KTfk7Eq3pCdFfX/4EYB3xtPLVeg50nJl0cVZSVStPDp3W9Sf7oquML4WvLp6u/8wzVU+5KZZyI2PmIA5BcQXkInapzR3ZPO8dMy17JlNk3MTwaAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotjdnZxKjaqnxAtbwOnjNXHThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "oWgkR3Dsp7PVIUzUotXW28IHJ5ziW4Yr/6RFaQTltfMW53DIn2Pc4xOroo+S5OgRGmuUdL8bhVVQQGYCaDVVriKDoE6yNrBH",
+        "_type": "PHOTO",
+        "width": 540,
+        "photoId": 151574852,
+        "height": 838
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115117538734390700",
+    "time": 1756554240942,
+    "text": "Информация по повседневному внешнему виду обучающихся",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRtgAAABXRUJQVlA4IMwAAAAQCACdASopADIAPlkgi0WjoiEdVgA4BYS0gAXgAGSe/QU+FLDHPRj/viBQZ0KDswxT6aO6lAXxs0zN7O68udepzl8Yref50UUAAP7+mVfAfpHcm2ejaBvEjKSDr3NDnPmSUL9btZ0D2tChQcF3xxeJGTseV/5GSs0cuefiLp8aRV2YjBG5VlMMyoCtAFvZwMOP6KLe3Udwgxp7z+hWY6NJtCQ//8/96T//oP84OVyd4KnzwtZcUviS88WWYSaBZy8/2XTbEn8ytcgAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not40Dc5AxquldGvTjgp7AHVjhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "nzVZOiFGaFDb59QedW4VtQDpDMBihTfeKDXJsmqkscEZkEiP7epQPtoJDQOh4ZGwiGCsEAPW4aPmEPDjKRwniNMvQbLYy6uMGdsIsuXvo4c=",
+        "_type": "PHOTO",
+        "width": 1284,
+        "photoId": 151590980,
+        "height": 1582
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115117590570032093",
+    "time": 1756555031891,
+    "text": "Хотела бы Вас попросить рассказать мне информацию о своих детках, так как у нас сократили 1 сентября, времени на знакомство будет не так много 😭 \nМожно записать голосовое мне в личные сообщения)\n\n1) Какие увлечения, вплоть до любимых игр и мультиков\n2) Переживает ли перед школой, если да, то почему\n3) Ходили ли на подготовку к школе, можно описать уровень готовности ребенка\n4)Буду рада любой информации 🫶",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 43909830,
+    "id": "115118578798629354",
+    "time": 1756570111063,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "joinByLink",
+        "userId": 43909830
+      }
+    ],
+    "sender_name": "Карина"
+  },
+  {
+    "sender": 43909830,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115118641671404867",
+    "time": 1756571070425,
+    "text": "89285153006 Карина, мама Кадыровой Делины.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Карина"
+  }
+]

@@ -1,4 +1,7 @@
-# vkmax
+# python-max-client
+
+> **Fork Notice**: This is a fork of the original [vkmax](https://github.com/nsdkinx/vkmax) project by [nsdkinx](https://github.com/nsdkinx). This fork is maintained for personal development and improvements.
+
 Python user client for VK MAX messenger (OneMe)
 
 ## What is VK MAX?
@@ -88,3 +91,16 @@ if __name__ == "__main__":
 
 - [Protocol description](docs/protocol.md)
 - [Known opcodes](docs/opcodes.md)
+
+## Original Project
+
+This is a fork of the original [vkmax](https://github.com/nsdkinx/vkmax) project created by [nsdkinx](https://github.com/nsdkinx). 
+
+**Original project links:**
+- GitHub: https://github.com/nsdkinx/vkmax
+- PyPI: https://pypi.org/project/vkmax/
+- Telegram: https://t.me/max_messenger_python
+
+## Fork Information
+
+**python-max-client** is maintained for personal development and improvements. If you're looking for the original, stable version, please use the original project.

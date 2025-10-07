@@ -1,0 +1,1421 @@
+[
+  {
+    "sender": 11296682,
+    "id": "115104476496217357",
+    "time": 1756354927005,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "add",
+        "userIds": [
+          44502596
+        ]
+      }
+    ],
+    "sender_name": "Екатерина Сергеевна"
+  },
+  {
+    "sender": 11296682,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 4
+    },
+    "id": "115104478776794263",
+    "time": 1756354961804,
+    "text": "Доброе утро, уважаемые родители!\n\nПредставляю вам вашего кл. руководителя - Виктория Романовна Смакило 🌺",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Екатерина Сергеевна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757234647339,
+    "id": "115104822997888636",
+    "time": 1756360214201,
+    "text": "Уважаемые родители, доброе утро! ☀️\n\nОтправляю Вам тетради, которые нужно будет приобрести. Вчера на собрании мы обсудили, что тетради покупаем все вместе на каждого ребенка + комплект для учителя. Нужно решить, кто будет покупать тетради, договоритесь между собой , пожалуйста, у Вас будет время до 17 часов 🙏 Буду ждать от Вас ответа",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRgQCAABXRUJQVlA4IPgBAABwCwCdASojADIAPlkgi0WjoiEdVAA4BYSxAGVS5nzsSnP7lzAG2AfrNZ1X7AEeH/3v8AJREoTjfcO65dIhpyzB3c1iNt2iORVXJ/gBwVLDXmyJuRQR0iqmbMQeSz2wdztUaZgAAP7+q8jKHWozCD/MZ36wnRrjqrpE59Josn7EZ50Y6NsbiuXEXS4FnszezuJpevebhiUbPLdCJuwy46BeqKGkBHSzTzme4/A5EvyBzuhdVgZsxz+zZKb275T7p0wHngL7xBcj6BPSBESv2fFMzkcfZP3iNLpdVBFMTpc8YOkAXwzt0/4b7i4j/1tHT+XF3TS06ztrbsXuchDNgZp25FBhbrpWWjqymPWcWOyno3WrwBy341reYrQIcGM5ke3t+FG2AIdIS/kgLuLC64JfH+qGW9kcrEjBqPuMfvxH2AYkB20Y9A7UMM/itZH8+nBevGvSEZSOGWPRLjgsYmTdkk2p+kjkqRYSPz1452YR+Sn7yZ3MX65U9BX5d/FTZ9+7wlcF/yJdbG/ioRVB1GxZPWCwF84xUrF23/lGOvh3Sfu2VPfiMG6e11mXWiCTq1J/4sA0COQA9lwXX80TiDlna/vdTr3h3S3F7hSRAkyr3QDP91f+vh5jKbr1TiSpU5vdMr8+9Qfc8HMASPqWNDB/sCPfN6itAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotqY24sWyE6PAT40UP8SJ81zhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "/YU0hiDw+0CCCoXSdx6WIRuJ8P22rFsDgym3VXmCUQziNrv2plFxMR31zDD/bC52OyXSEbBr9B/3m0z3r3O6j2ysK29TWlB5",
+        "_type": "PHOTO",
+        "width": 899,
+        "photoId": 130293828,
+        "height": 1280
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRvwBAABXRUJQVlA4IPABAAAQCwCdASoyACcAPlkei0WjoaEdVAA4BYS0AGECxusfM7kwiMH6zZZX+gHomsQAYsX8GkLLRih+fxnANHMxf8K/0Ju6Lsrk8eJ0j5pnWMSCWw+25b4/fZzJy4yUUvFh590AAP7+fYHymmpbCNJLBOkyGac/6NlkNofHPDbUM+N57L32Z3GB2W7XOGfyH3hB27Ao82WbVr2fn7qk/bQL0iQTjM/Ee9w6YkuE/zis8XO6/x5R+8oFOnPLJ32WsH+dS/+DmAswA3htIMqxLpwIKiJ2qUrwQCJXbfg1fllFeUfsoNI+ReAmv0UMp6QrQMsG1lqD8nswCKKU+xk7PPVYA0C6O4S/e6XaVojOWMbyqZDBQLKOH2Oi8JhI9+UTB/5/6TBH8VZQ84pdhgcXdxeXTO0xbg8z0OCXn63/nQcF/+0w4VsmNpBYybYA1IzcwqdL9+nL4fpfcQngAKlrI016nZBa/HXSAncW2nPvmbraHWSlV+84GLeHEAcQp8/SSX7yrxPsgGjJN+awIV23Wr+Xuwd/Q3r3jTtSNSkiaOLet9ZL64rj4jaYBgRkpq1vLv5JTU9GPHrn0zsBc8I/2n63oX55Itl8vWQZ/g4Ercg+yYAbrFoQrZEiPWGWBiTzzjl2bEEFcEQFXc8jQ1+mDt3Z3CAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotKYYux3kTjkrGACfrhSFhHDhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "XcOE99ujkpenx2Oc3Vatui+tXcseKsYpTcrbU885bTzhJPPo7kdBerghsbOv+41FEtui8alWhpY60GTBjMP5voXQdsPJOwPh",
+        "_type": "PHOTO",
+        "width": 1170,
+        "photoId": 130294084,
+        "height": 909
+      },
+      {
+        "previewData": "data:image/webp;base64,UklGRuIBAABXRUJQVlA4INYBAADwCQCdASoyACIAPlUei0WjoaEepAA4BUSzAF2Z5Ur3aF9AH/VwVW+jf0AUi0OR5iswr5XsHIN8eRu4nFeTXNTriYRk2aYLhy0cYZBdciZKjNUQI5haqGCAAP7+2N+vBmSype6dDFPX6vpxLbd/SgKH+cYq6dlfSkzA+QqJ7F8gdXD35tqOr/J9o5LTW6uWOb4mlzQ/CAV4At4pHX0o8sMa0rgIcP9lMn7V8exEZk6Z/1Fh6iK2l16LYx5xJ3KB2ua8DMx/98Mc7JJk3GnZVRIxFY1f39oX/PrH/9/X6oreeQ3acdabt6JsumYF0U/rAv3RHzYxUSjF7LWL2NvWCeRNPeWQRlFbHLVFQINt3bChoyxNYR+XREb0f+m6W920cccGvMGDj4fShb/HLcmu+9cvO9/4lC0Pes0I3+niPmm4uYEtFzzjT0zrmLHzg3fiPH0CqUVLa4JBG3yXicaUcHl6+B3CWo4Qgl49p5ihb240b4X996ozx7NYds3o01enZxJ9/FJcBnPjG6v9d5eZksjHnQHChZIhH/8hId4Rdn96QSp6ymM9X/v8m8YyetvdKu4VpLkQMbti5fzm6LEVag34F1BT4A9iOpvdMxx2gStIb2gqx8AAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotuTIfPWF8az5ouIEFGIomLThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "7rGY+4k//sccFwIBKA2wO1ZPO3gtzS/o8FJlgM7O1flSuDlaP7yrfdqIu4A/XLvFHpPkDKLcEPVlzR9/P810dMhNug2my1LX",
+        "_type": "PHOTO",
+        "width": 1170,
+        "photoId": 130294340,
+        "height": 785
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115104848284294181",
+    "time": 1756360600041,
+    "text": "Доброе утро!  Если сегодня заказать, будут завтра",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "id": "115104848305211488",
+    "time": 1756360600360,
+    "text": "ПРОСВЕЩЕНИЕ 2025 Прописи (Частая косая) и Рабочие тетради 1 класс 8 шт\nhttps://www.wildberries.ru/catalog/498943578/detail.aspx?size=693587125",
+    "type": "USER",
+    "attaches": [
+      {
+        "image": {
+          "_type": "PHOTO",
+          "width": 900,
+          "url": "https://i.oneme.ru/i?r=BTGBPUwtwgYUeoFhO7rESmr8eH8QswFwR_tpD2B9HIhAHoaoi1uJiGnUIVH9Af0sso4",
+          "height": 1200
+        },
+        "_type": "SHARE",
+        "description": "Прописи для 1 класса (в 4 частях) являются дополнением к учебнику «Русский язык. Азбука. 1 класс» (в 2 частях) авт. В. Г. Горецкого и др., который разработан в соответствии с требов...",
+        "contentLevel": false,
+        "shareId": 52291579,
+        "title": "2025 Прописи (Частая косая) и Рабочие тетради 1 класс 8 шт, ПРОСВЕЩЕНИЕ",
+        "url": "https://www.wildberries.ru/catalog/498943578/detail.aspx?size=693587125"
+      }
+    ],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 38857467,
+        "id": "115104848284294181",
+        "time": 1756360600041,
+        "text": "Доброе утро!  Если сегодня заказать, будут завтра",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115104866530844507",
+    "time": 1756360878461,
+    "text": "Чудесно)\nКто будет заказывать тетради на всех?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "id": "115104878240617910",
+    "time": 1756361057138,
+    "text": "Т.е надо заказывать 31 шт",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115104866530844507",
+        "time": 1756360878461,
+        "text": "Чудесно)\nКто будет заказывать тетради на всех?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115104880238224519",
+    "time": 1756361087619,
+    "text": "Виктория Романовна, тетради можно будет в лицее оставить до 01.09?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37353144,
+        "id": "115104878240617910",
+        "time": 1756361057138,
+        "text": "Т.е надо заказывать 31 шт",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115104902764757523",
+    "time": 1756361431347,
+    "text": "Да)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 38857467,
+        "id": "115104880238224519",
+        "time": 1756361087619,
+        "text": "Виктория Романовна, тетради можно будет в лицее оставить до 01.09?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115104906606045250",
+    "time": 1756361489960,
+    "text": "2 сентября ребята получат комплекты учебников, тетради можно будет передать мне 2 сентября, я их выдам 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "id": "115104948979857218",
+    "time": 1756362136533,
+    "text": "1 сентября:\n08:00 - 08:45 Сбор детей, детский праздник на территории школы\n08:45 построение\n09:00 - 10:00 линейка (учитель + дети в первом ряду. Родственники и сопереживающие стоят немного подальше)\n10:00 - 12:00 учитель уводит детей в класс, родители в школу не заходят прощаются у турникета\nВ классе будет фотосессия, организованная родителями. Фотографируем по списку ребенок за партой, по желанию ребенок + друг, ну и групповые в классе, в свободных позах и локациях. \n\nФорма детей - парадная. Девочки - белые колготки, белые банты (не синие, не фиолетовые). Мальчики - белый верх, фиолетовый галстук или бабочка. Всем бомберы!\nСменку, рюкзак и тетради 1 сентября не берем. \n\n\nРежим учебы с 2 сентября:\n09:00 - 12:00 учимся\nв рамках этого периода будет завтрак в 09:40, прогулка или технологический перерыв на игры, отдых. Можно принести любимые игры и оставить в классе (шахматы, настолки или что-то подвижное даже).\n\nВ первые недели в целях комфортной адаптации просьба не оставлять детей на продленку, так как ребенок должен мягко войти в новый режим, привыкнуть. Но в целом продленка с 2 сентября уже будет и можно ребенка оставлять на нее, если совсем не с кем оставить дома.\n\nПродленка (когда пройдет период адаптации)\n12:00 - 15:00\nв рамках продленки будет обед в 12:00. Родителям будет отправлена таблица, где нужно отметиться, будет ли ребенок оставаться на продленки и нужен ли обед. \n\nТакже работает буфет, ребенку дать ТОЛЬКО НАЛИЧНЫЕ!!! \nНе исключается возможность принести с собой в контейнере какой-то перекус в виде яблок или НЕскоропортящихся продуктов.\n\nПопозже появятся дополнительные платные занятия, запись на них будет производиься отдельно, информацию по ним дадут позднее. На них ребенок сможет пойти как с продленки, так и, например, сначала уйти домой, поесть, отдохнуть, погулять, а потом вернуться, условно, в 18.00 на свой кружок.\n\nСистема пропуска: родители приводят ребенка заранее ДО 09:00, прощаются около турникета. Вход в начальную школу отдельный, с правой стороны от главных ворот. Начальная школа находится в отдельном крыле, со старшими классами ребята не пересекаются. Дети сами по школе никуда не ходят, их везде сопровождают учитель или воспитатель. Туалеты расположены возле класса. \n\nСменку желательно носить с собой и не оставлять. Все вещи подписать по возможности.\n\nЗабирать ребенка могут не только родители, но и бабушки-дедушки-няни-братья-сестры. Для этого требуется Нотариальная доверенность. \n\nВсе держим связь с Викторией Романовной. Все передвижения ребенка из школы (пойдет сам или заберет бабушка - об этом пишет родитель учителю).",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      }
+    ],
+    "updateTime": 1756362269550,
+    "id": "115104954866085421",
+    "time": 1756362226350,
+    "text": "Виктория Романовна давайте договоримся, родители по личным вопросам (заболел, кто заберет ребенка) пишут вам в личку или в общий чат? Кажется, логичнее это делать в личку, чтобы не спамить чат и не отвлекать всех участников чата от действительно важной информации. \n\nЕсли вам в личку, то какой месенджер предпочтительнее - вотсап, телеграм, макс или простигоспади Вайбер)?",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "id": "115104961429835755",
+    "time": 1756362326505,
+    "text": "Еще из важного:\nВиктория Романовна выдала бейджи всем. Либо выдаст тем, кого не было на собрании. На них нужно написать имя ребенка и характеристику, например, Лев - отважный.\n\nЛилия - уникальная.\n\nСемен - смышленный",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "elements": [
+          {
+            "type": "USER_MENTION",
+            "length": 18,
+            "entityId": 44502596
+          },
+          {
+            "type": "USER_MENTION",
+            "length": 18,
+            "entityId": 44502596
+          }
+        ],
+        "updateTime": 1756362269550,
+        "id": "115104954866085421",
+        "time": 1756362226350,
+        "text": "Виктория Романовна давайте договоримся, родители по личным вопросам (заболел, кто заберет ребенка) пишут вам в личку или в общий чат? Кажется, логичнее это делать в личку, чтобы не спамить чат и не отвлекать всех участников чата от действительно важной информации. \n\nЕсли вам в личку, то какой месенджер предпочтительнее - вотсап, телеграм, макс или простигоспади Вайбер)?",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115104983717870500",
+    "time": 1756362666593,
+    "text": "По личным вопросам пишите мне в личные сообщения в Max 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "id": "115104988492078174",
+    "time": 1756362739442,
+    "text": "Можете ли оставить номер мобильного телефона для экстренной связи? думаю, он всем родителям пригодится.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115104992415791225",
+    "time": 1756362799313,
+    "text": "По поводу обуви на 1 сентября 🔔\n\nКакую обувь подготовили, в такой ребенок и идет, но со 2 сентября обувь должна соответствовать требованиям лицея",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "id": "115104988492078174",
+        "time": 1756362739442,
+        "text": "Можете ли оставить номер мобильного телефона для экстренной связи? думаю, он всем родителям пригодится.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115104993823886798",
+    "time": 1756362820799,
+    "text": "Конечно! +79214282060",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "id": "115105049755468161",
+    "time": 1756363674247,
+    "text": "Добрый день, то есть 2 сентября бабушка сможет забрать только с нотариальной доверенностью? Форма доверенности какая -то определенная ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "id": "115105056023735545",
+    "time": 1756363769893,
+    "text": "Присоединяюсь к вопросу,  как бабушке 2.09 забрать ребёнка?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "id": "115105049755468161",
+        "time": 1756363674247,
+        "text": "Добрый день, то есть 2 сентября бабушка сможет забрать только с нотариальной доверенностью? Форма доверенности какая -то определенная ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115105064516995385",
+    "time": 1756363899490,
+    "text": "Мы как то делали доверенность на бабушку на путешествие по стране, так там и про кружки и про школу есть.  Нотариусы знают",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      }
+    ],
+    "updateTime": 1756363964189,
+    "id": "115105065948900517",
+    "time": 1756363921339,
+    "text": "Виктория Романовна уточните, пожалуйста:\n1. Есть ли какая-то спецформа для оформления у нотариуса и можно ли сразу в одну доверенность вписать полный список бабушек и дедушек или нужно 1 доверку на всех сделать. Какие правила школа устанавливает на этот счет?\n\n2. Правильно ли я понимаю, что первые дни (пока еще все возвращаются из отпусков, устаканиваем оргвопросы) можно в порядке исключения тем, кто вдруг по каким-то причинам не успеет доверенность оформить разово забрать ребенка по согласования с вами (родитель пишет вам в личку, что вот сегодня заберет бабушка, доверенность оформим завтра).\n\nЧем быстрее получим информацию, тем быстрее родители сходят к нотариусу и, надеюсь, успеют оформить до 1 сентября доверенности.",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 4
+    },
+    "id": "115105079942449359",
+    "time": 1756364134864,
+    "text": "2 сентября ребенка могут забирать бабушки/дедушки/няни без доверенности, далее доверенность нужно будет предоставить \n\nИнформацию по форме заполнения доверенности уточню, ответ Вам отправлю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 41201600,
+    "id": "115105135817138767",
+    "time": 1756364987444,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "joinByLink",
+        "userId": 41201600
+      }
+    ],
+    "sender_name": "Sergey"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115104866530844507",
+        "time": 1756360878461,
+        "text": "Чудесно)\nКто будет заказывать тетради на всех?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115105137423622469",
+    "time": 1756365011957,
+    "text": "Я могу заказать",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {},
+    "id": "115105138344926982",
+    "time": 1756365026015,
+    "text": "Доброе утро ☀️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11725768,
+        "id": "115105137423622469",
+        "time": 1756365011957,
+        "text": "Я могу заказать",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115105212351319459",
+    "time": 1756366155263,
+    "text": "Отлично, большое спасибо 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 41201600,
+    "id": "115105257361653728",
+    "time": 1756366842066,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "icon",
+        "fullUrl": "https://i.oneme.ru/i?r=BTFjO43w8Yr1OSJ4tcurq5HiAJ7Z7TxwxoK0R-_g-iSXfTpV8bOJDDEXthT7BFiD3OA",
+        "url": "https://i.oneme.ru/i?r=BUFglOvkF6bn--g5U-BFgIkJsGSdeq7S-Ilwh9AwABa4QHPeiCUSxdft9CXhMVF6JrTc0lxygdzeEJej3vtYmlXe"
+      }
+    ],
+    "sender_name": "Sergey"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757234647339,
+        "id": "115104822997888636",
+        "time": 1756360214201,
+        "text": "Уважаемые родители, доброе утро! ☀️\n\nОтправляю Вам тетради, которые нужно будет приобрести. Вчера на собрании мы обсудили, что тетради покупаем все вместе на каждого ребенка + комплект для учителя. Нужно решить, кто будет покупать тетради, договоритесь между собой , пожалуйста, у Вас будет время до 17 часов 🙏 Буду ждать от Вас ответа",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRgQCAABXRUJQVlA4IPgBAABwCwCdASojADIAPlkgi0WjoiEdVAA4BYSxAGVS5nzsSnP7lzAG2AfrNZ1X7AEeH/3v8AJREoTjfcO65dIhpyzB3c1iNt2iORVXJ/gBwVLDXmyJuRQR0iqmbMQeSz2wdztUaZgAAP7+q8jKHWozCD/MZ36wnRrjqrpE59Josn7EZ50Y6NsbiuXEXS4FnszezuJpevebhiUbPLdCJuwy46BeqKGkBHSzTzme4/A5EvyBzuhdVgZsxz+zZKb275T7p0wHngL7xBcj6BPSBESv2fFMzkcfZP3iNLpdVBFMTpc8YOkAXwzt0/4b7i4j/1tHT+XF3TS06ztrbsXuchDNgZp25FBhbrpWWjqymPWcWOyno3WrwBy341reYrQIcGM5ke3t+FG2AIdIS/kgLuLC64JfH+qGW9kcrEjBqPuMfvxH2AYkB20Y9A7UMM/itZH8+nBevGvSEZSOGWPRLjgsYmTdkk2p+kjkqRYSPz1452YR+Sn7yZ3MX65U9BX5d/FTZ9+7wlcF/yJdbG/ioRVB1GxZPWCwF84xUrF23/lGOvh3Sfu2VPfiMG6e11mXWiCTq1J/4sA0COQA9lwXX80TiDlna/vdTr3h3S3F7hSRAkyr3QDP91f+vh5jKbr1TiSpU5vdMr8+9Qfc8HMASPqWNDB/sCPfN6itAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotqY24sWyE6PAT40UP8SJ81zhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "sQMWrGhfNGnfI27XsBf9LpbvkXuzgK5eoC380COR88T/+MmoYJ/sZOAkpOQ9QKeojkG1A23sPanrNVMHF2un+G0Ell7yFdnx",
+            "_type": "PHOTO",
+            "width": 899,
+            "photoId": 130293828,
+            "height": 1280
+          },
+          {
+            "previewData": "data:image/webp;base64,UklGRvwBAABXRUJQVlA4IPABAAAQCwCdASoyACcAPlkei0WjoaEdVAA4BYS0AGECxusfM7kwiMH6zZZX+gHomsQAYsX8GkLLRih+fxnANHMxf8K/0Ju6Lsrk8eJ0j5pnWMSCWw+25b4/fZzJy4yUUvFh590AAP7+fYHymmpbCNJLBOkyGac/6NlkNofHPDbUM+N57L32Z3GB2W7XOGfyH3hB27Ao82WbVr2fn7qk/bQL0iQTjM/Ee9w6YkuE/zis8XO6/x5R+8oFOnPLJ32WsH+dS/+DmAswA3htIMqxLpwIKiJ2qUrwQCJXbfg1fllFeUfsoNI+ReAmv0UMp6QrQMsG1lqD8nswCKKU+xk7PPVYA0C6O4S/e6XaVojOWMbyqZDBQLKOH2Oi8JhI9+UTB/5/6TBH8VZQ84pdhgcXdxeXTO0xbg8z0OCXn63/nQcF/+0w4VsmNpBYybYA1IzcwqdL9+nL4fpfcQngAKlrI016nZBa/HXSAncW2nPvmbraHWSlV+84GLeHEAcQp8/SSX7yrxPsgGjJN+awIV23Wr+Xuwd/Q3r3jTtSNSkiaOLet9ZL64rj4jaYBgRkpq1vLv5JTU9GPHrn0zsBc8I/2n63oX55Itl8vWQZ/g4Ercg+yYAbrFoQrZEiPWGWBiTzzjl2bEEFcEQFXc8jQ1+mDt3Z3CAA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotKYYux3kTjkrGACfrhSFhHDhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "WRucG18yfqAwtOBQIvIlMxqhQcXTlUocUuv5pvvMGjZrX4XhSzZtB3uMXw68I8mmhpgfE0vctl8pTsVMArDWxdymlXCVkRQi",
+            "_type": "PHOTO",
+            "width": 1170,
+            "photoId": 130294084,
+            "height": 909
+          },
+          {
+            "previewData": "data:image/webp;base64,UklGRuIBAABXRUJQVlA4INYBAADwCQCdASoyACIAPlUei0WjoaEepAA4BUSzAF2Z5Ur3aF9AH/VwVW+jf0AUi0OR5iswr5XsHIN8eRu4nFeTXNTriYRk2aYLhy0cYZBdciZKjNUQI5haqGCAAP7+2N+vBmSype6dDFPX6vpxLbd/SgKH+cYq6dlfSkzA+QqJ7F8gdXD35tqOr/J9o5LTW6uWOb4mlzQ/CAV4At4pHX0o8sMa0rgIcP9lMn7V8exEZk6Z/1Fh6iK2l16LYx5xJ3KB2ua8DMx/98Mc7JJk3GnZVRIxFY1f39oX/PrH/9/X6oreeQ3acdabt6JsumYF0U/rAv3RHzYxUSjF7LWL2NvWCeRNPeWQRlFbHLVFQINt3bChoyxNYR+XREb0f+m6W920cccGvMGDj4fShb/HLcmu+9cvO9/4lC0Pes0I3+niPmm4uYEtFzzjT0zrmLHzg3fiPH0CqUVLa4JBG3yXicaUcHl6+B3CWo4Qgl49p5ihb240b4X996ozx7NYds3o01enZxJ9/FJcBnPjG6v9d5eZksjHnQHChZIhH/8hId4Rdn96QSp6ymM9X/v8m8YyetvdKu4VpLkQMbti5fzm6LEVag34F1BT4A9iOpvdMxx2gStIb2gqx8AAAA==",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotuTIfPWF8az5ouIEFGIomLThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "yzcE2r0+t9vn4RiI4J9BQjEAckXkUaAtG3U3iG05MhtEGEj//v939AcC7gsDJefyxFx33ceoPbS3SxgzJlBPtNGzElEQmDOq",
+            "_type": "PHOTO",
+            "width": 1170,
+            "photoId": 130294340,
+            "height": 785
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "id": "115105265607396656",
+    "time": 1756366967886,
+    "text": "Нас по списку 30? Или больше? \nС учителем получается 31 шт?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "id": "115105265607396656",
+        "time": 1756366967886,
+        "text": "Нас по списку 30? Или больше? \nС учителем получается 31 шт?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115105275074057902",
+    "time": 1756367112336,
+    "text": "31 это уже с учителем",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "id": "115105340316859844",
+    "time": 1756368107862,
+    "text": "Виктория Романовна, добрый день! Скажите пожалуйста, данный список канцелярии актуален для нашего класса?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1757234647352,
+    "id": "115105340341945040",
+    "time": 1756368108245,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASoXADIAPlUei0WjoaEd9AA4BUS0gABQWI29AxEJDT5H5k5Uf9TxSoaHiaAA/v8aV3MD//dLBqf/UxGomQUu09zFSOEHOYy3xkHzQf/tRZtneyZkyv1uEWjlZOwhS8ij5vKEfLu/CgeiFNGt/63aUzD8Lu7OG2AA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Note8QUWXSakr2MVl5bxs0WHThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "PvOagNRhWXQyF52ZmxnYVuRIdp3009DyajOtRCkFD175sJRDhIDzL7aM4jBw7sp2b0zDHLEBBbKgQCa37lXeP6uUWJ3kfU3H",
+        "_type": "PHOTO",
+        "width": 578,
+        "photoId": 94369713,
+        "height": 1280
+      }
+    ],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1757234647365,
+    "id": "115105350316280945",
+    "time": 1756368260441,
+    "text": "Добрый день! Да! Ещё прикрепляю пример частой косой линии",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBgCdASoyACoAPlUei0WjoaEer0QAOAVEtIBpsCNo5sRKzKIQCEcCs8DvQudQmhmKn+t8DsFfj7HYAP77J3ecmrf3NvFz6MTjjzqgOyyaWPwFZCFH4Eg92PisigVcL0O8ZhVAXuLAJ8gpSEQbkZZ0NDsCHu7/leFN9LZiBNH3zhVON5zQhuagznRt4R2DtrHPAqPZKbRzei35kjVoQAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not9-cUqlHNA5RmOB3Rx2-OSjhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "/ySkG6wnrHn7flkF98jBx5BW2p3gKzAfPhLGsax9TP1vgTVv4UiyqSkG+Sff6NekxnoWGiiI3AbhbxRez77rKIwbi+s0+Z7n",
+        "_type": "PHOTO",
+        "width": 1195,
+        "photoId": 131262532,
+        "height": 999
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757234647365,
+        "id": "115105350316280945",
+        "time": 1756368260441,
+        "text": "Добрый день! Да! Ещё прикрепляю пример частой косой линии",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAAAwBgCdASoyACoAPlUei0WjoaEer0QAOAVEtIBpsCNo5sRKzKIQCEcCs8DvQudQmhmKn+t8DsFfj7HYAP77J3ecmrf3NvFz6MTjjzqgOyyaWPwFZCFH4Eg92PisigVcL0O8ZhVAXuLAJ8gpSEQbkZZ0NDsCHu7/leFN9LZiBNH3zhVON5zQhuagznRt4R2DtrHPAqPZKbRzei35kjVoQAAA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not9-cUqlHNA5RmOB3Rx2-OSjhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "mmVrP3lTfL7jr+F7vYQcMl0no43XPtpGyj3fDvDHpt232JlvbJjiamIgoelr219jAb+byoQeXOw/spr1VkoOtl1Ntl3JGd72",
+            "_type": "PHOTO",
+            "width": 1195,
+            "photoId": 131262532,
+            "height": 999
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "id": "115105485707498273",
+    "time": 1756370326347,
+    "text": "Но я так поняла, тетради нам не нужно покупать? Их централизованно закупают же и список же был другой изначально на сайте",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 32320433,
+        "updateTime": 1757234647352,
+        "id": "115105340341945040",
+        "time": 1756368108245,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASoXADIAPlUei0WjoaEd9AA4BUS0gABQWI29AxEJDT5H5k5Uf9TxSoaHiaAA/v8aV3MD//dLBqf/UxGomQUu09zFSOEHOYy3xkHzQf/tRZtneyZkyv1uEWjlZOwhS8ij5vKEfLu/CgeiFNGt/63aUzD8Lu7OG2AA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Note8QUWXSakr2MVl5bxs0WHThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "cM3dbt0ZwRAruKQ1fKSE2pNlIq94DES2quc0GqW4Frps2HigH+EBqhhKAS2AVEo5KQZYeR9uX8jTpBzzwXffdcAJOIY56gfI",
+            "_type": "PHOTO",
+            "width": 578,
+            "photoId": 94369713,
+            "height": 1280
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "id": "115105487226632667",
+    "time": 1756370349527,
+    "text": "Теперь нужно по этому списку закупаться?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 11296682,
+    "id": "115105493942894119",
+    "time": 1756370452009,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "leave"
+      }
+    ],
+    "sender_name": "Екатерина Сергеевна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 32320433,
+        "updateTime": 1757234647352,
+        "id": "115105340341945040",
+        "time": 1756368108245,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwBACdASoXADIAPlUei0WjoaEd9AA4BUS0gABQWI29AxEJDT5H5k5Uf9TxSoaHiaAA/v8aV3MD//dLBqf/UxGomQUu09zFSOEHOYy3xkHzQf/tRZtneyZkyv1uEWjlZOwhS8ij5vKEfLu/CgeiFNGt/63aUzD8Lu7OG2AA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Note8QUWXSakr2MVl5bxs0WHThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "nD23Ylx8trhe3qpHeTVvsPezebf70cpXsNcTBNiAmS17nzEL67FnVYIYtCFO95qEDJoauuiOuBki4K6G9evhKIsVrO8HxVNm",
+            "_type": "PHOTO",
+            "width": 578,
+            "photoId": 94369713,
+            "height": 1280
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "id": "115105496348977622",
+    "time": 1756370488723,
+    "text": "Закупка канцелярии к 1 сентября осуществляется по данному списку. Тетради можно закупить централизованно, как мы это сделали с комплектами по предметам, тут уже как Вам удобнее",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "UNDERLINE",
+        "length": 18
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 18,
+        "entityId": 44502596
+      }
+    ],
+    "id": "115105588343952854",
+    "time": 1756371892455,
+    "text": "Виктория Романовна не могли бы вы подсказать размер парты для закупки ковриков🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1756372217833,
+    "id": "115105605893183070",
+    "time": 1756372160235,
+    "text": "К сожалению, не мерила 😅 Они все стандартного размера коврик 40x65 должен подойти",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "💯"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115105672936627191",
+    "time": 1756373183237,
+    "text": "Какой-то 1-й класс закупает на парты держатель для учебников. Может нам тоже надо?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115105680116882143",
+    "time": 1756373292799,
+    "text": "Можете договориться с другими родителями по этому поводу",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1756384708608,
+    "id": "115106409343426846",
+    "time": 1756384419913,
+    "text": "Уважаемые родители! Информация по доверенности (нотариальная доверенность) : \n1. Особой формы для оформления нет\n2. В одну доверенность можно вписать всех сразу \n\nПервые дни можно без доверенности, сообщу, когда нужно будет ее предоставить 🤗",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1756384708608,
+        "id": "115106409343426846",
+        "time": 1756384419913,
+        "text": "Уважаемые родители! Информация по доверенности (нотариальная доверенность) : \n1. Особой формы для оформления нет\n2. В одну доверенность можно вписать всех сразу \n\nПервые дни можно без доверенности, сообщу, когда нужно будет ее предоставить 🤗",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115106416868274344",
+    "time": 1756384534733,
+    "text": "Виктория Романовна, доверенность в нотариальной или простой письменной форме ?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "STRONG",
+        "length": 19,
+        "from": 36
+      }
+    ],
+    "id": "115106426177806170",
+    "time": 1756384676785,
+    "text": "Понадобится помощь двух родителей в воскресенье в 19:00! Нужно будет прикрепить шарики в кабинете, кто сможет?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11725768,
+        "id": "115106416868274344",
+        "time": 1756384534733,
+        "text": "Виктория Романовна, доверенность в нотариальной или простой письменной форме ?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115106426689385445",
+    "time": 1756384684591,
+    "text": "В Нотариальной",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "id": "115106435274778755",
+    "time": 1756384815594,
+    "text": "С удовольствием помогу👍",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37064697,
+        "id": "115106435274778755",
+        "time": 1756384815594,
+        "text": "С удовольствием помогу👍",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115106436000859085",
+    "time": 1756384826673,
+    "text": "Примерно на час- полтора?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "id": "115106437764027288",
+    "time": 1756384853577,
+    "text": "Я тоже могу 🙌🏻",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37064697,
+        "id": "115106436000859085",
+        "time": 1756384826673,
+        "text": "Примерно на час- полтора?)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115106439451207377",
+    "time": 1756384879321,
+    "text": "Я думаю, за часик управимся 👌",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37064697,
+        "id": "115106435274778755",
+        "time": 1756384815594,
+        "text": "С удовольствием помогу👍",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115106439900385476",
+    "time": 1756384886175,
+    "text": "Спасибо 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 35121200,
+        "id": "115106437764027288",
+        "time": 1756384853577,
+        "text": "Я тоже могу 🙌🏻",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115106440205455556",
+    "time": 1756384890830,
+    "text": "Спасибо 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115106440205455556",
+        "time": 1756384890830,
+        "text": "Спасибо 🙏",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1757234647379,
+    "id": "115107201224424604",
+    "time": 1756396503058,
+    "text": "Виктория Романовна, а сменку с черной подошвой но которая не оставляет следы можно? (Мы специально искали на подошве которая не красит)",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAACQCACdASomADIAPl0ijUWjoiEb9AA4BcSzgGc7TFquv+AP4AQ92satQ9zmFjhJEmLndLbfMSDO/BHURvTKOPtYE3ZCtZgtav5EJzUKgAD++qf5vzNvw1jjuYjN/TUvf2wu34gZljLLF8A2uX7VauCNBxk1uTZJRhcuuldf02+wOFwcHSaqP/lAPNAGHRtxLf76mKXzP9I2k11OMdceBmqdi488mrUgrfxMdSUqLZG98hWP2gD2T6GcOly89DNAehtp8CsSUpLiMJrrA+fvPfaHtpI4uE3WH8CfxynjAyP3OOyTokjMVoUyIXxhx3ZkNLuVWyj37LoYj4Nn1AkGud7y4H+MUauCRWJUAAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notskc4CaCQK3Oyz8PKnuEDSzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "jdYAHWfKn+U1GMxGNnzEK4qOnrYZ06IN/zT4t62bnPThloxTPYIMzjfXzwiUJD5fiANE7sC83CGQVP7K2B2Jk4Oh9Bj4JxQH",
+        "_type": "PHOTO",
+        "width": 1452,
+        "photoId": 96833584,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107253509120879",
+    "time": 1756397300859,
+    "text": "Если не красит, это замечательно! Я еще раз уточню этот вопрос, на всякий случай, ответ напишу)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 35121200,
+        "updateTime": 1757234647379,
+        "id": "115107201224424604",
+        "time": 1756396503058,
+        "text": "Виктория Романовна, а сменку с черной подошвой но которая не оставляет следы можно? (Мы специально искали на подошве которая не красит)",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRhgBAABXRUJQVlA4IAwBAACQCACdASomADIAPl0ijUWjoiEb9AA4BcSzgGc7TFquv+AP4AQ92satQ9zmFjhJEmLndLbfMSDO/BHURvTKOPtYE3ZCtZgtav5EJzUKgAD++qf5vzNvw1jjuYjN/TUvf2wu34gZljLLF8A2uX7VauCNBxk1uTZJRhcuuldf02+wOFwcHSaqP/lAPNAGHRtxLf76mKXzP9I2k11OMdceBmqdi488mrUgrfxMdSUqLZG98hWP2gD2T6GcOly89DNAehtp8CsSUpLiMJrrA+fvPfaHtpI4uE3WH8CfxynjAyP3OOyTokjMVoUyIXxhx3ZkNLuVWyj37LoYj4Nn1AkGud7y4H+MUauCRWJUAAAA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notskc4CaCQK3Oyz8PKnuEDSzhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "jZ1YNjMd1NfRsOsc+Ee+I0+6BF+uA9WrsP+fbO/BMoIj8h3sYC7wD6AiaAtNhaaIS/YKYhUhxCfWPPn55jchGjmTds/CmOfY",
+            "_type": "PHOTO",
+            "width": 1452,
+            "photoId": 96833584,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "id": "115107263598721966",
+    "time": 1756397454814,
+    "text": "Администрация разрешила 👍",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107264496883197",
+    "time": 1756397468519,
+    "text": "Спасибо большое ☺️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115107357181547481",
+    "time": 1756398882775,
+    "text": "Дорогие родители, отправьте мне, пожалуйста, свои номера 🙏\n\nНапример: +7921******* мама Пети Иванова",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107376000365315",
+    "time": 1756399169927,
+    "text": "+79650355550 - Наира, мама Анвара Джанакаева",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107409301080499",
+    "time": 1756399678056,
+    "text": "+79817567194, Алина, мама Поповой Алисы",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        },
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 2
+    },
+    "id": "115107412445511262",
+    "time": 1756399726036,
+    "text": "+79819989945 \nЮлия, мама Кристины Арефи",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 16119236,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107420464052855",
+    "time": 1756399848389,
+    "text": "+79811119191\nМария, мама Калюжина Максима",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Мария"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107426537243207",
+    "time": 1756399941059,
+    "text": "+79219714180\nЛюбовь, мама Муравьевой Ксении",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107426553511960",
+    "time": 1756399941307,
+    "text": "+79312903664\nАнастасия, мама Левшиной Алины",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107427870786347",
+    "time": 1756399961407,
+    "text": "+79213451650 Елена, мама Вадима Фарбера",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107439563982430",
+    "time": 1756400139831,
+    "text": "+79117095870 Елена, мама Платона Савельева",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107440271443529",
+    "time": 1756400150626,
+    "text": "+79626857320 Ольга, мама Руслана Арсланова",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 12072188,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107443776845849",
+    "time": 1756400204114,
+    "text": "+79214090683 Лариса, мама Семенова Семёна",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Лариса"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107471439720069",
+    "time": 1756400626216,
+    "text": "+79218695504 \nЕлена, мама Мальцева Андрея",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 34439283,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107516869463523",
+    "time": 1756401319419,
+    "text": "+79523979646 \nАнастасия, мама Маши Гапоненко",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107543334145313",
+    "time": 1756401723238,
+    "text": "+79816800690 Екатерина, мама Прохора Соловьева",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 36653686,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107544730646303",
+    "time": 1756401744547,
+    "text": "+79112705028 Софья, мама Феди Князева",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Софья"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "id": "115107785871489037",
+    "time": 1756405424064,
+    "text": "+79214253395 Татьяна,мама Филина Мирослава.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  }
+]

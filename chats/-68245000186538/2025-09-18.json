@@ -1,0 +1,1924 @@
+[
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758178130920,
+    "id": "115223471569509469",
+    "time": 1758170647728,
+    "text": "Доброе утро! Напоминаю про тетради в косую частую линию, сегодня они нам понадобятся. Кто еще не принес, нужно принести сегодня",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 41143905,
+    "reactionInfo": {},
+    "updateTime": 1758176933360,
+    "id": "115223474744336378",
+    "time": 1758170696172,
+    "text": "А подскажите те что в понедельник приносили они в школе остались?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Svetlana"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1758176933370,
+    "id": "115223475035470717",
+    "time": 1758170700614,
+    "text": "Мы приносили , но теперь найти не можем, вы их не собирали случайно?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758176933380,
+    "id": "115223475753205630",
+    "time": 1758170711566,
+    "text": "Собирала",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1757931250252,
+        "id": "115206802377238134",
+        "time": 1757916296039,
+        "text": "У Маши, Мирослава, Вадима, Николь, Василисы, Андрея (Ковалева), Марка, Максима тетради не те",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758176933389,
+    "id": "115223477848066952",
+    "time": 1758170743531,
+    "text": "Вот список)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "updateTime": 1758176933350,
+    "id": "115223480830797185",
+    "time": 1758170789044,
+    "text": "А у нас тетрадь «та», но она у нас🤷‍♀️",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 15598209,
+        "updateTime": 1758176933350,
+        "id": "115223480830797185",
+        "time": 1758170789044,
+        "text": "А у нас тетрадь «та», но она у нас🤷‍♀️",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758176933399,
+    "id": "115223483123718986",
+    "time": 1758170824031,
+    "text": "Несите в школу)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758176933409,
+    "id": "115223515558319863",
+    "time": 1758171318944,
+    "text": "Доброе утро. Заявление у Саше в рюкзаке.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758176933459,
+    "id": "115223618882971207",
+    "time": 1758172895553,
+    "text": "У Платона в рюкзаке есть запасная в косую линейку, можете кому-то отдать, у кого нет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758176933468,
+    "id": "115223624101408325",
+    "time": 1758172975180,
+    "text": "У меня нет 3 дневников, жду завтра)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758176933478,
+    "id": "115223627037352972",
+    "time": 1758173019979,
+    "text": "Доброе утро, заявления у Анвара в рюкзаке, если вдруг сам забудет отдать",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 20327933,
+    "reactionInfo": {},
+    "updateTime": 1758176933488,
+    "id": "115223659605283953",
+    "time": 1758173516926,
+    "text": "Нам еще не приехали тетради(. Может кто поделится? 😳",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🙏"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758176933419,
+    "id": "115223662397955283",
+    "time": 1758173559539,
+    "text": "У меня 2 есть)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1758176933429,
+    "id": "115223675235492429",
+    "time": 1758173755424,
+    "text": "А у Анвара тетрадь забирали? А то он говорит, что принес неправильную",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758176933498,
+    "id": "115223678539614234",
+    "time": 1758173805841,
+    "text": "У него та, я ее забрала",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🤣"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758176933439,
+    "id": "115223681977445206",
+    "time": 1758173858298,
+    "text": "Виктория Романовна, Саша бутылку для воды потерял. Посмотрите, пожалуйста. Благодарю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 29282029,
+    "reactionInfo": {},
+    "updateTime": 1758176933508,
+    "id": "115223780422280936",
+    "time": 1758175360447,
+    "text": "Доброе утро. Прохор тоже принес заявление, оно в рюкзаке )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Foksi"
+  },
+  {
+    "sender": 22059208,
+    "reactionInfo": {},
+    "updateTime": 1758176933518,
+    "id": "115223783496893831",
+    "time": 1758175407362,
+    "text": "Доброе утро )) у Марка тоже с собой, должен передать",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Валентина"
+  },
+  {
+    "sender": 41143905,
+    "reactionInfo": {},
+    "updateTime": 1758176933449,
+    "id": "115223784866927303",
+    "time": 1758175428267,
+    "text": "У Марины тоже заявление в рюкзаке)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Svetlana"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758178130920,
+        "id": "115223471569509469",
+        "time": 1758170647728,
+        "text": "Доброе утро! Напоминаю про тетради в косую частую линию, сегодня они нам понадобятся. Кто еще не принес, нужно принести сегодня",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758178130931,
+    "id": "115223844652390177",
+    "time": 1758176340521,
+    "text": "Василек вчера такую в школе оставила(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {},
+    "updateTime": 1758176933528,
+    "id": "115223856831617406",
+    "time": 1758176526361,
+    "text": "И у Кристины заявление в рюкзаке",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "updateTime": 1758178130941,
+    "id": "115223869126491574",
+    "time": 1758176713966,
+    "text": "А Василька тетрадь нашлась?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37353144,
+        "updateTime": 1758178130941,
+        "id": "115223869126491574",
+        "time": 1758176713966,
+        "text": "А Василька тетрадь нашлась?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758178130952,
+    "id": "115223956316759450",
+    "time": 1758178044384,
+    "text": "Да, я их собирала",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "💯"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1758191306381,
+    "id": "115224186874261601",
+    "time": 1758181562412,
+    "text": "Прошу прощения, еще хотела обратить внимание, что и 7 летним никуда не удалось записаться )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 27765758,
+        "updateTime": 1758191306381,
+        "id": "115224186874261601",
+        "time": 1758181562412,
+        "text": "Прошу прощения, еще хотела обратить внимание, что и 7 летним никуда не удалось записаться )",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758191301254,
+    "id": "115224194281142857",
+    "time": 1758181675432,
+    "text": "Мест нет? Или из за возраста?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1758191297474,
+    "id": "115224196570500997",
+    "time": 1758181710365,
+    "text": "Мест нет, нигде кроме хора)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {},
+    "updateTime": 1758191285747,
+    "id": "115224197398493310",
+    "time": 1758181722999,
+    "text": "Через час уже не было после открытия записи",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {},
+    "updateTime": 1758191282700,
+    "id": "115224198422033327",
+    "time": 1758181738617,
+    "text": "Через 5 минут уже не было записи))))",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "elements": [
+      {
+        "type": "USER_MENTION",
+        "length": 5,
+        "entityId": 32320433
+      },
+      {
+        "type": "UNDERLINE",
+        "length": 5
+      },
+      {
+        "type": "USER_MENTION",
+        "length": 5,
+        "entityId": 32320433
+      },
+      {
+        "length": 15,
+        "entityId": 47298472,
+        "from": 6,
+        "type": "USER_MENTION"
+      },
+      {
+        "type": "UNDERLINE",
+        "length": 15,
+        "from": 6
+      },
+      {
+        "length": 15,
+        "entityId": 47298472,
+        "from": 6,
+        "type": "USER_MENTION"
+      },
+      {
+        "type": "UNDERLINE",
+        "length": 13,
+        "from": 22
+      },
+      {
+        "length": 13,
+        "entityId": 32011993,
+        "from": 22,
+        "type": "USER_MENTION"
+      },
+      {
+        "length": 13,
+        "entityId": 32011993,
+        "from": 22,
+        "type": "USER_MENTION"
+      }
+    ],
+    "updateTime": 1758191293114,
+    "id": "115224199212451624",
+    "time": 1758181750678,
+    "text": "Наира Гюнель Мирзаева Рашад Мирзаев у Даниса и Анвара нет дневников, нужно завтра принести",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1758191279555,
+    "id": "115224201367996379",
+    "time": 1758181783569,
+    "text": "Анвар вторую неделю дневник в рюкзаке таскает",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1758191289193,
+    "id": "115224201666525853",
+    "time": 1758181788124,
+    "text": "Думала вы забрали",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 3
+    },
+    "updateTime": 1758739612386,
+    "id": "115224205310060169",
+    "time": 1758181843720,
+    "text": "‼️КРУЖКИ‼️\n\nВо вторник те, кто не смог записаться из за восзоаста, приходят к заму по ОДОД",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758739612396,
+    "id": "115224206325611894",
+    "time": 1758181859216,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRigBAABXRUJQVlA4IBwBAACQBgCdASoyACkAAUAmJaQAEP7/zv6AFuvEp/5UFjFyTwspeoYry0EpUA/zF0UAfsznJh3WH0s/RqqWVF2AAP7+2AW66OPNM0B8wdPflRmBleaidonlLP96JvVtlshD31B7YLWxqGKNilLv4dX/OksQg3NVypRMTk7I78bV374uyitz4uou9mvJY8YL1QhP+3zq1p3vopP8utlVnFu2B++WeX5FdECvuUaO32f/eKD3KLyNEDEgUwXwrM547yBNG0nPtzIsk7H9/TF7fX2PNN88y/LuGgRRz/9cZJ/fDP26/300FFIID6gRDzXOfAArYg/9VnVy+F7K6QcjZUighkCQ9jxKWAv3jRPcqpjEP8Fwc/P8pVzjFwAJeAAAAA==",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotyBbLuf-5b8i0cLGKm_cnPThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "Y+FoxQJIWLn5xshdAVEE2HF+eHjj+TuTpaov5jZG15UYqJjOK35TW2/2KUOed+Rd9YfrjHUQsQJMCiDS76ngRP6KDaYKN3On",
+        "_type": "PHOTO",
+        "width": 1179,
+        "photoId": 291480644,
+        "height": 968
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "❤️"
+        },
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 4
+    },
+    "elements": [
+      {
+        "type": "UNDERLINE",
+        "length": 12,
+        "from": 9
+      },
+      {
+        "length": 12,
+        "entityId": 35121200,
+        "from": 9,
+        "type": "USER_MENTION"
+      },
+      {
+        "length": 12,
+        "entityId": 35121200,
+        "from": 9,
+        "type": "USER_MENTION"
+      }
+    ],
+    "updateTime": 1758182036022,
+    "id": "115224208157775689",
+    "time": 1758181887173,
+    "text": "Спасибо, Инна Фролова , что узнали 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 32320433,
+        "updateTime": 1758191279555,
+        "id": "115224201367996379",
+        "time": 1758181783569,
+        "text": "Анвар вторую неделю дневник в рюкзаке таскает",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758182036033,
+    "id": "115224216648033952",
+    "time": 1758182016724,
+    "text": "Я не нашла…",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739612386,
+        "id": "115224205310060169",
+        "time": 1758181843720,
+        "text": "‼️КРУЖКИ‼️\n\nВо вторник те, кто не смог записаться из за восзоаста, приходят к заму по ОДОД",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758199393307,
+    "id": "115224278128797049",
+    "time": 1758182954846,
+    "text": "Всем доброе утро! Нужно записываться или просто приходим в приемное время?) мне пока не удалось уточнить эту информацию",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37064697,
+        "updateTime": 1758199393307,
+        "id": "115224278128797049",
+        "time": 1758182954846,
+        "text": "Всем доброе утро! Нужно записываться или просто приходим в приемное время?) мне пока не удалось уточнить эту информацию",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758191271501,
+    "id": "115224286314321943",
+    "time": 1758183079747,
+    "text": "Давайте, Вы попробуете уточнить, если получится, то супер, если нет, то без записи, в приемное время",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758188568737,
+    "id": "115224629785874326",
+    "time": 1758188320707,
+    "text": "Напоминаю, забираем у главного входа",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758188557293,
+    "id": "115224636753071448",
+    "time": 1758188427018,
+    "text": "Агату, Ваню и Анвара выпускаю?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1758188557304,
+    "id": "115224637983953789",
+    "time": 1758188445800,
+    "text": "Да, отпускайте пожалуйста)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758739612375,
+        "id": "115220677052801393",
+        "time": 1758128006787,
+        "text": "Мой Петербург 6, остальные 5",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758191253896,
+    "id": "115224640927332606",
+    "time": 1758188490712,
+    "text": "Я ничего не понимаю ….вчера же сказали что сегодня будет 6 уроков и дети до 13:35!?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33031021,
+        "updateTime": 1758191253896,
+        "id": "115224640927332606",
+        "time": 1758188490712,
+        "text": "Я ничего не понимаю ….вчера же сказали что сегодня будет 6 уроков и дети до 13:35!?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758191263900,
+    "id": "115224647724264273",
+    "time": 1758188594425,
+    "text": "Понедельник и вторник 5 уроков\nСреда, четверг и пятница - 4",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 37353144,
+        "updateTime": 1758191210124,
+        "id": "115224650272232285",
+        "time": 1758188633304,
+        "text": "А внеурочные?",
+        "type": "USER",
+        "status": "REMOVED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758199428772,
+    "id": "115224654777550564",
+    "time": 1758188702050,
+    "text": "На внеурочные можно иногда не ходить, но в неделю должно быть 2 часа",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "updateTime": 1758191239905,
+    "id": "115224673167046926",
+    "time": 1758188982651,
+    "text": "Виктория Романовна, внеурочка начнётся со следующей недели?\nПока же были только уроки о важном?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 42810996,
+        "updateTime": 1758191239905,
+        "id": "115224673167046926",
+        "time": 1758188982651,
+        "text": "Виктория Романовна, внеурочка начнётся со следующей недели?\nПока же были только уроки о важном?",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758191239916,
+    "id": "115224674016050410",
+    "time": 1758188995606,
+    "text": "Да, со следующей",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1758191239926,
+    "id": "115224685197547501",
+    "time": 1758189166222,
+    "text": "Виктория Романовна, Анвар говорит что дневник сдал, он у него подписан",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758191239936,
+    "id": "115224686924754047",
+    "time": 1758189192577,
+    "text": "Сейчас перепроверю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1758191239946,
+    "id": "115224688773463712",
+    "time": 1758189220786,
+    "text": "С машинкой, обклеен в пленку",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758191239956,
+    "id": "115224689672590285",
+    "time": 1758189234506,
+    "text": "Нашла!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 32320433,
+    "reactionInfo": {},
+    "updateTime": 1758191239966,
+    "id": "115224690171920057",
+    "time": 1758189242125,
+    "text": "Отлично!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Наира"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758178155208,
+        "id": "115220458758105138",
+        "time": 1758124675874,
+        "text": "Да, это постоянное расписание, но потом буду менять. Кружков не будет, а внеурочная деятельность завтра будет",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758191219715,
+    "id": "115224691981223374",
+    "time": 1758189269733,
+    "text": "Я туплю ,простите ….кружки это то куда мы записываем детей сами через сайт,а Внеурочка то что в расписании зеленый и она обязательна.Все будет со следующей недели?)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "updateTime": 1758191239976,
+    "id": "115224693152161389",
+    "time": 1758189287600,
+    "text": "Сорокина выпускайте)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33031021,
+        "updateTime": 1758191219715,
+        "id": "115224691981223374",
+        "time": 1758189269733,
+        "text": "Я туплю ,простите ….кружки это то куда мы записываем детей сами через сайт,а Внеурочка то что в расписании зеленый и она обязательна.Все будет со следующей недели?)",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758191227128,
+    "id": "115224693862505090",
+    "time": 1758189298439,
+    "text": "Да) из зелёных можно выбрать только 2",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "updateTime": 1758191227138,
+    "id": "115224694593113514",
+    "time": 1758189309587,
+    "text": "А можно на все ходить",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758191227117,
+    "id": "115224695055477311",
+    "time": 1758189316642,
+    "text": "Спасибо",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1758191227148,
+    "id": "115224701288467137",
+    "time": 1758189411750,
+    "text": "Николь, Кристина и Прохор получили заявления на кружок театрального мастерства, заполняем и завтра приносим. Еще у Вас немного поменяли расписание, на заявлении указано",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758198240775,
+    "id": "115224989250230829",
+    "time": 1758193805698,
+    "text": "Здравствуйте, Попову Алису отпускайте☺",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 33953969,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758198240764,
+    "id": "115225023320318673",
+    "time": 1758194325566,
+    "text": "Добрый день!\nВыпускайте Мальцева Андрея",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758199401891,
+    "id": "115225031957822507",
+    "time": 1758194457364,
+    "text": "Здравствуйте , пришли за Мирославом.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758199428782,
+    "id": "115225031963918999",
+    "time": 1758194457457,
+    "text": "Кто то успел?",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASoXADIAPlUei0WjoaEd9AA4BUSzgAnIAQzk8LVZHtkcWq3P7HXkxRphq1L9+bX0ZVvXQAD+/nJzj1+s+WyGa7Nka/aDliP8ZPD8+17wG/p3I+1qVWLxIu4YaefnWNQJvwUKCYoTQmbesNJilusvN/XqqF456uD2RUe3/LLbvYO0RbxVznKy9hRSugGoEPwrKT5UxY2nI0VLy/v909smx+nhVLndoJc+Fbrmx2/z587u5tBWR98t8/ow0ptlghv2BZ38nJn9G0+o8Aj57Az4CiwqqGzPwVRbQJ1/qSpYAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notw6DjoPooq9_emR5trfSiCThVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "yQc7VOpR5K3+Rqr9h3+KtoBIcQyZ4CAmnq1JOLN8HxKnqlmvkzY4lpxy7nVHqC9bE7ce/BuEWn4jmSHfDqf7s59d+edR/Um5",
+        "_type": "PHOTO",
+        "width": 887,
+        "photoId": 293296708,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 31203251,
+    "reactionInfo": {},
+    "updateTime": 1758199439625,
+    "id": "115225033527806837",
+    "time": 1758194481320,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRiwBAABXRUJQVlA4ICABAADwBwCdASoyACYAPlUei0WjoaEepAA4BUSyj4AA2i7f8M5hNl/z+jsE1eRIlqlomIy0yqNhuoWGlaV2/bgG4vuPTebsCLs/WAAA/p3Hr6aPliArq13L2GLJHReHWXkSScVcVK0AHygQQDdLtdezx1O1PZCN7jj+xZeLo+4qOkN/Z1Ee7BtjNOtR0L5wVOhuMkWTZP02bJTtaVv8tO2N/NUhfxH2cSJ7/Q3UURIvDM/VJZpa7OXdWOQZP1rhzQKcIjIvZTWw+S1QQejXAIrQahEV2+dA3WfJD2Pvwm2F7ctyac2tCtAy837q0t54LUZN9hdYiKO0wCEqiVfDeNY/TkTC2MbdGa3xobCVytqBSKYe+QGQ/n4IdbdEwUUFofzAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notdcf8HJynPoNWr0Jid-RdTDhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "CK+ZEhObTWuOEd//sLG6yO42kCTTWRXY73RqFyjCW8cPMWRgy2BzROL/GB6EqdEhfUO72FrTcCmakw70awAmsKREiRGxE4DgUx56BN+ZQoU=",
+        "_type": "PHOTO",
+        "width": 1920,
+        "photoId": 224819891,
+        "height": 1440
+      }
+    ],
+    "sender_name": "Константин"
+  },
+  {
+    "sender": 31203251,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758199428782,
+        "id": "115225031963918999",
+        "time": 1758194457457,
+        "text": "Кто то успел?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASoXADIAPlUei0WjoaEd9AA4BUSzgAnIAQzk8LVZHtkcWq3P7HXkxRphq1L9+bX0ZVvXQAD+/nJzj1+s+WyGa7Nka/aDliP8ZPD8+17wG/p3I+1qVWLxIu4YaefnWNQJvwUKCYoTQmbesNJilusvN/XqqF456uD2RUe3/LLbvYO0RbxVznKy9hRSugGoEPwrKT5UxY2nI0VLy/v909smx+nhVLndoJc+Fbrmx2/z587u5tBWR98t8/ow0ptlghv2BZ38nJn9G0+o8Aj57Az4CiwqqGzPwVRbQJ1/qSpYAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notw6DjoPooq9_emR5trfSiCThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "FNacCEfALVCDveIaY4OSx3PFPFl7mxu1kcusdu2fmcbXgYTkYM9sx5FVxfN2okfFJ/uqtlFCpY5Mbs8+j2cDy0OUS5GfM1hR",
+            "_type": "PHOTO",
+            "width": 887,
+            "photoId": 293296708,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758199428792,
+    "id": "115225034183231512",
+    "time": 1758194491321,
+    "text": "Успели",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Константин"
+  },
+  {
+    "sender": 35517271,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758199428801,
+    "id": "115225035252788485",
+    "time": 1758194507641,
+    "text": "Здравствуйте! Успела записать Мартина на творческую мастерскую",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Оля"
+  },
+  {
+    "sender": 18941460,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758199428782,
+        "id": "115225031963918999",
+        "time": 1758194457457,
+        "text": "Кто то успел?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASoXADIAPlUei0WjoaEd9AA4BUSzgAnIAQzk8LVZHtkcWq3P7HXkxRphq1L9+bX0ZVvXQAD+/nJzj1+s+WyGa7Nka/aDliP8ZPD8+17wG/p3I+1qVWLxIu4YaefnWNQJvwUKCYoTQmbesNJilusvN/XqqF456uD2RUe3/LLbvYO0RbxVznKy9hRSugGoEPwrKT5UxY2nI0VLy/v909smx+nhVLndoJc+Fbrmx2/z587u5tBWR98t8/ow0ptlghv2BZ38nJn9G0+o8Aj57Az4CiwqqGzPwVRbQJ1/qSpYAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notw6DjoPooq9_emR5trfSiCThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "kTsSMol/qgZaoSiESjb0QfiwxzzlobdvkMm5MpcdbV5ZmkiIBQs6ua3mzEDcyyBLu++uHmtHbISWCXm7OXaC94mhXrDWmo26",
+            "_type": "PHOTO",
+            "width": 887,
+            "photoId": 293296708,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758199428811,
+    "id": "115225036952322196",
+    "time": 1758194533574,
+    "text": "Успели)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {},
+    "options": 1,
+    "updateTime": 1758199428821,
+    "id": "115225037005591650",
+    "time": 1758194534387,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "duration": 1088,
+        "audioId": 9905435598902,
+        "_type": "AUDIO",
+        "url": "https://vd269.okcdn.ru/?expires=1759909947203&srcIp=185.237.238.158&pr=96&srcAg=CHROME_MAC&ms=185.226.52.19&type=2&sig=1dEIrLtQ8RA&ct=2&urls=185.226.55.23&clientType=51&appId=1251240704&zs=12&id=8897827506742",
+        "wave": "data:image/webp;base64,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASHjE/PjxLZ19NQ0hTTklCRT5OT0NDVWRYP05RXE9eZGpgX11hcGp8fX1wbWdpdn99fXR8dn0=",
+        "transcriptionStatus": "NOT_SUPPORTED",
+        "token": "f9LHodD0cOItgzUt8HbJyH12ipzudtMzm4_IOSCwhrKpwDwPqgvLpZ5IPKSDDZ6OZ-wtmtBOI8zttxAC0uhN"
+      }
+    ],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758199428782,
+        "id": "115225031963918999",
+        "time": 1758194457457,
+        "text": "Кто то успел?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASoXADIAPlUei0WjoaEd9AA4BUSzgAnIAQzk8LVZHtkcWq3P7HXkxRphq1L9+bX0ZVvXQAD+/nJzj1+s+WyGa7Nka/aDliP8ZPD8+17wG/p3I+1qVWLxIu4YaefnWNQJvwUKCYoTQmbesNJilusvN/XqqF456uD2RUe3/LLbvYO0RbxVznKy9hRSugGoEPwrKT5UxY2nI0VLy/v909smx+nhVLndoJc+Fbrmx2/z587u5tBWR98t8/ow0ptlghv2BZ38nJn9G0+o8Aj57Az4CiwqqGzPwVRbQJ1/qSpYAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notw6DjoPooq9_emR5trfSiCThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "ndPvMaoA2QHstthgV27P3ndWfBNdnsanIEPzsGSGsy24ejL76bpsc/W/9c+xg/L7ySf5vuSAllAVt9g2OxjaOjc4K5232k/o",
+            "_type": "PHOTO",
+            "width": 887,
+            "photoId": 293296708,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758199448942,
+    "id": "115225038921170479",
+    "time": 1758194563616,
+    "text": "Да, и отбивка пришла на почту",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADQBACdASoXADIAAUAmJaQAHBSFVrx/JgXyyc2jK3l4nyk+IMhgQ/DUFPXXluGWKAD+/v+w6KPRGdp/1uFaDVULhcVeNfAFzMV4sOnRwz/QaVfrcW6M6UNXN1SWMkf/RdPAK4BlpT3OY0OID90z6SAJ1E54sjmLCA6/wk08cA/DQYCtMlgtSPbwZ0IArSdCTm2PWgl6AsSS9act5uM7ZE2j25DI88B8gAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotO81RW-GaBKCU6n5P_JRQ_zhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "0MK0z1KZRAxACKBew9qSi52GfaHULAh6qOLZXTS3IxuCGWK8pNW5P070hA1T0WjbqEPi3ygXXPEXfOBr/d8dbUnEm+1E2W56",
+        "_type": "PHOTO",
+        "width": 883,
+        "photoId": 259356033,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 31203251,
+    "reactionInfo": {},
+    "updateTime": 1758199472228,
+    "id": "115225041171141514",
+    "time": 1758194597948,
+    "text": "Обратите внимание еще появился Волшебный клубок )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Константин"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "updateTime": 1758199472239,
+    "id": "115225049774376207",
+    "time": 1758194729223,
+    "text": "Я не успела записать Алину(",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 38227480,
+    "reactionInfo": {},
+    "updateTime": 1758199472249,
+    "id": "115225052774487359",
+    "time": 1758194775001,
+    "text": "Мирослав ,успел записаться.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {},
+    "updateTime": 1758199472259,
+    "id": "115225055752580133",
+    "time": 1758194820443,
+    "text": "Добрый день! Ксению успела записать на творческую мастерскую",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758199428782,
+        "id": "115225031963918999",
+        "time": 1758194457457,
+        "text": "Кто то успел?",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASoXADIAPlUei0WjoaEd9AA4BUSzgAnIAQzk8LVZHtkcWq3P7HXkxRphq1L9+bX0ZVvXQAD+/nJzj1+s+WyGa7Nka/aDliP8ZPD8+17wG/p3I+1qVWLxIu4YaefnWNQJvwUKCYoTQmbesNJilusvN/XqqF456uD2RUe3/LLbvYO0RbxVznKy9hRSugGoEPwrKT5UxY2nI0VLy/v909smx+nhVLndoJc+Fbrmx2/z587u5tBWR98t8/ow0ptlghv2BZ38nJn9G0+o8Aj57Az4CiwqqGzPwVRbQJ1/qSpYAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Notw6DjoPooq9_emR5trfSiCThVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "4wOLpOzhrZiFcZzfiofn4QogH3CoUpLpb0doy+EyaMYXvHL6CG/nAmzSXKkDlFcc+2hidBwKbS/6ElJwpDo7y1m4t9wB7DRR",
+            "_type": "PHOTO",
+            "width": 887,
+            "photoId": 293296708,
+            "height": 1920
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758199472269,
+    "id": "115225063075285007",
+    "time": 1758194932179,
+    "text": "Мы тоже успели 🥳",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 33031021,
+    "reactionInfo": {},
+    "updateTime": 1758199375862,
+    "id": "115225076322403812",
+    "time": 1758195134314,
+    "text": "Мы записались на волшебный клубок ошибочно ….может кто то будет за нас ходить ?если так можно 🙈",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Olga"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 33031021,
+        "updateTime": 1758199375862,
+        "id": "115225076322403812",
+        "time": 1758195134314,
+        "text": "Мы записались на волшебный клубок ошибочно ….может кто то будет за нас ходить ?если так можно 🙈",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758199375875,
+    "id": "115225090877230174",
+    "time": 1758195356403,
+    "text": "Вы же можете отказаться.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 35121200,
+    "reactionInfo": {},
+    "updateTime": 1758199351016,
+    "id": "115225219561705245",
+    "time": 1758197319972,
+    "text": "За Николь подошли",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Инна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758199351029,
+    "id": "115225228095722216",
+    "time": 1758197450191,
+    "text": "Отправляю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 27765758,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758199351054,
+    "id": "115225299375621781",
+    "time": 1758198537836,
+    "text": "Раевского выпускайте",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анна"
+  },
+  {
+    "sender": 35284462,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758199351066,
+    "id": "115225309854582468",
+    "time": 1758198697732,
+    "text": "За Вадимом тоже пришли",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алексей"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758199351041,
+    "id": "115225311299645400",
+    "time": 1758198719782,
+    "text": "Отпускаю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758199472278,
+    "id": "115225356057605916",
+    "time": 1758199402734,
+    "text": "Напоминаю! Встречаем у главного входа",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 12130753,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758199472288,
+    "id": "115225360227000778",
+    "time": 1758199466354,
+    "text": "Добрый день! За Ксенией пришли",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Любовь"
+  },
+  {
+    "sender": 11725768,
+    "reactionInfo": {},
+    "updateTime": 1758206489154,
+    "id": "115225367296826044",
+    "time": 1758199574231,
+    "text": "За Русланом пришел папа, отправьте пожалуйста одеваться",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ольга"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "updateTime": 1758206489167,
+    "id": "115225368096429642",
+    "time": 1758199586432,
+    "text": "Пришла за Артемом)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 22059208,
+    "reactionInfo": {},
+    "updateTime": 1758206489181,
+    "id": "115225368541621861",
+    "time": 1758199593225,
+    "text": "Добрый день. За Марком подошла )",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Валентина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758206489193,
+    "id": "115225371112069525",
+    "time": 1758199632447,
+    "text": "Игрушки убирают и выходят",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 46661934,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758206489206,
+    "id": "115225379496677265",
+    "time": 1758199760386,
+    "text": "Добрый день,за Прохором пришли)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Михаил"
+  },
+  {
+    "sender": 15598209,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758206489219,
+    "id": "115225390405680145",
+    "time": 1758199926844,
+    "text": "Пришла за Кристиной)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Юлия"
+  },
+  {
+    "sender": 35517271,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758206489231,
+    "id": "115225395922096144",
+    "time": 1758200011018,
+    "text": "Пришла за Мартином",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Оля"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1758206489244,
+    "id": "115225488224298335",
+    "time": 1758201419438,
+    "text": "Здравствуйте. Можно Александра отправить переодеваться. Пришли за ним",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758206489257,
+    "id": "115225489161198280",
+    "time": 1758201433734,
+    "text": "Звоните воспитателю",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "updateTime": 1758206489270,
+    "id": "115225585705576692",
+    "time": 1758202906884,
+    "text": "Здравствуйте! Жду Даниса на улице",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758206489257,
+        "id": "115225489161198280",
+        "time": 1758201433734,
+        "text": "Звоните воспитателю",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758206489283,
+    "id": "115225586681388965",
+    "time": 1758202921774,
+    "text": ")",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 47298472,
+    "reactionInfo": {},
+    "updateTime": 1758206489295,
+    "id": "115225589557497413",
+    "time": 1758202965660,
+    "text": "Напишите пожалуйста номер воспитателя",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Гюнель"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "id": "115174856319069701",
+        "time": 1757428837876,
+        "text": "Когда подходите к школе после 16:00, звоните Ксении Андреевне\n\n89657636553",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758206489308,
+    "id": "115225593363573588",
+    "time": 1758203023736,
+    "text": ".",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758206489320,
+    "id": "115225613204944590",
+    "time": 1758203326491,
+    "text": "Информация по кружкам от зама:\n\nПрийти можно, но записаться при наличии вакантных мест.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758216380489,
+        "id": "115218796279985459",
+        "time": 1758099308471,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRtwAAABXRUJQVlA4INAAAADQBQCdASoyABcAPlUei0WjoaEd9AA4BUS0gAOCDbpLgYfdV61LV/IOyqPmBp/fpQMMrYejD7gAAP7+e9xyKwudoPeSy73hLG7BWeD9zFDEbp5sd88WAp76ZgWoyXwAHbrLSjgq4jXcufnNoJQJZO0apwCTYoRXu6vfhFJz8qL87t8PrvO5nz5IBbIqNTt4PINfb6t1ntZUjjns1771s9Vx8vS+FZw/p3l+h/3xfa4sFiPTC8ExLGSmhrjz5Rx3X+suLsp7KMZc6TTTdGCbgAAA",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotemN074kjaqrP_wW6hXWT5DhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "M1v6m+0KmLejvM8RdSR+CNmttrHCYnpUITR3FEEhOKHbOxJSY9WhGM+vlEY1rgtp2IXJsF316+6obZkkFkx06ZgSnAz6SRks",
+            "_type": "PHOTO",
+            "width": 1145,
+            "photoId": 282726980,
+            "height": 519
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758261239541,
+    "id": "115225618868282055",
+    "time": 1758203412907,
+    "text": "Завтра физкультура! 🥳 лучше дать ребёнку одежду для улицы, так как у нас будет замена педагога. Наш педагог повредил ногу(",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 36325681,
+    "reactionInfo": {},
+    "updateTime": 1758213662711,
+    "id": "115226280096239821",
+    "time": 1758213502445,
+    "text": "Виктория Романовна,а можно закрепить таблицу,чтобы можно было заполнить на завтра",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 36325681,
+    "id": "115226420489318086",
+    "time": 1758215644673,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "add",
+        "userIds": [
+          66775681
+        ]
+      }
+    ],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1758217246225,
+    "id": "115226468936400744",
+    "time": 1758216383917,
+    "text": "Подскажите, пожалуйста, русский и литература- прописи и все?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758217246238,
+    "id": "115226471892866901",
+    "time": 1758216429029,
+    "text": "Да",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "updateTime": 1758217246251,
+    "id": "115226472922555356",
+    "time": 1758216444741,
+    "text": "И тетрадь в косую частую линейку (я сегодня им ее отдала)",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1758217246264,
+    "id": "115226485577421450",
+    "time": 1758216637839,
+    "text": "К ,сожалению ,у нас нет. В рюкзаке только математика.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758217246277,
+    "id": "115226490136908874",
+    "time": 1758216707411,
+    "text": "Я сегодня отдавала тетради….",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1758217246290,
+    "id": "115226491124867001",
+    "time": 1758216722486,
+    "text": "Положу еще одну.\nПроверьте завтра.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11018897,
+    "reactionInfo": {},
+    "updateTime": 1758217246315,
+    "id": "115226497190333145",
+    "time": 1758216815038,
+    "text": "Говорит давали. Может в классе оставил. Посмотрите, пожалуйста, завтра.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "updateTime": 1758217246303,
+    "id": "115226500827467341",
+    "time": 1758216870536,
+    "text": "Хорошо 👌",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 44502596,
+        "updateTime": 1758261239541,
+        "id": "115225618868282055",
+        "time": 1758203412907,
+        "text": "Завтра физкультура! 🥳 лучше дать ребёнку одежду для улицы, так как у нас будет замена педагога. Наш педагог повредил ногу(",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1758221996878,
+    "id": "115226558960660006",
+    "time": 1758217757578,
+    "text": "Вот",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 9,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 9
+    },
+    "updateTime": 1758221991743,
+    "id": "115226597394831658",
+    "time": 1758218344037,
+    "text": "Добрый вечер! Дорогие родители, я все понимаю, работа, дела по дому и так далее, но, пожалуйста, читайте сообщения, которые я пишу…. \n\nА то я и в классе повторяю все по 100 раз и тут 🦜",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  }
+]

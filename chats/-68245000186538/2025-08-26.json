@@ -1,0 +1,251 @@
+[
+  {
+    "sender": 35284462,
+    "reactionInfo": {},
+    "id": "115094129889906805",
+    "time": 1756197050322,
+    "text": "Добрый день. Как то изменилась канцелярия для детей? Если не сложно можете скинуть необходимый перечень 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алексей"
+  },
+  {
+    "sender": 12072188,
+    "reactionInfo": {},
+    "id": "115094220709388085",
+    "time": 1756198436117,
+    "text": "1. Ранец/портфель.\n2. Школьная форма. Спортивная форма.\n3. Сменная обувь. Сумка для сменной обуви.\n4. Обложки для книг плотные (когда выдадут учебники).\n5. Папка для тетрадей.\n6. Закладки.\n7. Пенал.\n8. Ручки шариковые, без кнопки, с прорезиненной поверхностью, тёмно-фиолетовая паста.\n9. Простые карандаши с мягким грифелем (мягкость HB).\n10. Цветные карандаши - 6 цветов (красный, синий, жёлтый, зелёный, коричневый, чёрный).\n11. Линейка 20 см (ДЕРЕВЯННАЯ), циркуль, треугольник (помещается в пенал).\n12. Ластики, точилка-контейнер.\n13. Цветная бумага (формат А4).\n14. Цветной и белый картон (формат А4).\n15. Клей-карандаш, клей ПВА (для труда), кисточка для клея.\n16. Пластилин (6-7 цветов), доска для лепки (для труда), стека.\n17. Ножницы с закругленными концами.\n18. Акварельные краски медовые (для ИЗО) и гуашь (6 цветов).\n19. Кисти № 3, № 5, № 8 (для ИЗО).\n20. Баночка-непроливайка.\n21. Папка для уроков труда (подписать).\n22. Фартук, нарукавники (для урока труда).",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Лариса"
+  },
+  {
+    "sender": 12072188,
+    "reactionInfo": {},
+    "id": "115094221985753350",
+    "time": 1756198455593,
+    "text": "Добрый день! Это список из группы VK.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Лариса"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {},
+    "id": "115094244319764326",
+    "time": 1756198796383,
+    "text": "Вот список от параллельного первого класса. Думаю у нас примерно такой же будет",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 12421452,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 2
+    },
+    "updateTime": 1757234647326,
+    "id": "115094244663326503",
+    "time": 1756198801625,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQBACdASoXADIAPlUgi0WjoiEd9AA4BUS0gABQWI29AxcXPk3Nb7ef+CwDDg7mAAD+/xpXcwP/90sGp/9TEaiZBS7T3MVI4Qc0B7z1Hw4o5Ug0icUAlmS/qm/1/0ir4slJtuWKWnLdCE4OzH5qg/+t3N7TxmPRlE+WyXysAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotB7V0gVUxqR9VU7FiQy6oEDhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "JHpWo+Qd3TrZ1noGsQGaPiKV2aH8UUJhlaDaE7TV70H3IRAoI7TFcfyxesv/WS83P59QpMzTI6ObM2dAAqyzqWSHOpv53PDE",
+        "_type": "PHOTO",
+        "width": 578,
+        "photoId": 82668620,
+        "height": 1280
+      }
+    ],
+    "sender_name": "Алина"
+  },
+  {
+    "sender": 11296682,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 12421452,
+        "updateTime": 1757234647326,
+        "id": "115094244663326503",
+        "time": 1756198801625,
+        "text": "",
+        "type": "USER",
+        "attaches": [
+          {
+            "previewData": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQBACdASoXADIAPlUgi0WjoiEd9AA4BUS0gABQWI29AxcXPk3Nb7ef+CwDDg7mAAD+/xpXcwP/90sGp/9TEaiZBS7T3MVI4Qc0B7z1Hw4o5Ug0icUAlmS/qm/1/0ir4slJtuWKWnLdCE4OzH5qg/+t3N7TxmPRlE+WyXysAAA=",
+            "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2NotB7V0gVUxqR9VU7FiQy6oEDhVCRuCB9LweYBPUPqBvxc",
+            "photoToken": "DN2Lmchn9DLRFG1yJcSmR2ObfE/+G3YSrTeOVqeeYoy0px4AV0UPpBkyBnW05mNbwnKuWmtmWRW0Lb/XmXndkRQN1oh8Dnqt",
+            "_type": "PHOTO",
+            "width": 578,
+            "photoId": 82668620,
+            "height": 1280
+          }
+        ]
+      },
+      "chatId": 0
+    },
+    "id": "115094473129734262",
+    "time": 1756202287746,
+    "text": "Добрый день!\n\nВ группе ВК размещён общий список, кл. руководтель может его дополнить и/или скорректировать под свой класс.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Екатерина Сергеевна"
+  },
+  {
+    "sender": 38857467,
+    "id": "115094612314236896",
+    "time": 1756204411533,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "joinByLink",
+        "userId": 38857467
+      }
+    ],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11296682,
+        "id": "115089794075288934",
+        "time": 1756130891041,
+        "text": "На медосмотр можно подойти в любой день до 1 сентября.\n\nПри себе иметь мед. документы и ребёнка.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "updateTime": 1756204958610,
+    "id": "115094643945651661",
+    "time": 1756204894190,
+    "text": "Добрый день! Вчера мне только сказали какой класс у ребенка и наш мед осмотр уже прошел, я предложила придти сегодня, мне отказали и сказали приходить 1 сентября на мед осмотр после линейки. Подскажите, все же можно в любой день придти?",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 38857467,
+        "updateTime": 1756204958610,
+        "id": "115094643945651661",
+        "time": 1756204894190,
+        "text": "Добрый день! Вчера мне только сказали какой класс у ребенка и наш мед осмотр уже прошел, я предложила придти сегодня, мне отказали и сказали приходить 1 сентября на мед осмотр после линейки. Подскажите, все же можно в любой день придти?",
+        "type": "USER",
+        "status": "EDITED",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115094789513180821",
+    "time": 1756207115374,
+    "text": "Уточните пожалуйста, если можно, мы завтра придем",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 11296682,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 38857467,
+        "id": "115094789513180821",
+        "time": 1756207115374,
+        "text": "Уточните пожалуйста, если можно, мы завтра придем",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115094793597620817",
+    "time": 1756207177698,
+    "text": "Уточню и напишу.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Екатерина Сергеевна"
+  },
+  {
+    "sender": 11296682,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 2,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 2
+    },
+    "options": 1,
+    "id": "115095172758389045",
+    "time": 1756212963232,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "duration": 33901,
+        "audioId": 10114264490147,
+        "_type": "AUDIO",
+        "url": "https://vd376.okcdn.ru/?expires=1759909951561&srcIp=185.237.238.158&pr=96&srcAg=CHROME_MAC&ms=185.226.52.71&type=2&sig=g3QXCVatdaA&ct=2&urls=185.226.55.15&clientType=51&appId=1251240704&zs=12&id=8518903335587",
+        "wave": "data:image/webp;base64,Hmlna2tvcnBxcFp1dHZzaXR+d3tte3ZoaHJZcH92fmh+SHR4c3h+bVl9a394f3Z/f1p/dnNpbn1Zfn98f39wOnZsaXVAfnRrbXlyen92dX8=",
+        "transcriptionStatus": "NOT_SUPPORTED",
+        "token": "f9LHodD0cOJaD_ODJjOpPhu4cCYIA-dxGMRst-4hBZsVsEnzEKn2dCoLR0_PGIOUXhzFAoeC0wV52LO5v_F9"
+      }
+    ],
+    "sender_name": "Екатерина Сергеевна"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {},
+    "id": "115095177654526867",
+    "time": 1756213037941,
+    "text": "Спасибо!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 36325681,
+    "id": "115095210714944916",
+    "time": 1756213542403,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "CONTROL",
+        "event": "joinByLink",
+        "userId": 36325681
+      }
+    ],
+    "sender_name": "Анастасия"
+  }
+]

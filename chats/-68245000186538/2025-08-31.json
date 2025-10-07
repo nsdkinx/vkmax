@@ -1,0 +1,271 @@
+[
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115122496461750302",
+    "time": 1756629889858,
+    "text": "Доброе утро! ☀️ \n\nЕсли ребёнок будет уходить домой самостоятельно, необходимо заполнить заявление и сдать во вторник, 2 сентября(!). Спасибо 🙏",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {},
+    "id": "115122497084810418",
+    "time": 1756629899365,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "_type": "FILE",
+        "name": "заявление на самостоят. дорогу школа-дом.docx",
+        "size": 8651,
+        "fileId": 3248036,
+        "token": "f9LHodD0cOIOVjL7iZj9U7IE0-336EIWaTfvnT8zpN1_XcycI2i9NanQ4kEg9oAOdMOuQ0oW_LmUIHePjCUH"
+      }
+    ],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 38857467,
+    "reactionInfo": {},
+    "id": "115123247410121146",
+    "time": 1756641348421,
+    "text": "Добрый день! Подскажите пожалуйста, завтра детки с рюкзаками идут?",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Anastasia L"
+  },
+  {
+    "sender": 42810996,
+    "reactionInfo": {},
+    "id": "115123249462342311",
+    "time": 1756641379735,
+    "text": "Завтра без рюкзаков",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Анастасия"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "❤️"
+        },
+        {
+          "count": 1,
+          "reaction": "👍"
+        }
+      ],
+      "totalCount": 4
+    },
+    "id": "115123250563124948",
+    "time": 1756641396532,
+    "text": "Без сменки, без рюкзаков, без ничего. Только хорошее настроение.",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 1,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 1
+    },
+    "link": {
+      "type": "REPLY",
+      "message": {
+        "sender": 11897935,
+        "id": "115123250563124948",
+        "time": 1756641396532,
+        "text": "Без сменки, без рюкзаков, без ничего. Только хорошее настроение.",
+        "type": "USER",
+        "attaches": []
+      },
+      "chatId": 0
+    },
+    "id": "115123411264371443",
+    "time": 1756643848638,
+    "text": "Добрый день! Хорошее настроение и бейджики! 🤗",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  },
+  {
+    "sender": 11897935,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 3,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 3
+    },
+    "updateTime": 1756652802153,
+    "id": "115123996420495382",
+    "time": 1756652777412,
+    "text": "Для получения справки у нотариуса необходимы: \n- оригинал паспорта заявителя (мама или папа)\n- оригинал свидетельства о рождении \n- данные паспорта дедушки/бабушки/няни (оригинал не нужен, личное присутствие не требуется) \n\nКак-будто бы можно сделать вообще одну доверенность сразу на всех бабушек/дедушек/нянь. Но лично не проверяла.",
+    "type": "USER",
+    "status": "EDITED",
+    "attaches": [],
+    "sender_name": "Елена"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 11,
+          "reaction": "🔥"
+        },
+        {
+          "count": 4,
+          "reaction": "❤️"
+        },
+        {
+          "count": 1,
+          "reaction": "😍"
+        }
+      ],
+      "totalCount": 16
+    },
+    "updateTime": 1757234647419,
+    "id": "115124322270407918",
+    "time": 1756657749487,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRpYBAABXRUJQVlA4IIoBAACwCACdASocADIAAUAmJZQDNT3y97vjnxu/zP6NUop/Fp3Z/sP41/Helu+gAuleX/SGYXBTgvMqawqYvz4zVKweC52JXXMhnI62S5BshwAA/pCNQgN4hdeIJpVNrrlaMEyHmh7ZnwSeT2FpW2/chUMSDiXIf8QX3vPGV6YXvzLCZFb9O/nu/z5p1c99PDl6vvzpwfybm5JLI5WtutZpSc4B5tESsQWLHytSeN3rVIC82SyftwIoipLR85X+NVjmHGAmI4Qkg+B76sPLhoP3k2dOPo9hV76l8LBLhXg/XrkwB/r5qkUa8UK5bVeVEGJdGdAU+E9yxBvGlpVG0V9agdBWqAxWwNcIB2+OVA11l097v1S+tfp6JbkSSnT/6OL7yHTa+C04rA7HYLAUrVXfInylx28zfL6IYCjMwkwO7CkqlgEogi6NQu5Pq/EubvxBpvNUcLbPf/8J1XsdhUX9/clWtjiqWmZGY7VrOIeMdwoAD5Y82n+oWK3ziJ3uVGGH5KGK4p7okBS1gAAA",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not4sgHNLg8Q1xUlt93qMfJSjhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "iQUb4WsqVzVxSwoI/spExFI1sibs9GN+eKXKGWZv8ne+LFx0sq/H3MjlVYcjxnlETH5s435fvMSiCjZLK0K1qNXW8HWCKX4wipRDD2AEZk8=",
+        "_type": "PHOTO",
+        "width": 1080,
+        "photoId": 131401209,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 37064697,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 7,
+          "reaction": "🔥"
+        }
+      ],
+      "totalCount": 7
+    },
+    "updateTime": 1757234647433,
+    "id": "115124355658052742",
+    "time": 1756658258942,
+    "text": "Такие стеллажи с диваном нам поставят в течение недели 👍",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewData": "data:image/webp;base64,UklGRowBAABXRUJQVlA4IIABAAAwCQCdASocADIAAUAmJQBfPdpEDIaeVtPrfsu2AeFXvANVG7iviANNm9Hn9E7wAw1OdsFheC4eGgfLXAAmOEgFIX0sbStOjDzK398RYjIflELAAP7CfmaoTcjaezEb0mPPQV5/G15Qztpmeu7KiNt+tCIxDEr95du/D6/ycwqnw/JKIbmnmf+iZ/yv/Q1Snb0/yW88HiUgB6eKc4EL+2bjIUHx5SJHXVtxCvj4hZALx8EeNzw3UAfMKQ7+/tt5sFgzONC5vlFTc0XFLXaAC1D0CFo3VsCuEDblXEeAiglJgULe1dUJUt5nc5AETmgBZzZqVRIXdISDuEpLOTYR19t8u7rMXFpAkNxrfPUnnDrVpGrUphiveT5KzpVooJ6MGo+Xbz2Fy8lboz1OUyLf1q/5QcWr6d1TYIdR5/sfQuHEHSq4K/MPhz9cdfXS6MIqfNd5VFS0jpoJKOTsAFZwYcTnFixJwKD20E6bSBaby3s6//b4jnZXIEaRreTfZCAAAAA=",
+        "baseUrl": "https://i.oneme.ru/i?r=BTE2sh_eZW7g8kugOdIm2Not0rkUUzcp0RY-tD-6Xfc9kzhVCRuCB9LweYBPUPqBvxc",
+        "photoToken": "VVMdC8NC1Fl0iLo856gs7AYYTaCWROxvpK5KDpoOBjXxseNzD0BVVYmhjvEZyJwuZwrGEZSD1rIOrYp57uD9Vq2QZ3badaedvZaSwBOkwyc=",
+        "_type": "PHOTO",
+        "width": 1080,
+        "photoId": 131532025,
+        "height": 1920
+      }
+    ],
+    "sender_name": "Ирина"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "id": "115124545883027288",
+    "time": 1756661161545,
+    "text": "Вау!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "id": "115124545884983888",
+    "time": 1756661161575,
+    "text": "",
+    "type": "USER",
+    "attaches": [
+      {
+        "previewUrl": "https://i.oneme.ru/getSmile?smileId=4b457b5&smileType=2",
+        "authorType": "USER",
+        "_type": "STICKER",
+        "url": "https://i.oneme.ru/getSmile?smileId=4b457b5&smileType=4",
+        "stickerId": 78927797,
+        "tags": [
+          "😱",
+          "😳",
+          "😖",
+          "😨",
+          "😲",
+          "😵"
+        ],
+        "videoUrl": "https://i.oneme.ru/i?r=BTFjO43w8Yr1OSJ4tcurq5HikTnIzY98WTBwAXy-AdwK8jpV8bOJDDEXthT7BFiD3OA",
+        "width": 170,
+        "setId": 231093,
+        "time": 1755858289599,
+        "stickerType": "LIVE",
+        "audio": false,
+        "height": 170
+      }
+    ],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 37353144,
+    "reactionInfo": {},
+    "id": "115124545887235097",
+    "time": 1756661161609,
+    "text": "Как здорово!",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Татьяна"
+  },
+  {
+    "sender": 44502596,
+    "reactionInfo": {
+      "counters": [
+        {
+          "count": 4,
+          "reaction": "❤️"
+        }
+      ],
+      "totalCount": 4
+    },
+    "elements": [
+      {
+        "type": "STRONG",
+        "length": 8,
+        "from": 138
+      },
+      {
+        "type": "STRONG",
+        "length": 22,
+        "from": 158
+      }
+    ],
+    "id": "115124579657138819",
+    "time": 1756661676897,
+    "text": "Дорогие родители! Большое Вам всем спасибо за помощь 🥹🫶\n\nЗавтра нас ждёт волшебный и по своему волнительный день) Еще раз напоминаю про бейджики 🤗\n\nЗавтра забираем деток в 10:40, если нужно напомнить откуда, я отправлю схему) Будут вопросы, обязательно пишите 😊",
+    "type": "USER",
+    "attaches": [],
+    "sender_name": "Виктория"
+  }
+]
