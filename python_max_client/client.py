@@ -37,6 +37,7 @@ class MaxClient:
         self._recv_task: Optional[asyncio.Task] = None
         self._incoming_event_callback = None
         self._pending = {}
+        self._cached_chats = None  # Cache chats from login response
 
     # --- WebSocket connection management ---
 
@@ -235,7 +236,21 @@ class MaxClient:
             _logger.warning('Got no phone number in server response')
         _logger.info(f'Successfully logged in as {phone}')
 
+        # Cache chats from login response
+        if "chats" in login_response["payload"]:
+            self._cached_chats = login_response
+            _logger.info(
+                f"Cached {len(login_response['payload']['chats'])} chats from login"
+            )
+
         self._is_logged_in = True
         await self._start_keepalive_task()
 
         return login_response
+
+    def get_cached_chats(self):
+        """
+        Get chats that were cached during login.
+        Returns the full login response containing chats, or None if not available.
+        """
+        return self._cached_chats

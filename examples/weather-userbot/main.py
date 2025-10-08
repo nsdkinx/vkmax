@@ -4,8 +4,8 @@ import logging
 import requests
 import sys
 
-from vkmax.client import MaxClient
-from vkmax.functions.messages import edit_message
+from python_max_client.client import MaxClient
+from python_max_client.functions.messages import edit_message
 
 from pathlib import Path
 
