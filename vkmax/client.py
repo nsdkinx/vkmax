@@ -197,7 +197,7 @@ class MaxClient:
             raise Exception(verification_response["payload"]["error"])
 
         try:
-            phone = verification_response["payload"]["profile"]["phone"]
+            phone = verification_response["payload"]["profile"]["contact"]["phone"]
         except:
             phone = '[?]'
             _logger.warning('Got no phone number in server response')
@@ -229,7 +229,7 @@ class MaxClient:
             raise Exception(login_response["payload"]["error"])
 
         try:
-            phone = login_response["payload"]["profile"]["phone"]
+            phone = login_response["payload"]["profile"]["contact"]["phone"]
         except:
             phone = '[?]'
             _logger.warning('Got no phone number in server response')
