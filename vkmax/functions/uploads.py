@@ -5,6 +5,32 @@ import aiohttp
 from vkmax.client import MaxClient, USER_AGENT
 
 
+async def download_video(
+        client: MaxClient,
+        chat_id: int,
+        message_id: str,
+        video_id: int,
+    ) -> str:
+
+    """Requests a direct link to download the video"""
+
+    resp = await client.invoke_method(
+        opcode=83,
+        payload={
+            "videoId": video_id,
+            "chatId": chat_id,
+            "messageId": message_id
+        }
+    )
+
+    formats = resp["payload"]
+    del formats["cache"]
+    del formats["EXTERNAL"]
+
+    # return first url
+    return list(formats.values())[0]
+
+
 async def download_file(
         client: MaxClient,
         chat_id: int,
@@ -12,7 +38,7 @@ async def download_file(
         file_id: int,
     ) -> str:
 
-    """Requests a direct link to download a file"""
+    """Requests a direct link to download the file"""
 
     resp = await client.invoke_method(
         opcode=88,
