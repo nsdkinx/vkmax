@@ -12,8 +12,8 @@ async def upload_photo(
 
     """Uploads one photo from the provided I/O stream
 
-    Returns an attachment object that you can put into a list
-    of attachments in vkmax.functions.messages"""
+    Returns an attachment object to use in vkmax.functions.messages
+    as a list item in `attaches` argument"""
 
     resp = await client.invoke_method(
         opcode=80,
@@ -48,7 +48,10 @@ async def upload_video(
         stream: BufferedIOBase,
     ) -> dict:
 
-    """Uploads one video"""
+    """Uploads one video from the provided I/O stream
+
+    Returns an attachment object to use in vkmax.functions.messages
+    as a list item in `attaches` argument"""
 
     resp = await client.invoke_method(
         opcode=82,
