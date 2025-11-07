@@ -94,6 +94,7 @@ async def upload_file(
         client: MaxClient,
         chat_id: int,
         stream: BufferedIOBase,
+        filename: str = "file.bin"
     ) -> dict:
 
     """Uploads one file from the provided I/O stream
@@ -121,7 +122,7 @@ async def upload_file(
         upload_url,
         stream,
         attach_type="FILE",
-        filename="file.bin",
+        filename=filename,
         mimetype="application/octet-stream",
     )
 
