@@ -5,6 +5,26 @@ import aiohttp
 from vkmax.client import MaxClient, USER_AGENT
 
 
+async def download_file(
+        client: MaxClient,
+        chat_id: int,
+        message_id: str,
+        file_id: int,
+    ) -> str:
+
+    """Requests a direct link to download a file"""
+
+    resp = await client.invoke_method(
+        opcode=88,
+        payload={
+            "fileId": file_id,
+            "chatId": chat_id,
+            "messageId": message_id
+        }
+    )
+    return resp["payload"]["url"]
+
+
 async def upload_photo(
         client: MaxClient,
         chat_id: int,
