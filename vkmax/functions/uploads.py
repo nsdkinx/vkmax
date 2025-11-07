@@ -59,11 +59,13 @@ async def upload_video(
             "count": 1
         }
     )
+
     info = resp["payload"]["info"][0]
 
     upload_url = info["url"]
     video_id = info["videoId"]
     token = info["token"]
+
     del info, resp
 
     await _upload(
@@ -80,6 +82,47 @@ async def upload_video(
         "_type": "VIDEO",
         "videoId": video_id,
         "token": token,
+    }
+
+
+async def upload_file(
+        client: MaxClient,
+        chat_id: int,
+        stream: BufferedIOBase,
+    ) -> dict:
+
+    """Uploads one file from the provided I/O stream
+
+    Returns an attachment object to use in vkmax.functions.messages
+    as a list item in `attaches` argument"""
+
+    resp = await client.invoke_method(
+        opcode=87,
+        payload={
+            "count": 1
+        }
+    )
+
+    info = resp["payload"]["info"][0]
+
+    upload_url = info["url"]
+    file_id = info["fileId"]
+
+    del info, resp
+
+    await _upload(
+        client,
+        chat_id,
+        upload_url,
+        stream,
+        attach_type="FILE",
+        filename="file.bin",
+        mimetype="application/octet-stream",
+    )
+
+    return {
+        "_type": "FILE",
+        "fileId": file_id,
     }
 
 
