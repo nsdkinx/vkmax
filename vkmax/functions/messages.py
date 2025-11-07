@@ -6,7 +6,8 @@ async def send_message(
     client: MaxClient,
     chat_id: int,
     text: str,
-    notify: bool = True
+    notify: bool = True,
+    attaches: list = []
 ):
     """Sends message to specified chat"""
 
@@ -18,7 +19,7 @@ async def send_message(
                 "text": text,
                 "cid": randint(1750000000000, 2000000000000),
                 "elements": [],
-                "attaches": []
+                "attaches": attaches
             },
             "notify": notify
         }
@@ -29,7 +30,8 @@ async def edit_message(
     client: MaxClient,
     chat_id: int,
     message_id: int,
-    text: str
+    text: str,
+    attaches: list = []
 ):
     """Edits the specified message"""
 
@@ -40,7 +42,7 @@ async def edit_message(
             "messageId": str(message_id),
             "text": text,
             "elements": [],
-            "attachments": []
+            "attachments": attaches
         }
     )
 
