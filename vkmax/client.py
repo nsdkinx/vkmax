@@ -39,6 +39,8 @@ class MaxClient:
         self._recv_task: Optional[asyncio.Task] = None
         self._incoming_event_callback = None
         self._pending = {}
+        self._video_pending = {}
+        self._file_pending = {}
 
     # --- WebSocket connection management ---
 
@@ -99,13 +101,28 @@ class MaxClient:
         try:
             async for packet in self._connection:
                 packet = json.loads(packet)
+
                 seq = packet["seq"]
                 future = self._pending.pop(seq, None)
                 if future:
                     future.set_result(packet)
-                else:
-                    if self._incoming_event_callback:
-                        asyncio.create_task(self._incoming_event_callback(self, packet))
+                    continue
+
+                if packet.get("opcode") == 136:
+                    payload = packet.get("payload", {})
+                    future = None
+
+                    if "videoId" in payload:
+                        future = self._video_pending.pop(payload["videoId"], None)
+                    elif "fileId" in payload:
+                        future = self._file_pending.pop(payload["fileId"], None)
+
+                    if future:
+                        future.set_result(None)
+                
+                if self._incoming_event_callback:
+                    asyncio.create_task(self._incoming_event_callback(self, packet))
+
         except asyncio.CancelledError:
             _logger.info(f'receiver cancelled')
             return

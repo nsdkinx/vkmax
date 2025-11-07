@@ -1,3 +1,4 @@
+import asyncio
 from io import BufferedIOBase
 
 import aiohttp
@@ -78,6 +79,10 @@ async def upload_video(
         mimetype="video/mp4",
     )
 
+    future = asyncio.get_running_loop().create_future()
+    client._video_pending[video_id] = future
+    await future
+
     return {
         "_type": "VIDEO",
         "videoId": video_id,
@@ -119,6 +124,10 @@ async def upload_file(
         filename="file.bin",
         mimetype="application/octet-stream",
     )
+
+    future = asyncio.get_running_loop().create_future()
+    client._file_pending[file_id] = future
+    await future
 
     return {
         "_type": "FILE",
