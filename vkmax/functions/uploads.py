@@ -23,17 +23,16 @@ async def upload_photo(
     )
 
     upload_url = resp["payload"]["url"]
-    del resp
 
-    await client.invoke_method(
-        opcode=65,
-        payload={
-            "chatId": chat_id,
-            "type": "PHOTO"
-        }
+    resp = await _upload(
+        client,
+        chat_id,
+        upload_url,
+        stream,
+        attach_type="PHOTO",
+        filename="image.jpg",
+        mimetype="image/jpeg",
     )
-
-    resp = await _upload(client, upload_url, stream)
     obj = await resp.json()
     token = list(obj['photos'].values())[0]['token']
 
@@ -64,15 +63,15 @@ async def upload_video(
     token = info["token"]
     del info, resp
 
-    await client.invoke_method(
-        opcode=65,
-        payload={
-            "chatId": chat_id,
-            "type": "VIDEO"
-        }
+    await _upload(
+        client,
+        chat_id,
+        upload_url,
+        stream,
+        attach_type="VIDEO",
+        filename="video.mp4",
+        mimetype="video/mp4",
     )
-
-    await _upload(client, upload_url, stream)
 
     return {
         "_type": "VIDEO",
@@ -83,11 +82,23 @@ async def upload_video(
 
 async def _upload(
         client: MaxClient,
+        chat_id: int,
         url: str,
         stream: BufferedIOBase,
+        attach_type: str,
+        filename: str,
+        mimetype: str,
     ) -> aiohttp.ClientResponse:
 
     """Internal helper function"""
+
+    await client.invoke_method(
+        opcode=65,
+        payload={
+            "chatId": chat_id,
+            "type": attach_type,
+        }
+    )
 
     headers = {
         'Accept': '*/*',
@@ -107,8 +118,8 @@ async def _upload(
         data = aiohttp.FormData()
         data.add_field(
             'file', file,
-            filename='image.jpg',
-            content_type='image/jpeg',
+            filename=filename,
+            content_type=mimetype,
         )
 
         resp = await client._http_pool.post(
