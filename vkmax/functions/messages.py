@@ -1,7 +1,8 @@
+from pathlib import Path
 from random import randint
 
 from vkmax.client import MaxClient
-from vkmax.functions.uploads import upload_photo
+from vkmax.functions.uploads import upload_photo, upload_file
 
 
 async def send_message(
@@ -110,6 +111,7 @@ async def reply_message(
         }
     )
 
+
 async def send_photo(
         client: MaxClient,
         chat_id: int,
@@ -127,4 +129,29 @@ async def send_photo(
         client, chat_id, caption,
         notify=notify,
         attaches=[photo],
+    )
+
+
+async def send_file(
+        client: MaxClient,
+        chat_id: int,
+        file_path: str,
+        caption: str,
+        notify: bool = True
+    ):
+
+    """Sends a file to the specified chat"""
+
+    file_path: Path = Path(file_path)
+
+    with file_path.open('rb') as stream:
+        file = await upload_file(
+            client, chat_id, stream,
+            filename=file_path.name,
+        )
+
+    return await send_message(
+        client, chat_id, caption,
+        notify=notify,
+        attaches=[file],
     )
