@@ -5,6 +5,7 @@ import logging
 import uuid
 from typing import Any, Callable, Optional
 
+import aiohttp
 import websockets
 from websockets.asyncio.client import ClientConnection
 
@@ -31,6 +32,7 @@ def ensure_connected(method: Callable):
 class MaxClient:
     def __init__(self):
         self._connection: Optional[ClientConnection] = None
+        self._http_pool: Optional[aiohttp.ClientSession] = None
         self._is_logged_in: bool = False
         self._seq = itertools.count(1)
         self._keepalive_task: Optional[asyncio.Task] = None
@@ -60,6 +62,8 @@ class MaxClient:
         await self._stop_keepalive_task()
         self._recv_task.cancel()
         await self._connection.close()
+        if self._http_pool:
+            await self._http_pool.close()
 
     @ensure_connected
     async def invoke_method(self, opcode: int, payload: dict[str, Any]):
