@@ -292,6 +292,10 @@ class MaxClient:
 
         return login_response
 
+    @ensure_connected
+    async def logout(self):
+        await self.invoke_method(opcode=20)
+
     @property
     def device_id(self) -> Optional[str]:
         return self._device_id
