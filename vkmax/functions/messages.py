@@ -1,5 +1,6 @@
 from pathlib import Path
 from random import randint
+from typing import Union
 
 from vkmax.client import MaxClient
 from vkmax.functions.uploads import upload_photo, upload_file
@@ -32,7 +33,7 @@ async def send_message(
 async def edit_message(
     client: MaxClient,
     chat_id: int,
-    message_id: int,
+    message_id: Union[str, int],
     text: str,
     attaches: list = []
 ):
@@ -42,7 +43,7 @@ async def edit_message(
         opcode=67,
         payload={
             "chatId": chat_id,
-            "messageId": str(message_id),
+            "messageId": f"{message_id}",
             "text": text,
             "elements": [],
             "attachments": attaches
@@ -71,8 +72,8 @@ async def delete_message(
 async def pin_message(
     client: MaxClient,
     chat_id: int,
-    message_id: int,
-    notify = False
+    message_id: Union[str, int],
+    notify: bool = False
 ):
     """Pins message in the chat"""
 
@@ -81,7 +82,7 @@ async def pin_message(
         payload={
             "chatId": chat_id,
             "notifyPin": notify,
-            "pinMessageId": str(message_id)
+            "messageId": f"{message_id}"
         }
     )
 
@@ -90,8 +91,8 @@ async def reply_message(
     client: MaxClient,
     chat_id: int,
     text: str,
-    reply_to_message_id: int,
-    notify = True
+    reply_to_message_id: Union[str, int],
+    notify: bool = True
 ):
     """Replies to message in the chat"""
     
@@ -105,7 +106,7 @@ async def reply_message(
                 "elements": [],
                 "link": {
                     "type": "REPLY",
-                    "messageId": str(reply_to_message_id)
+                    "messageId": f"{reply_to_message_id}"
                 },
                 "attaches": []
             },
