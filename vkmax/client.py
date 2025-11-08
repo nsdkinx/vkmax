@@ -34,6 +34,7 @@ class MaxClient:
         self._connection: Optional[ClientConnection] = None
         self._http_pool: Optional[aiohttp.ClientSession] = None
         self._is_logged_in: bool = False
+        self._device_id: Optional[str] = None
         self._seq = itertools.count(1)
         self._keepalive_task: Optional[asyncio.Task] = None
         self._recv_task: Optional[asyncio.Task] = None
@@ -166,7 +167,8 @@ class MaxClient:
     # --- Authentication ---
 
     @ensure_connected
-    async def _send_hello_packet(self):
+    async def _send_hello_packet(self, device_id: Optional[str] = None):
+        self._device_id = device_id or f'{uuid.uuid4()}'
         return await self.invoke_method(
             opcode=6,
             payload={
@@ -181,7 +183,7 @@ class MaxClient:
                     "screen": "956x1470 2.0x",
                     "timezone": "Asia/Vladivostok"
                 },
-                "deviceId": str(uuid.uuid4())
+                "deviceId": self._device_id,
             }
         )
 
@@ -230,8 +232,8 @@ class MaxClient:
         return verification_response
 
     @ensure_connected
-    async def login_by_token(self, token: str):
-        await self._send_hello_packet()
+    async def login_by_token(self, token: str, device_id: Optional[str] = None):
+        await self._send_hello_packet(device_id)
         _logger.info("using session")
         login_response = await self.invoke_method(
             opcode=19,
@@ -260,3 +262,7 @@ class MaxClient:
         await self._start_keepalive_task()
 
         return login_response
+
+    @property
+    def device_id(self) -> Optional[str]:
+        return self._device_id
