@@ -6,6 +6,11 @@ from vkmax.client import MaxClient
 from vkmax.functions.uploads import upload_photo, upload_file
 
 
+# common backward-compatible type
+# for functions accepting a message id
+MessageId = Union[str, int]
+
+
 async def send_message(
     client: MaxClient,
     chat_id: int,
@@ -33,7 +38,7 @@ async def send_message(
 async def edit_message(
     client: MaxClient,
     chat_id: int,
-    message_id: Union[str, int],
+    message_id: MessageId,
     text: str,
     attaches: list = []
 ):
@@ -72,7 +77,7 @@ async def delete_message(
 async def pin_message(
     client: MaxClient,
     chat_id: int,
-    message_id: Union[str, int],
+    message_id: MessageId,
     notify: bool = False
 ):
     """Pins message in the chat"""
@@ -91,7 +96,7 @@ async def reply_message(
     client: MaxClient,
     chat_id: int,
     text: str,
-    reply_to_message_id: Union[str, int],
+    reply_to_message_id: MessageId,
     notify: bool = True
 ):
     """Replies to message in the chat"""
