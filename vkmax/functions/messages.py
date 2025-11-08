@@ -49,13 +49,14 @@ async def edit_message(
         }
     )
 
+
 async def delete_message(
     client: MaxClient,
     chat_id: int,
     message_ids: list,
     delete_for_me: bool = False
 ):
-    """ Deletes the specified message """
+    """Deletes the specified message"""
 
     return await client.invoke_method(
         opcode=66,
@@ -65,6 +66,7 @@ async def delete_message(
             "forMe": delete_for_me
         }
     )
+
 
 async def pin_message(
     client: MaxClient,
