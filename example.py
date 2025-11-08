@@ -1,31 +1,32 @@
 import asyncio
 import logging
-
-import requests
 import sys
+from pathlib import Path
+
+import aiohttp
 
 from vkmax.client import MaxClient
 from vkmax.functions.messages import edit_message
 
-from pathlib import Path
 
-date_format = '%d.%m.%Y %H:%M:%S'
-logging_format = '[%(asctime)s] [%(name)s] [%(levelname)s] %(message)s'
-
-handlers = [
-    logging.StreamHandler(sys.stdout)
-]
-
+# setup logging with custom format and level `info`
 logging.basicConfig(
-    format=logging_format,
-    datefmt=date_format,
-    handlers=handlers,
+    format='[%(asctime)s] [%(name)s] [%(levelname)s] %(message)s',
+    datefmt='%d.%m.%Y %H:%M:%S',
+    handlers=[logging.StreamHandler(sys.stdout)],
     level=logging.INFO
 )
 
+# global aiohttp session
+http = None
+
+
 async def get_weather(city: str) -> str:
-    response = requests.get(f"https://ru.wttr.in/{city}?Q&T&format=3")
-    return response.text
+    global http
+    if not http:
+        http = aiohttp.ClientSession()
+    response = await http.get(f"https://ru.wttr.in/{city}?Q&T&format=3")
+    return await response.text()
 
 
 async def packet_callback(client: MaxClient, packet: dict):
@@ -51,26 +52,29 @@ async def packet_callback(client: MaxClient, packet: dict):
 
 async def main():
     client = MaxClient()
-
     await client.connect()
 
-    login_token_file = Path('login_token.txt')
+    session_file = Path('max_session.txt')
 
-    if login_token_file.exists():
-        login_token_from_file = login_token_file.read_text(encoding='utf-8').strip()
-        try:
-            await client.login_by_token(login_token_from_file)
-        except:
-            print("Couldn't login by token. Falling back to SMS login")
+    if not session_file.exists():
+        phone_number = input('Enter your phone number: ')
+        sms_token = await client.send_code(phone_number)
+        sms_code = int(input('Enter SMS code: '))
+        account_data = await client.sign_in(sms_token, sms_code)
+
+        device_id = client.device_id
+        login_token = account_data['payload']['tokenAttrs']['LOGIN']['token']
+
+        # save device uuid and auth token delimited by newline
+        session_file.write_text(f'{device_id}\n{login_token}')
 
     else:
-        phone_number = input('Your phone number: ')
-        sms_login_token = await client.send_code(phone_number)
-        sms_code = int(input('Enter SMS code: '))
-        account_data = await client.sign_in(sms_login_token, sms_code)
-
-        login_token = account_data['payload']['tokenAttrs']['LOGIN']['token']
-        login_token_file.write_text(login_token, encoding='utf-8')
+        contents = session_file.read_text()
+        device_id, login_token = contents.split('\n', maxsplit=1)
+        try:
+            await client.login_by_token(login_token, device_id)
+        except:
+            print("Couldn't login by token")
 
     await client.set_callback(packet_callback)
 
