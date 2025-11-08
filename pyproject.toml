@@ -15,7 +15,8 @@ classifiers = [
 ]
 keywords = ["vk", "vkapi", "max-messenger", "vkmax", "oneme"]
 dependencies = [
-    "websockets"
+    "aiohttp",
+    "websockets",
 ]
 requires-python = ">=3.9"
 

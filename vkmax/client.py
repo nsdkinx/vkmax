@@ -5,6 +5,7 @@ import logging
 import uuid
 from typing import Any, Callable, Optional
 
+import aiohttp
 import websockets
 from websockets.asyncio.client import ClientConnection
 
@@ -12,7 +13,7 @@ from functools import wraps
 
 WS_HOST = "wss://ws-api.oneme.ru/websocket"
 RPC_VERSION = 11
-APP_VERSION = "25.9.15"
+APP_VERSION = "25.11.2"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
 
 _logger = logging.getLogger(__name__)
@@ -31,12 +32,15 @@ def ensure_connected(method: Callable):
 class MaxClient:
     def __init__(self):
         self._connection: Optional[ClientConnection] = None
+        self._http_pool: Optional[aiohttp.ClientSession] = None
         self._is_logged_in: bool = False
         self._seq = itertools.count(1)
         self._keepalive_task: Optional[asyncio.Task] = None
         self._recv_task: Optional[asyncio.Task] = None
         self._incoming_event_callback = None
         self._pending = {}
+        self._video_pending = {}
+        self._file_pending = {}
 
     # --- WebSocket connection management ---
 
@@ -60,6 +64,8 @@ class MaxClient:
         await self._stop_keepalive_task()
         self._recv_task.cancel()
         await self._connection.close()
+        if self._http_pool:
+            await self._http_pool.close()
 
     @ensure_connected
     async def invoke_method(self, opcode: int, payload: dict[str, Any]):
@@ -95,13 +101,28 @@ class MaxClient:
         try:
             async for packet in self._connection:
                 packet = json.loads(packet)
+
                 seq = packet["seq"]
                 future = self._pending.pop(seq, None)
                 if future:
                     future.set_result(packet)
-                else:
-                    if self._incoming_event_callback:
-                        asyncio.create_task(self._incoming_event_callback(self, packet))
+                    continue
+
+                if packet.get("opcode") == 136:
+                    payload = packet.get("payload", {})
+                    future = None
+
+                    if "videoId" in payload:
+                        future = self._video_pending.pop(payload["videoId"], None)
+                    elif "fileId" in payload:
+                        future = self._file_pending.pop(payload["fileId"], None)
+
+                    if future:
+                        future.set_result(None)
+                
+                if self._incoming_event_callback:
+                    asyncio.create_task(self._incoming_event_callback(self, packet))
+
         except asyncio.CancelledError:
             _logger.info(f'receiver cancelled')
             return

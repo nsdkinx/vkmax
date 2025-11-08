@@ -1,12 +1,16 @@
+from pathlib import Path
 from random import randint
+
 from vkmax.client import MaxClient
+from vkmax.functions.uploads import upload_photo, upload_file
 
 
 async def send_message(
     client: MaxClient,
     chat_id: int,
     text: str,
-    notify: bool = True
+    notify: bool = True,
+    attaches: list = []
 ):
     """Sends message to specified chat"""
 
@@ -18,7 +22,7 @@ async def send_message(
                 "text": text,
                 "cid": randint(1750000000000, 2000000000000),
                 "elements": [],
-                "attaches": []
+                "attaches": attaches
             },
             "notify": notify
         }
@@ -29,7 +33,8 @@ async def edit_message(
     client: MaxClient,
     chat_id: int,
     message_id: int,
-    text: str
+    text: str,
+    attaches: list = []
 ):
     """Edits the specified message"""
 
@@ -40,7 +45,7 @@ async def edit_message(
             "messageId": str(message_id),
             "text": text,
             "elements": [],
-            "attachments": []
+            "attachments": attaches
         }
     )
 
@@ -106,6 +111,7 @@ async def reply_message(
         }
     )
 
+
 async def send_photo(
         client: MaxClient,
         chat_id: int,
@@ -114,62 +120,38 @@ async def send_photo(
         notify: bool = True
     ):
 
-    """ Sends photo to specified chat """
+    """Sends photo to specified chat"""
 
-    import requests
+    with open(image_path, 'rb') as stream:
+        photo = await upload_photo(client, chat_id, stream)
 
-    photo_token = await client.invoke_method(
-        opcode = 80,
-        payload = {
-            "count": 1
-        }
-    )    
+    return await send_message(
+        client, chat_id, caption,
+        notify=notify,
+        attaches=[photo],
+    )
 
-    url = photo_token["payload"]["url"]
 
-    params = {
-        'apiToken': url.split('apiToken=')[1]
-    }
+async def send_file(
+        client: MaxClient,
+        chat_id: int,
+        file_path: str,
+        caption: str,
+        notify: bool = True
+    ):
 
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
-        'Accept': '*/*',
-        'Origin': 'https://web.max.ru',
-        'Referer': 'https://web.max.ru/',
-        'Sec-Fetch-Site': 'cross-site',
-        'Sec-Fetch-Mode': 'cors',
-        'Accept-Language': 'ru-RU,ru;q=0.9',
-    }
+    """Sends a file to the specified chat"""
 
-    try:
-        with open(image_path, 'rb') as image_file:
-            files = {
-                'file': ('image.jpg', image_file, 'image/jpeg') # that's not matter don't think about that lol
-            }
+    file_path: Path = Path(file_path)
 
-            uploaded_photo = requests.post(url, params=params, headers=headers, files=files)
-            uploaded_photo = uploaded_photo.json()
+    with file_path.open('rb') as stream:
+        file = await upload_file(
+            client, chat_id, stream,
+            filename=file_path.name,
+        )
 
-    except FileNotFoundError:
-        print(f"Error: Make sure '{image_path}' is in the same directory.")
-    except Exception as e:
-        print(f"An error occurred: {e}")
-
-    await client.invoke_method(
-        opcode=64,
-        payload = {
-            "chatId": chat_id,
-            "message": {
-                "text": caption,
-                "cid": randint(1750000000000, 2000000000000),
-                "elements": [],
-                "attaches": [
-                    {
-                        "_type": "PHOTO",
-                        "photoToken": list(uploaded_photo['photos'].values())[0]['token']
-                    }
-                ]
-            },
-            "notify": notify
-        }
+    return await send_message(
+        client, chat_id, caption,
+        notify=notify,
+        attaches=[file],
     )
