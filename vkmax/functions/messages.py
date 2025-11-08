@@ -1,6 +1,6 @@
 from pathlib import Path
 from random import randint
-from typing import Union
+from typing import Optional, Union
 
 from vkmax.client import MaxClient
 from vkmax.functions.uploads import upload_photo, upload_file
@@ -16,22 +16,34 @@ async def send_message(
     chat_id: int,
     text: str,
     notify: bool = True,
+    reply_to: Optional[MessageId] = None,
     attaches: list = []
 ):
     """Sends message to specified chat"""
 
+    payload = {
+        "chatId": chat_id,
+        "message": {
+            "text": text,
+            "cid": randint(1750000000000, 2000000000000),
+            "elements": [],
+            "link": None,
+            "attaches": attaches
+        },
+        "notify": notify
+    }
+
+    if reply_to is not None:
+        payload["link"] = {
+            "type": "REPLY",
+            "messageId": f"{reply_to}"
+        }
+    else:
+        del payload["link"]
+
     return await client.invoke_method(
         opcode=64,
-        payload={
-            "chatId": chat_id,
-            "message": {
-                "text": text,
-                "cid": randint(1750000000000, 2000000000000),
-                "elements": [],
-                "attaches": attaches
-            },
-            "notify": notify
-        }
+        payload=payload,
     )
 
 
@@ -101,22 +113,10 @@ async def reply_message(
 ):
     """Replies to message in the chat"""
     
-    return await client.invoke_method(
-        opcode=64,
-        payload={
-            "chatId": chat_id,
-            "message": {
-                "text": text,
-                "cid": randint(1750000000000, 2000000000000),
-                "elements": [],
-                "link": {
-                    "type": "REPLY",
-                    "messageId": f"{reply_to_message_id}"
-                },
-                "attaches": []
-            },
-            "notify": notify
-        }
+    return await send_message(
+        client, chat_id, text,
+        reply_to=reply_to_message_id,
+        notify=notify,
     )
 
 
