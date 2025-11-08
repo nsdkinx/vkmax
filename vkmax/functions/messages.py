@@ -1,8 +1,14 @@
 from pathlib import Path
 from random import randint
+from typing import Optional, Union
 
 from vkmax.client import MaxClient
 from vkmax.functions.uploads import upload_photo, upload_file
+
+
+# common backward-compatible type
+# for functions accepting a message id
+MessageId = Union[str, int]
 
 
 async def send_message(
@@ -10,29 +16,41 @@ async def send_message(
     chat_id: int,
     text: str,
     notify: bool = True,
+    reply_to: Optional[MessageId] = None,
     attaches: list = []
 ):
     """Sends message to specified chat"""
 
+    payload = {
+        "chatId": chat_id,
+        "message": {
+            "text": text,
+            "cid": randint(1750000000000, 2000000000000),
+            "elements": [],
+            "link": None,
+            "attaches": attaches
+        },
+        "notify": notify
+    }
+
+    if reply_to is not None:
+        payload["link"] = {
+            "type": "REPLY",
+            "messageId": f"{reply_to}"
+        }
+    else:
+        del payload["link"]
+
     return await client.invoke_method(
         opcode=64,
-        payload={
-            "chatId": chat_id,
-            "message": {
-                "text": text,
-                "cid": randint(1750000000000, 2000000000000),
-                "elements": [],
-                "attaches": attaches
-            },
-            "notify": notify
-        }
+        payload=payload,
     )
 
 
 async def edit_message(
     client: MaxClient,
     chat_id: int,
-    message_id: int,
+    message_id: MessageId,
     text: str,
     attaches: list = []
 ):
@@ -42,12 +60,13 @@ async def edit_message(
         opcode=67,
         payload={
             "chatId": chat_id,
-            "messageId": str(message_id),
+            "messageId": f"{message_id}",
             "text": text,
             "elements": [],
             "attachments": attaches
         }
     )
+
 
 async def delete_message(
     client: MaxClient,
@@ -55,7 +74,7 @@ async def delete_message(
     message_ids: list,
     delete_for_me: bool = False
 ):
-    """ Deletes the specified message """
+    """Deletes the specified message"""
 
     return await client.invoke_method(
         opcode=66,
@@ -66,11 +85,12 @@ async def delete_message(
         }
     )
 
+
 async def pin_message(
     client: MaxClient,
     chat_id: int,
-    message_id: int,
-    notify = False
+    message_id: MessageId,
+    notify: bool = False
 ):
     """Pins message in the chat"""
 
@@ -79,7 +99,7 @@ async def pin_message(
         payload={
             "chatId": chat_id,
             "notifyPin": notify,
-            "pinMessageId": str(message_id)
+            "messageId": f"{message_id}"
         }
     )
 
@@ -88,27 +108,15 @@ async def reply_message(
     client: MaxClient,
     chat_id: int,
     text: str,
-    reply_to_message_id: int,
-    notify = True
+    reply_to_message_id: MessageId,
+    notify: bool = True
 ):
     """Replies to message in the chat"""
     
-    return await client.invoke_method(
-        opcode=64,
-        payload={
-            "chatId": chat_id,
-            "message": {
-                "text": text,
-                "cid": randint(1750000000000, 2000000000000),
-                "elements": [],
-                "link": {
-                    "type": "REPLY",
-                    "messageId": str(reply_to_message_id)
-                },
-                "attaches": []
-            },
-            "notify": notify
-        }
+    return await send_message(
+        client, chat_id, text,
+        reply_to=reply_to_message_id,
+        notify=notify,
     )
 
 
