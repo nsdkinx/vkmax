@@ -34,12 +34,12 @@ async def send_message(
     }
 
     if reply_to is not None:
-        payload["link"] = {
+        payload["message"]["link"] = {
             "type": "REPLY",
             "messageId": f"{reply_to}"
         }
     else:
-        del payload["link"]
+        del payload["message"]["link"]
 
     return await client.invoke_method(
         opcode=64,
