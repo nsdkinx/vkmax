@@ -105,6 +105,11 @@ class MaxClient:
         return response
 
     async def set_callback(self, function):
+        import warnings
+        warnings.warn('switch to set_packet_callback', category=DeprecationWarning)
+        self.set_packet_callback(function)
+
+    def set_packet_callback(self, function):
         if not asyncio.iscoroutinefunction(function):
             raise TypeError('callback must be async')
         self._incoming_event_callback = function
