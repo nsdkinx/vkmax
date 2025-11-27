@@ -66,8 +66,10 @@ class MaxClient:
         await self._stop_keepalive_task()
         self._recv_task.cancel()
         await self._connection.close()
+        self._connection = None
         if self._http_pool:
             await self._http_pool.close()
+            self._http_pool = None
 
     @ensure_connected
     async def invoke_method(self, opcode: int, payload: dict[str, Any], retries: int = 2):
