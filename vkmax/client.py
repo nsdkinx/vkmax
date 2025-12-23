@@ -173,7 +173,7 @@ class MaxClient:
             opcode=6,
             payload={
                 "userAgent": {
-                    "deviceType": "WEB",
+                    "deviceType": "DESKTOP",
                     "locale": "ru_RU",
                     "osVersion": "macOS",
                     "deviceName": "vkmax Python",
