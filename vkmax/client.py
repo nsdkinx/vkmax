@@ -13,8 +13,8 @@ from functools import wraps
 
 WS_HOST = "wss://ws-api.oneme.ru/websocket"
 RPC_VERSION = 11
-APP_VERSION = "25.11.2"
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+APP_VERSION = "25.12.13"
+USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
 
 _logger = logging.getLogger(__name__)
 
@@ -173,15 +173,17 @@ class MaxClient:
             opcode=6,
             payload={
                 "userAgent": {
-                    "deviceType": "DESKTOP",
-                    "locale": "ru_RU",
-                    "osVersion": "macOS",
-                    "deviceName": "vkmax Python",
+                    "deviceType": "DESKTOP", 
+                    "locale": "ru",
+                    "deviceLocale": "ru",
+                    "osVersion": "Linux",
+                    "deviceName": "Chrome",
                     "headerUserAgent": USER_AGENT,
-                    "deviceLocale": "ru-RU",
                     "appVersion": APP_VERSION,
-                    "screen": "956x1470 2.0x",
-                    "timezone": "Asia/Vladivostok"
+                    "screen": "1080x1920 1.0x",
+                    "timezone": "Europe/Moscow",
+                    "clientSessionId": 14,
+                    "buildNumber": 0x97CB
                 },
                 "deviceId": self._device_id,
             }
@@ -244,7 +246,20 @@ class MaxClient:
                 "contactsSync": 0,
                 "presenceSync": 0,
                 "draftsSync": 0,
-                "chatsCount": 40
+                "chatsCount": 40,
+                "userAgent": {
+                    "deviceType": "DESKTOP", 
+                    "locale": "ru",
+                    "deviceLocale": "ru",
+                    "osVersion": "Linux",
+                    "deviceName": "Chrome",
+                    "headerUserAgent": USER_AGENT,
+                    "appVersion": APP_VERSION,
+                    "screen": "1080x1920 1.0x",
+                    "timezone": "Europe/Moscow",
+                    "clientSessionId": 14,
+                    "buildNumber": 0x97CB
+                }
             }
         )
 
