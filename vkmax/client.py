@@ -221,6 +221,35 @@ class MaxClient:
         if "error" in verification_response["payload"]:
             raise Exception(verification_response["payload"]["error"])
 
+        if "passwordChallenge" in verification_response["payload"]:
+            # TODO: smh indicate that 2fa required
+            return verification_response
+
+        try:
+            phone = verification_response["payload"]["profile"]["contact"]["phone"]
+        except:
+            phone = '[?]'
+            _logger.warning('Got no phone number in server response')
+        _logger.info(f'Successfully logged in as {phone}')
+
+        self._is_logged_in = True
+        await self._start_keepalive_task()
+
+        return verification_response
+
+    @ensure_connected
+    async def continue_2fa(self, track_id: str, password: str):
+        verification_response = await self.invoke_method(
+            opcode=115,
+            payload={
+                "trackId": track_id,
+                "password": password
+            }
+        )
+
+        if "error" in verification_response["payload"]:
+            raise Exception(verification_response["payload"]["error"])
+
         try:
             phone = verification_response["payload"]["profile"]["contact"]["phone"]
         except:
@@ -277,6 +306,10 @@ class MaxClient:
         await self._start_keepalive_task()
 
         return login_response
+
+    @ensure_connected
+    async def logout(self):
+        await self.invoke_method(opcode=20)
 
     @property
     def device_id(self) -> Optional[str]:
