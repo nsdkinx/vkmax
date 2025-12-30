@@ -39,6 +39,7 @@ class MaxClient:
         self._keepalive_task: Optional[asyncio.Task] = None
         self._recv_task: Optional[asyncio.Task] = None
         self._incoming_event_callback = None
+        self._reconnect_callback = None
         self._pending = {}
         self._video_pending = {}
         self._file_pending = {}
@@ -65,11 +66,13 @@ class MaxClient:
         await self._stop_keepalive_task()
         self._recv_task.cancel()
         await self._connection.close()
+        self._connection = None
         if self._http_pool:
             await self._http_pool.close()
+            self._http_pool = None
 
     @ensure_connected
-    async def invoke_method(self, opcode: int, payload: dict[str, Any]):
+    async def invoke_method(self, opcode: int, payload: dict[str, Any], retries: int = 2):
         seq = next(self._seq)
 
         request = {
@@ -84,9 +87,19 @@ class MaxClient:
         future = asyncio.get_event_loop().create_future()
         self._pending[seq] = future
 
-        await self._connection.send(
-            json.dumps(request)
-        )
+        try:
+            await self._connection.send(
+                json.dumps(request)
+            )
+        except websockets.exceptions.ConnectionClosed:
+            _logger.warning('got ws disconnect in invoke_method')
+            if self._reconnect_callback:
+                _logger.info('reconnecting')
+                await self._reconnect_callback()
+                if retries > 0:
+                    _logger.info('retrying invoke_method after reconnect')
+                    await self.invoke_method(opcode, payload, retries - 1)
+            return
 
         response = await future
         _logger.info(f'<- RESPONSE: {response}')
@@ -94,9 +107,19 @@ class MaxClient:
         return response
 
     async def set_callback(self, function):
+        import warnings
+        warnings.warn('switch to set_packet_callback', category=DeprecationWarning)
+        self.set_packet_callback(function)
+
+    def set_packet_callback(self, function):
         if not asyncio.iscoroutinefunction(function):
             raise TypeError('callback must be async')
         self._incoming_event_callback = function
+
+    def set_reconnect_callback(self, function):
+        if not asyncio.iscoroutinefunction(function):
+            raise TypeError('callback must be async')
+        self._reconnect_callback = function
 
     async def _recv_loop(self):
         try:
@@ -127,6 +150,12 @@ class MaxClient:
         except asyncio.CancelledError:
             _logger.info(f'receiver cancelled')
             return
+
+        except websockets.exceptions.ConnectionClosed:
+            _logger.warning('got ws disconnect in receiver')
+            if self._reconnect_callback:
+                _logger.info('reconnecting')
+                await self._reconnect_callback()
 
     # --- Keepalive system
 
