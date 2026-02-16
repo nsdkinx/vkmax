@@ -3,7 +3,7 @@ import itertools
 import json
 import logging
 import uuid
-from typing import Any, Callable, Optional
+from typing import Any, Callable, Optional, TypedDict
 
 import aiohttp
 import websockets
@@ -29,8 +29,31 @@ def ensure_connected(method: Callable):
     return wrapper
 
 
+class UserAgentDict(TypedDict):
+    deviceType: str
+    locale: str
+    deviceLocale: str
+    osVersion: str
+    deviceName: str
+    headerUserAgent: str
+    appVersion: str
+    screen: str
+    timezone: str
+
+DEFAULT_USER_AGENT_DICT = UserAgentDict({
+    "deviceType": "WEB",
+    "locale": "ru",
+    "deviceLocale": "ru",
+    "osVersion": "Linux",
+    "deviceName": "Chrome",
+    "headerUserAgent": USER_AGENT,
+    "appVersion": APP_VERSION,
+    "screen": "1080x1920 1.0x",
+    "timezone": "Europe/Moscow",
+})
+
 class MaxClient:
-    def __init__(self):
+    def __init__(self, user_agent_dict: UserAgentDict = DEFAULT_USER_AGENT_DICT):
         self._connection: Optional[ClientConnection] = None
         self._http_pool: Optional[aiohttp.ClientSession] = None
         self._is_logged_in: bool = False
@@ -43,6 +66,7 @@ class MaxClient:
         self._pending = {}
         self._video_pending = {}
         self._file_pending = {}
+        self.user_agent = user_agent_dict
 
     # --- WebSocket connection management ---
 
@@ -214,17 +238,7 @@ class MaxClient:
         return await self.invoke_method(
             opcode=6,
             payload={
-                "userAgent": {
-                    "deviceType": "WEB",
-                    "locale": "ru",
-                    "deviceLocale": "ru",
-                    "osVersion": "Linux",
-                    "deviceName": "Chrome",
-                    "headerUserAgent": USER_AGENT,
-                    "appVersion": APP_VERSION,
-                    "screen": "1080x1920 1.0x",
-                    "timezone": "Europe/Moscow"
-                },
+                "userAgent": self.user_agent,
                 "deviceId": self._device_id,
             }
         )
@@ -287,19 +301,7 @@ class MaxClient:
                 "presenceSync": 0,
                 "draftsSync": 0,
                 "chatsCount": 40,
-                "userAgent": {
-                    "deviceType": "DESKTOP", 
-                    "locale": "ru",
-                    "deviceLocale": "ru",
-                    "osVersion": "Linux",
-                    "deviceName": "Chrome",
-                    "headerUserAgent": USER_AGENT,
-                    "appVersion": APP_VERSION,
-                    "screen": "1080x1920 1.0x",
-                    "timezone": "Europe/Moscow",
-                    "clientSessionId": 14,
-                    "buildNumber": 0x97CB
-                }
+                "userAgent": self.user_agent,
             }
         )
 
