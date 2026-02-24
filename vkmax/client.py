@@ -282,24 +282,11 @@ class MaxClient:
             payload={
                 "interactive": True,
                 "token": token,
+                "chatsCount": 40,
                 "chatsSync": 0,
                 "contactsSync": 0,
-                "presenceSync": 0,
-                "draftsSync": 0,
-                "chatsCount": 40,
-                "userAgent": {
-                    "deviceType": "DESKTOP", 
-                    "locale": "ru",
-                    "deviceLocale": "ru",
-                    "osVersion": "Linux",
-                    "deviceName": "Chrome",
-                    "headerUserAgent": USER_AGENT,
-                    "appVersion": APP_VERSION,
-                    "screen": "1080x1920 1.0x",
-                    "timezone": "Europe/Moscow",
-                    "clientSessionId": 14,
-                    "buildNumber": 0x97CB
-                }
+                "presenceSync": -1,
+                "draftsSync": 0
             }
         )
 
