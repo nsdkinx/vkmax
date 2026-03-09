@@ -174,10 +174,17 @@ class MaxClient:
 
     @ensure_connected
     async def _send_keepalive_packet(self):
-        await self.invoke_method(
-            opcode=1,
-            payload={"interactive": False}
-        )
+        try:
+            async with asyncio.timeout(15):
+                await self.invoke_method(
+                    opcode=1,
+                    payload={"interactive": False}
+                )
+        except asyncio.TimeoutError:
+            _logger.warning('keepalive ping timed out')
+            if self._reconnect_callback:
+                _logger.info('reconnecting')
+                asyncio.create_task(self._reconnect_callback())
 
     @ensure_connected
     async def _keepalive_loop(self):
