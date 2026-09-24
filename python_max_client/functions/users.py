@@ -1,4 +1,4 @@
-from vkmax.client import MaxClient
+from python_max_client.client import MaxClient
 
 
 async def resolve_users(

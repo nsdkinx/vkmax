@@ -2,8 +2,8 @@ from pathlib import Path
 from random import randint
 from typing import Optional, Union
 
-from vkmax.client import MaxClient
-from vkmax.functions.uploads import upload_photo, upload_file
+from python_max_client.client import MaxClient
+from python_max_client.functions.uploads import upload_photo, upload_file
 
 
 # common backward-compatible type

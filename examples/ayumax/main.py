@@ -1,8 +1,8 @@
 import sqlite3
 import logging
 
-from vkmax.client import MaxClient
-from vkmax.functions.messages import send_message
+from python_max_client.client import MaxClient
+from python_max_client.functions.messages import send_message
 
 _logger = logging.getLogger(__name__)
 

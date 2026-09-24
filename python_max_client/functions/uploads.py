@@ -2,7 +2,7 @@ import asyncio
 from io import BufferedIOBase
 
 import aiohttp
-from vkmax.client import MaxClient, USER_AGENT
+from python_max_client.client import MaxClient, USER_AGENT
 
 
 async def download_video(
@@ -59,7 +59,7 @@ async def upload_photo(
 
     """Uploads one photo from the provided I/O stream
 
-    Returns an attachment object to use in vkmax.functions.messages
+    Returns an attachment object to use in python_max_client.functions.messages
     as a list item in `attaches` argument"""
 
     resp = await client.invoke_method(
@@ -97,7 +97,7 @@ async def upload_video(
 
     """Uploads one video from the provided I/O stream
 
-    Returns an attachment object to use in vkmax.functions.messages
+    Returns an attachment object to use in python_max_client.functions.messages
     as a list item in `attaches` argument"""
 
     resp = await client.invoke_method(
@@ -145,7 +145,7 @@ async def upload_file(
 
     """Uploads one file from the provided I/O stream
 
-    Returns an attachment object to use in vkmax.functions.messages
+    Returns an attachment object to use in python_max_client.functions.messages
     as a list item in `attaches` argument"""
 
     resp = await client.invoke_method(
