@@ -20,7 +20,9 @@ classifiers = [
 keywords = ["vk", "vkapi", "max-messenger", "vkmax", "oneme", "messenger", "client"]
 dependencies = [
     "websockets>=12.0",
-    "httpx>=0.25.0"
+    "httpx>=0.25.0",
+    "aiohttp",
+    "requests>=2.32.0"
 ]
 requires-python = ">=3.9"
 
@@ -28,3 +30,4 @@ requires-python = ">=3.9"
 Homepage = "https://github.com/huxuxuya/python-max-client"
 Repository = "https://github.com/huxuxuya/python-max-client"
 Issues = "https://github.com/huxuxuya/python-max-client/issues"
+News = "https://t.me/max_messenger_python"

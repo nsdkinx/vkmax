@@ -1,5 +1,5 @@
 from typing import Optional
-from vkmax.client import MaxClient
+from python_max_client.client import MaxClient
 
 def get_chats(
     client: MaxClient,
