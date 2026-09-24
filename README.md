@@ -19,6 +19,8 @@ The library provides a simple and intuitive API for interacting with the MAX mes
 - 📎 **Uploads**: Photos, videos and files (`python_max_client.functions.uploads`)
 - 👥 **Users & Groups**: Manage users, groups, and channels
 - 🔄 **Real-time**: WebSocket-based real-time communication with keepalive and reconnect callback
+- 📋 **Chats snapshot**: Chats cached at login (`get_cached_chats`, see [SAVE_CHATS_README](SAVE_CHATS_README.md))
+- 🤖 **Telegram bridge bot** (see [implementation notes](TELEGRAM_BOT_IMPLEMENTATION_COMPLETE.md))
 - 🛠️ **Extensible**: Easy to extend with custom functionality
 - 📱 **Userbot Support**: Create powerful userbots and automation
 
@@ -37,6 +39,13 @@ git clone https://github.com/huxuxuya/python-max-client.git
 cd python-max-client
 pip install -e .
 ```
+
+### Telegram bridge extras
+The bot in [telegram_bot/](telegram_bot/) needs extra dependencies:
+```bash
+pip install -r telegram_bot/requirements.txt
+```
+Copy `telegram_bot/env_example.txt` to your env file and fill in tokens (never commit real tokens).
 
 ### Requirements
 - Python 3.9 or higher
@@ -165,7 +174,7 @@ async def main():
         except:
             print("Couldn't login by token")
 
-    await client.set_callback(packet_callback)
+    client.set_packet_callback(packet_callback)
 
     await asyncio.Future()  # run forever
 
@@ -223,6 +232,9 @@ The library provides various functions for different operations:
 - `python_max_client.functions.channels` - Channel operations
 - `python_max_client.functions.profile` - Profile management
 
+> **Note:** a historical `vkmax/` package snapshot (from `save_chats` work) is also present
+> in-tree. The canonical package is `python_max_client`; `tests/` cover both layouts.
+
 ## Documentation
 - [Protocol description](docs/protocol.md)
 - [Known opcodes](docs/opcodes.md)
@@ -231,6 +243,11 @@ The library provides various functions for different operations:
 Check out the [examples](examples/) directory for more usage examples:
 - [Weather Userbot](examples/weather-userbot/) - Simple userbot that provides weather information
 - [Ayumax](examples/ayumax/) - Advanced userbot example
+
+## Telegram bridge
+See [telegram_bot/](telegram_bot/) and [implementation notes](TELEGRAM_BOT_IMPLEMENTATION_COMPLETE.md).
+Local chat exports, sqlite state and secrets are intentionally **not** stored in this branch
+(they live on `save_chats` only and are git-ignored here).
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "python-max-client"
-version = "1.0.1"
+version = "1.0.2"
 description = "Python client for VK MAX messenger (OneMe)"
 readme = "README.md"
 authors = [{name = "huxuxuya", email = "huxuxuya@gmail.com" }]
@@ -30,4 +30,5 @@ requires-python = ">=3.9"
 Homepage = "https://github.com/huxuxuya/python-max-client"
 Repository = "https://github.com/huxuxuya/python-max-client"
 Issues = "https://github.com/huxuxuya/python-max-client/issues"
+Original = "https://github.com/nsdkinx/vkmax"
 News = "https://t.me/max_messenger_python"
