@@ -12,9 +12,22 @@ It is developed by VK Group.
 This is a client library for MAX, allowing to create userbots and custom clients.  
 An example of a simple userbot that retrieves weather can be found at [examples/weather-userbot](examples/weather-userbot).
 
+## Features
+- 🔐 Authentication via SMS or saved token (with custom `device_id`)
+- 💬 Send, reply, edit messages with attachments
+- 📎 Photo / video / file uploads (`vkmax.functions.uploads`)
+- 📋 Chats snapshot cached at login (`get_cached_chats`, see [SAVE_CHATS_README](SAVE_CHATS_README.md))
+- 🤖 Telegram bridge bot (see [implementation notes](TELEGRAM_BOT_IMPLEMENTATION_COMPLETE.md))
+- 🔄 Realtime WebSocket with keepalive and reconnect callback
+
 ## Installation
-The package is [available on PyPI](https://pypi.org/project/vkmax/)  
-`pip install vkmax`
+This fork is not published to PyPI under the `vkmax` name — install from source:
+```bash
+git clone -b save_chats https://github.com/huxuxuya/python-max-client.git
+cd python-max-client
+pip install -r requirements.txt
+```
+> For the original stable package use `pip install vkmax` ([nsdkinx/vkmax](https://github.com/nsdkinx/vkmax)).
 
 ## Usage
 More in [examples](examples/)
@@ -87,7 +100,7 @@ async def main():
         except:
             print("Couldn't login by token")
 
-    await client.set_callback(packet_callback)
+    client.set_packet_callback(packet_callback)
 
     await asyncio.Future()  # run forever
 
@@ -96,8 +109,26 @@ if __name__ == "__main__":
     asyncio.run(main())
 ```
 
-- [Protocol description](docs/protocol.md)
-- [Known opcodes](docs/opcodes.md)
+## API Reference
+
+### MaxClient (`vkmax.client`)
+- `connect()` / `disconnect()` - Connect/disconnect (stops keepalive and receiver)
+- `send_code(phone)` - Send SMS code, returns login token
+- `sign_in(token, code)` - Sign in with SMS code
+- `login_by_token(token, device_id=None)` - Login with saved token
+- `device_id` (property) - Device id of the current session
+- `get_cached_chats()` - Chats cached from the login response (if any)
+- `set_packet_callback(cb)` - Async incoming-packet handler
+- `set_reconnect_callback(cb)` - Async handler fired on disconnect
+- `set_callback(cb)` - Deprecated async alias of `set_packet_callback`
+
+### Functions
+- `vkmax.functions.messages` - `send_message` (with `reply_to`/`attaches`), `edit_message`, `reply_message`, `send_photo`, `send_file`
+- `vkmax.functions.uploads` - `upload_photo`, `upload_video`, `upload_file`, `download_video`, `download_file`
+- `vkmax.functions.chats` - Chat management, incl. cached-chats helpers
+- `vkmax.functions.users` / `groups` / `channels` / `profile` - Entity management
+
+## Documentation
 
 ## Original Project
 
