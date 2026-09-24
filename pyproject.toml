@@ -26,6 +26,9 @@ dependencies = [
 ]
 requires-python = ">=3.9"
 
+[tool.setuptools.packages.find]
+include = ["python_max_client*"]
+
 [project.urls]
 Homepage = "https://github.com/huxuxuya/python-max-client"
 Repository = "https://github.com/huxuxuya/python-max-client"
