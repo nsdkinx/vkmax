@@ -41,6 +41,9 @@ jobs:
     needs: test
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+    permissions:
+      contents: read
+      id-token: write   # required for PyPI Trusted Publishing (OIDC)
     
     steps:
     - uses: actions/checkout@v4
@@ -61,9 +64,6 @@ jobs:
     - name: Check package
       run: twine check dist/*
     
-    - name: Upload to PyPI
+    - name: Publish to PyPI (Trusted Publishing, OIDC)
       if: github.event_name == 'push'
-      env:
-        TWINE_USERNAME: __token__
-        TWINE_PASSWORD: ${{ secrets.PYPI_API_TOKEN }}
-      run: twine upload dist/*
+      uses: pypa/gh-action-pypi-publish@release/v1
