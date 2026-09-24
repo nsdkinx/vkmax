@@ -14,10 +14,11 @@ This is a comprehensive client library for VK MAX messenger, allowing you to cre
 The library provides a simple and intuitive API for interacting with the MAX messenger protocol.
 
 ## Features
-- 🔐 **Authentication**: Support for SMS and token-based login
-- 💬 **Messaging**: Send, receive, and edit messages
+- 🔐 **Authentication**: Support for SMS and token-based login (with custom `device_id`)
+- 💬 **Messaging**: Send, reply, edit messages with attachments
+- 📎 **Uploads**: Photos, videos and files (`python_max_client.functions.uploads`)
 - 👥 **Users & Groups**: Manage users, groups, and channels
-- 🔄 **Real-time**: WebSocket-based real-time communication
+- 🔄 **Real-time**: WebSocket-based real-time communication with keepalive and reconnect callback
 - 🛠️ **Extensible**: Easy to extend with custom functionality
 - 📱 **Userbot Support**: Create powerful userbots and automation
 
@@ -186,10 +187,15 @@ client = MaxClient()
 
 #### Methods
 - `connect()` - Connect to VK MAX servers
+- `disconnect()` - Disconnect and stop background tasks
 - `send_code(phone)` - Send SMS code to phone number
 - `sign_in(token, code)` - Sign in with SMS code
-- `login_by_token(token)` - Login with saved token
-- `set_callback(callback)` - Set message handler callback
+- `login_by_token(token, device_id=None)` - Login with saved token and optional device id
+- `device_id` (property) - Device id used for the current session
+- `get_cached_chats()` - Chats cached from the login response (if any)
+- `set_packet_callback(callback)` - Set async message handler callback
+- `set_reconnect_callback(callback)` - Set async callback fired on disconnect (for custom reconnect logic)
+- `set_callback(callback)` - Deprecated alias of `set_packet_callback`
 
 ### MaxPacket
 Data class for handling VK MAX protocol packets.
@@ -209,7 +215,8 @@ packet = MaxPacket(
 ### Functions
 The library provides various functions for different operations:
 
-- `python_max_client.functions.messages` - Message operations
+- `python_max_client.functions.messages` - Message operations (send/reply/edit, `send_photo`, `send_file`)
+- `python_max_client.functions.uploads` - File uploads/downloads (`upload_photo`, `upload_video`, `upload_file`, `download_video`, `download_file`)
 - `python_max_client.functions.users` - User management
 - `python_max_client.functions.groups` - Group operations
 - `python_max_client.functions.chats` - Chat management
